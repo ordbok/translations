@@ -2,7 +2,7 @@
 name: Suggest new translation
 about: Suggest a new translation for this project
 title: "[T] English word - translated language"
-labels: ''
+labels: Translation, Undecided
 assignees: ''
 
 ---

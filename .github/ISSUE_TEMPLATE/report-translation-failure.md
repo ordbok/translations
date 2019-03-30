@@ -1,8 +1,8 @@
 ---
 name: Report translation failure
 about: Create a report to help us improve
-title: ''
-labels: ''
+title: "[F] English word - translated language"
+labels: Failure, Help Us
 assignees: ''
 
 ---
