@@ -7,6 +7,15 @@ Tags: Noun, Neuter
 
 
 
+German
+======
+
+Words: Englisch, das Englisch
+
+Tags: Noun, Neuter
+
+
+
 New Norwegian
 =============
 
@@ -22,3 +31,12 @@ Norwegian
 Words: engelsk, engelsken
 
 Tags: Noun, Masculine
+
+
+
+Swedish
+=======
+
+Words: engelska, engelskan
+
+Tags: Noun, Neuter
