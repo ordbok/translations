@@ -1,42 +1,62 @@
 English
 =======
 
-Words: New Norwegian, the New Norwegian
+Translation: New Norwegian, the New Norwegian
+
+Search: New Norwegian, Newnorwegian, Norwegian
 
 Tags: Noun, Neuter
+
+Type: Noun
 
 
 
 German
 ======
 
-Words: Neunorwegisch, das Neunorwegisch
+Translation: Neunorwegisch, das Neunorwegisch
+
+Search: Neunorwegisch
 
 Tags: Noun, Neuter
+
+Type: Noun
 
 
 
 New Norwegian
 =============
 
-Words: nynorsk, nynorsken
+Translation: nynorsk, nynorsken
+
+Search: nynorsk, nynorsken
 
 Tags: Noun, Masculine
+
+Type: Noun
 
 
 
 Norwegian
 =========
 
-Words: nynorsk, nynorsken
+Translation: nynorsk, nynorsken
+
+Search: nynorsk, nynorsken
 
 Tags: Noun, Masculine
+
+Type: Noun
 
 
 
 Swedish
 =======
 
-Words: nynorska, nynorskan
+Translation: nynorska, nynorskan
+
+Search: nynorska, nynorskan
 
 Tags: Noun, Neuter
+
+Type: Noun

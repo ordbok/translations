@@ -1,42 +1,62 @@
 English
 =======
 
-Words: Norwegian, the Norwegian
+Translation: Norwegian, the Norwegian
+
+Search: Norwegian
 
 Tags: Noun, Neuter
+
+Type: Noun
 
 
 
 German
-========
+======
 
-Words: Norwegisch, das Norwegisch
+Translation: Norwegisch, das Norwegisch
+
+Search: Norwegisch
 
 Tags: Noun, Neuter
+
+Type: Noun
 
 
 
 New Norwegian
 =============
 
-Words: norsk, norsken
+Translation: norsk, norsken
+
+Search: norsk, norsken
 
 Tags: Noun, Masculine
+
+Type: Noun
 
 
 
 Norwegian
 =========
 
-Words: norsk, norsken
+Translation: norsk, norsken
+
+Search: norsk, norsken
 
 Tags: Noun, Masculine
+
+Type: Noun
 
 
 
 Swedish
 =======
 
-Words: norska, norskan
+Translation: norska, norskan
+
+Search: norska, norskan
 
 Tags: Noun, Neuter
+
+Type: Noun

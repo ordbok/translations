@@ -1,42 +1,62 @@
 English
 =======
 
-Words: English, the English
+Translation: English, the English
+
+Search: English
 
 Tags: Noun, Neuter
+
+Type: Noun
 
 
 
 German
 ======
 
-Words: Englisch, das Englisch
+Translation: Englisch, das Englisch
+
+Search: Englisch
 
 Tags: Noun, Neuter
+
+Type: Noun
 
 
 
 New Norwegian
 =============
 
-Words: engelsk, engelsken
+Translation: engelsk, engelsken
+
+Search: engelsk, engelsken
 
 Tags: Noun, Masculine
+
+Type: Noun
 
 
 
 Norwegian
 =========
 
-Words: engelsk, engelsken
+Translation: engelsk, engelsken
+
+Search: engelsk, engelsken
 
 Tags: Noun, Masculine
+
+Type: Noun
 
 
 
 Swedish
 =======
 
-Words: engelska, engelskan
+Translation: engelska, engelskan
+
+Search: engelska, engelskan
 
 Tags: Noun, Neuter
+
+Type: Noun
