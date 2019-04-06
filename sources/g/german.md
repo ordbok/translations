@@ -1,9 +1,10 @@
+
 English
 =======
 
-Translation: Norwegian, the Norwegian
+Translation: German, the German
 
-Search: Norwegian
+Search: German
 
 Tags: Noun, Neuter
 
@@ -14,9 +15,9 @@ Type: Noun
 German
 ======
 
-Translation: Norwegisch, das Norwegisch
+Translation: Deutsch, das Deutsch
 
-Search: Norwegisch
+Search: Deutsch
 
 Tags: Noun, Neuter
 
@@ -27,9 +28,9 @@ Type: Noun
 New Norwegian
 =============
 
-Translation: norsk, norsken
+Translation: tysk, tysken
 
-Search: norsk, norsken
+Search: tysk, tysken
 
 Tags: Noun, Masculine
 
@@ -40,9 +41,9 @@ Type: Noun
 Norwegian
 =========
 
-Translation: norsk, norsken
+Translation: tysk, tysken
 
-Search: norsk, norsken
+Search: tysk, tysken
 
 Tags: Noun, Masculine
 
@@ -53,9 +54,9 @@ Type: Noun
 Swedish
 =======
 
-Translation: norska, norskan
+Translation: tyska, tyskan
 
-Search: norska, norskan
+Search: tyska, tyskan
 
 Tags: Noun, Neuter
 
