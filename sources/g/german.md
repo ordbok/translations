@@ -58,6 +58,6 @@ Translation: tyska, tyskan
 
 Search: tyska, tyskan
 
-Tags: Noun, Neuter
+Tags: Noun, Common
 
 Type: Noun
