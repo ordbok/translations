@@ -1,62 +1,140 @@
 English
 =======
 
-Translation: a, a, a
+Translation: a
 
-Search: a
-
-Tags: Determiner
-
-Type: Determiner
+Grammar: Determiner, Neuter
 
 
 
 German
 ======
 
-Translation: ein, eine, ein
+Translation: eine
 
-Search: ein, eine
-
-Tags: Determiner
-
-Type: Determiner
+Grammar: Determiner, Feminine
 
 
 
 New Norwegian
 =============
 
-Translation: ein, ei, eit
+Translation: ei
 
-Search: ei, ein, eit
-
-Tags: Determiner
-
-Type: Determiner
+Grammar: Determiner, Feminine
 
 
 
 Norwegian
 =========
 
-Translation: en, ei, et
+Translation: ei
 
-Search: ei, en, et
-
-Tags: Determiner
-
-Type: Determiner
+Grammar: Determiner, Feminine
 
 
 
 Swedish
 =======
 
-Translation: en, en, ett
+Translation: en
 
-Search: en, ett
+Grammar: Determiner, Common
 
-Tags: Determiner
 
-Type: Determiner
+
+--------------------------------------------------------------------------------
+
+
+
+English
+=======
+
+Translation: a
+
+Grammar: Determiner, Neuter
+
+
+
+German
+======
+
+Translation: ein
+
+Grammar: Determiner, Masculine
+
+
+
+New Norwegian
+=============
+
+Translation: ein
+
+Grammar: Determiner, Masculine
+
+
+
+Norwegian
+=========
+
+Translation: en
+
+Grammar: Determiner, Masculine
+
+
+
+Swedish
+=======
+
+Translation: en
+
+Grammar: Determiner, Common
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+English
+=======
+
+Translation: a
+
+Grammar: Determiner, Neuter
+
+
+
+German
+======
+
+Translation: ein
+
+Grammar: Determiner, Neuter
+
+
+
+New Norwegian
+=============
+
+Translation: eit
+
+Grammar: Determiner, Neuter
+
+
+
+Norwegian
+=========
+
+Translation: et
+
+Grammar: Determiner, Neuter
+
+
+
+Swedish
+=======
+
+Translation: ett
+
+Grammar: Determiner, Neuter
