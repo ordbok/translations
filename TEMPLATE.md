@@ -1,12 +1,21 @@
 Language
 ========
 
-Translation: Singular Indefinite, Singular Definite,
+Translation:
+
+Grammar: Adjective
+
+--------------------------------------------------------------------------------
+
+Language
+========
+
+Translation: Indefinite, Definite,
              Plural Indefinite, Plural Definite
 
-Tags: Noun, Masculine/Feminine/Neuter/Common/Animate/Inanimate
+Grammar: Noun, Masculine/Feminine/Neuter/Common/Animate/Inanimate
 
----
+--------------------------------------------------------------------------------
 
 Language
 ========
@@ -14,4 +23,4 @@ Language
 Translation: Singular First Person, Singular Second Person, Singular Third Person,
              Plural First Person, Plural Second Person, Plural Third Person
 
-Tags: Verb, Infinitive/Present/Perfect/Future/Pluperfect/Future Perfect
+Grammar: Verb, Infinitive/Present/Perfect/Future/Pluperfect/Future Perfect
