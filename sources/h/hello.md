@@ -4,11 +4,7 @@ English
 
 Translation: hello
 
-Search: hello
-
-Tags: Interjection
-
-Type: Interjection
+Grammar: Phrase
 
 
 
@@ -17,11 +13,7 @@ German
 
 Translation: hallo
 
-Search: hallo
-
-Tags: Interjection
-
-Type: Interjection
+Grammar: Phrase
 
 
 
@@ -30,11 +22,7 @@ New Norwegian
 
 Translation: hallo
 
-Search: hallo
-
-Tags: Interjection
-
-Type: Interjection
+Grammar: Phrase
 
 
 
@@ -43,11 +31,7 @@ Norwegian
 
 Translation: hallo
 
-Search: hallo
-
-Tags: Interjection
-
-Type: Interjection
+Grammar: Phrase
 
 
 
@@ -56,8 +40,4 @@ Swedish
 
 Translation: hallå
 
-Search: hallå, hallaa, halla
-
-Tags: Interjection
-
-Type: Interjection
+Grammar: Phrase
