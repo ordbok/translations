@@ -3,7 +3,7 @@ English
 
 Translation: you
 
-Grammar: Pronoun, Common, First Person, Plural
+Grammar: Pronoun, Common, Second Person, Singular
 
 
 
@@ -12,16 +12,16 @@ German
 
 Translation: du
 
-Grammar: Pronoun, Common, First Person, Plural
+Grammar: Pronoun, Common, Second Person, Singular
 
 
 
-New Norwegan
-============
+New Norwegian
+=============
 
 Translation: du
 
-Grammar: Pronoun, Common, First Person, Plural
+Grammar: Pronoun, Common, Second Person, Singular
 
 
 
@@ -30,7 +30,7 @@ Norwegian
 
 Translation: du
 
-Grammar: Pronoun, Common, First Person, Plural
+Grammar: Pronoun, Common, Second Person, Singular
 
 
 
@@ -39,7 +39,7 @@ Swedish
 
 Translation: du
 
-Grammar: Pronoun, Common, First Person, Plural
+Grammar: Pronoun, Common, Second Person, Singular
 
 
 
