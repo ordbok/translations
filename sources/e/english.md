@@ -101,7 +101,7 @@ English
 
 Translation: english
 
-Grammar: Adjective, Common, Singular
+Grammar: Adjective, Common, Singular, Positive
 
 
 
@@ -110,7 +110,7 @@ German
 
 Translation: englisch
 
-Grammar: Adjective, Common, Singular
+Grammar: Adjective, Common, Singular, Positive
 
 
 
@@ -119,7 +119,7 @@ New Norwegian
 
 Translation: engelsk
 
-Grammar: Adjective, Common, Singular
+Grammar: Adjective, Common, Singular, Positive
 
 
 
@@ -128,7 +128,7 @@ Norwegian
 
 Translation: engelsk
 
-Grammar: Adjective, Common, Singular
+Grammar: Adjective, Common, Singular, Positive
 
 
 
@@ -137,7 +137,7 @@ Swedish
 
 Translation: engelsk
 
-Grammar: Adjective, Common, Singular
+Grammar: Adjective, Common, Singular, Positive
 
 
 
@@ -150,7 +150,7 @@ English
 
 Translation: english
 
-Grammar: Adjective, Common, Singular
+Grammar: Adjective, Feminine, Singular
 
 
 
@@ -199,7 +199,7 @@ English
 
 Translation: english
 
-Grammar: Adjective, Common, Singular
+Grammar: Adjective, Masculine, Singular
 
 
 
@@ -248,7 +248,7 @@ English
 
 Translation: english
 
-Grammar: Adjective, Common, Singular
+Grammar: Adjective, Neuter, Singular
 
 
 
