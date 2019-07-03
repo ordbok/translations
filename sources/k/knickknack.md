@@ -1,42 +1,91 @@
 English
 =======
 
-Translation: knickknack, the knickknack
+Translation: knickknack
 
-Tags: Noun, Neuter
+Grammar: Noun, Neuter, Singular, Plural, Indefinite
 
 
 
 German
 ======
 
-Translation: Krimskrams, der Krimskrams
+Translation: Krimskrams
 
-Tags: Noun, Masculine
+Grammar: Noun, Masculine, Singular, Plural, Indefinite
 
 
 
 New Norwegian
 =============
 
-Translation: snikksnakk, snikksnakket
+Translation: snikksnakk
 
-Tags: Noun, Neuter
+Grammar: Noun, Neuter, Singular, Plural, Indefinite
 
 
 
 Norwegian
 =========
 
-Translation: dilldall, dilldallet
+Translation: dilldall
 
-Tags: Noun, Neuter
+Grammar: Noun, Neuter, Singular, Plural, Indefinite
 
 
 
 Swedish
 =======
 
-Translation: krimskrams, krimskramset
+Translation: krimskrams
 
-Tags: Noun, Neuter
+Grammar: Noun, Neuter, Singular, Plural, Indefinite
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+English
+=======
+
+Translation: the knickknack
+
+Grammar: Noun, Neuter, Singular, Plural, Definite
+
+
+
+German
+======
+
+Translation: der Krimskrams
+
+Grammar: Noun, Masculine, Singular, Plural, Definite
+
+
+
+New Norwegian
+=============
+
+Translation: snikksnakket
+
+Grammar: Noun, Neuter, Singular, Plural, Definite
+
+
+
+Norwegian
+=========
+
+Translation: dilldallet
+
+Grammar: Noun, Neuter, Singular, Plural, Definite
+
+
+
+Swedish
+=======
+
+Translation: krimskramset
+
+Grammar: Noun, Neuter, Singular, Plural, Definite
