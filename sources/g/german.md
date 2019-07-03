@@ -4,7 +4,7 @@ English
 
 Translation: German
 
-Grammar: Noun, Neuter, Singular, Indefinite
+Grammar: Noun, Neuter, Singular, Plural, Indefinite
 
 
 
@@ -13,7 +13,7 @@ German
 
 Translation: Deutsch,
 
-Grammar: Noun, Neuter, Singular, Indefinite
+Grammar: Noun, Neuter, Singular, Plural, Indefinite
 
 
 
@@ -22,7 +22,7 @@ New Norwegian
 
 Translation: tysk
 
-Grammar: Noun, Masculine, Singular, Indefinite
+Grammar: Noun, Masculine, Singular, Plural, Indefinite
 
 
 
@@ -31,7 +31,7 @@ Norwegian
 
 Translation: tysk
 
-Grammar: Noun, Masculine, Singular, Indefinite
+Grammar: Noun, Masculine, Singular, Plural, Indefinite
 
 
 
@@ -40,7 +40,7 @@ Swedish
 
 Translation: tyska
 
-Grammar: Noun, Common, Singular, Indefinite
+Grammar: Noun, Common, Singular, Plural, Indefinite
 
 
 
@@ -54,7 +54,7 @@ English
 
 Translation: the German
 
-Grammar: Noun, Neuter, Singular, Definite
+Grammar: Noun, Neuter, Singular, Plural, Definite
 
 
 
@@ -63,7 +63,7 @@ German
 
 Translation: das Deutsch
 
-Grammar: Noun, Neuter, Singular, Definite
+Grammar: Noun, Neuter, Singular, Plural, Definite
 
 
 
@@ -72,7 +72,7 @@ New Norwegian
 
 Translation: tysken
 
-Grammar: Noun, Masculine, Singular, Definite
+Grammar: Noun, Masculine, Singular, Plural, Definite
 
 
 
@@ -81,7 +81,7 @@ Norwegian
 
 Translation: tysken
 
-Grammar: Noun, Masculine, Singular, Definite
+Grammar: Noun, Masculine, Singular, Plural, Definite
 
 
 
@@ -90,7 +90,7 @@ Swedish
 
 Translation: tyskan
 
-Grammar: Noun, Common, Singular, Definite
+Grammar: Noun, Common, Singular, Plural, Definite
 
 Type: Noun
 
