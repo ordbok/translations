@@ -3,7 +3,7 @@ English
 
 Translation: English
 
-Grammar: Noun, Neuter, Singular, Indefinite
+Grammar: Noun, Neuter, Singular, Plural, Indefinite
 
 
 
@@ -12,7 +12,7 @@ German
 
 Translation: Englisch
 
-Grammar: Noun, Neuter, Singular, Indefinite
+Grammar: Noun, Neuter, Singular, Plural, Indefinite
 
 
 
@@ -21,7 +21,7 @@ New Norwegian
 
 Translation: engelsk
 
-Grammar: Noun, Masculine, Singular, Indefinite
+Grammar: Noun, Masculine, Singular, Plural, Indefinite
 
 
 
@@ -30,7 +30,7 @@ Norwegian
 
 Translation: engelsk
 
-Grammar: Noun, Masculine, Singular, Indefinite
+Grammar: Noun, Masculine, Singular, Plural, Indefinite
 
 
 
@@ -39,7 +39,7 @@ Swedish
 
 Translation: engelska
 
-Grammar: Noun, Neuter, Singular, Indefinite
+Grammar: Noun, Neuter, Singular, Plural, Indefinite
 
 
 
@@ -52,7 +52,7 @@ English
 
 Translation: the English
 
-Grammar: Noun, Neuter, Singular, Definite
+Grammar: Noun, Neuter, Singular, Plural, Definite
 
 
 
@@ -61,7 +61,7 @@ German
 
 Translation: das Englisch
 
-Grammar: Noun, Neuter, Singular, Definite
+Grammar: Noun, Neuter, Singular, Plural, Definite
 
 
 
@@ -70,7 +70,7 @@ New Norwegian
 
 Translation: engelsken
 
-Grammar: Noun, Masculine, Singular, Definite
+Grammar: Noun, Masculine, Singular, Plural, Definite
 
 
 
@@ -79,7 +79,7 @@ Norwegian
 
 Translation: engelsken
 
-Grammar: Noun, Masculine, Singular, Definite
+Grammar: Noun, Masculine, Singular, Plural, Definite
 
 
 
@@ -88,7 +88,7 @@ Swedish
 
 Translation: engelskan
 
-Grammar: Noun, Neuter, Singular, Definite
+Grammar: Noun, Neuter, Singular, Plural, Definite
 
 
 
