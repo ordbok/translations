@@ -93,9 +93,9 @@ Grammatical Tense
 
 - Infinitive
 
-- Past Perfect
+- Past
 
-- Pluperfect
+- Past Perfect
 
 - Present
 
