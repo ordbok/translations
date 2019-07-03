@@ -1,62 +1,91 @@
 English
 =======
 
-Translation: New Norwegian, the New Norwegian
+Translation: New Norwegian
 
-Search: New Norwegian, Newnorwegian, Norwegian
-
-Tags: Noun, Neuter
-
-Type: Noun
+Grammar: Noun, Neuter, Singular, Plural, Indefinite
 
 
 
 German
 ======
 
-Translation: Neunorwegisch, das Neunorwegisch
+Translation: Neunorwegisch
 
-Search: Neunorwegisch
-
-Tags: Noun, Neuter
-
-Type: Noun
+Grammar: Noun, Neuter, Singular, Plural, Indefinite
 
 
 
 New Norwegian
 =============
 
-Translation: nynorsk, nynorsken
+Translation: nynorsk
 
-Search: nynorsk, nynorsken
-
-Tags: Noun, Masculine
-
-Type: Noun
+Grammar: Noun, Masculine, Singular, Plural, Indefinite
 
 
 
 Norwegian
 =========
 
-Translation: nynorsk, nynorsken
+Translation: nynorsk
 
-Search: nynorsk, nynorsken
-
-Tags: Noun, Masculine
-
-Type: Noun
+Grammar: Noun, Masculine, Singular, Plural, Indefinite
 
 
 
 Swedish
 =======
 
-Translation: nynorska, nynorskan
+Translation: nynorska
 
-Search: nynorska, nynorskan
+Grammar: Noun, Neuter, Singular, Plural, Indefinite
 
-Tags: Noun, Neuter
 
-Type: Noun
+
+--------------------------------------------------------------------------------
+
+
+
+English
+=======
+
+Translation: the New Norwegian
+
+Grammar: Noun, Neuter, Singular, Plural, Definite
+
+
+
+German
+======
+
+Translation: das Neunorwegisch
+
+Grammar: Noun, Neuter, Singular, Plural, Definite
+
+
+
+New Norwegian
+=============
+
+Translation: nynorsken
+
+Grammar: Noun, Masculine, Singular, Plural, Definite
+
+
+
+Norwegian
+=========
+
+Translation: nynorsken
+
+Grammar: Noun, Masculine, Singular, Plural, Definite
+
+
+
+Swedish
+=======
+
+Translation: nynorskan
+
+Grammar: Noun, Neuter, Singular, Plural, Definite
