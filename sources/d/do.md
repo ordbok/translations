@@ -3,7 +3,7 @@ English
 
 Translation: do
 
-Grammar: Verb, Infinitive, Common, Singular
+Grammar: Verb, Infinitive, Common
 
 
 
@@ -12,7 +12,7 @@ German
 
 Translation: tun
 
-Grammar: Verb, Infinitive, Common, Singular
+Grammar: Verb, Infinitive, Common
 
 
 
@@ -21,7 +21,7 @@ New Norwegian
 
 Translation: gjere
 
-Grammar: Verb, Infinitive, Common, Singular
+Grammar: Verb, Infinitive, Common
 
 
 
@@ -30,7 +30,7 @@ Norwegian
 
 Translation: gjøre
 
-Grammar: Verb, Infinitive, Common, Singular
+Grammar: Verb, Infinitive, Common
 
 
 
@@ -39,7 +39,7 @@ Swedish
 
 Translation: göra
 
-Grammar: Verb, Infinitive, Common, Singular
+Grammar: Verb, Infinitive, Common
 
 
 
