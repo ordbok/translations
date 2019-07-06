@@ -2,50 +2,36 @@
 English
 =======
 
-Translation: Swedish, the Swedish
+Translation: Swedish
 
-Search: Swedish
-
-Tags: Noun, Neuter
-
-Type: Noun
+Grammar: Noun, Neuter, Singular, Plural, Indefinite
 
 
 
 German
 ======
 
-Translation: Schwedisch, das Schwedisch
+Translation: Schwedisch
 
-Search: Schwedisch
-
-Tags: Noun, Neuter
-
-Type: Noun
+Grammar: Noun, Neuter, Singular, Plural, Indefinite
 
 
 
 New Norwegian
 =============
 
-Translation: svensk, svensken
+Translation: svensk
 
-Search: svensk, svensken
-
-Tags: Noun, Masculine
-
-Type: Noun
+Grammar: Noun, Masculine, Singular, Plural, Indefinite
 
 
 
 Norwegian
 =========
 
-Translation: svensk, svensken
+Translation: svensk
 
-Search: svensk, svensken
-
-Tags: Noun, Masculine
+Grammar: Noun, Masculine, Singular, Plural, Indefinite
 
 Type: Noun
 
@@ -54,10 +40,56 @@ Type: Noun
 Swedish
 =======
 
-Translation: svenska, svenskan
+Translation: svenska
 
-Search: svenska, svenskan
+Grammar: Noun, Neuter, Singular, Plural, Indefinite
 
-Tags: Noun, Neuter
 
-Type: Noun
+
+--------------------------------------------------------------------------------
+
+
+
+
+English
+=======
+
+Translation: the Swedish
+
+Grammar: Noun, Neuter, Singular, Plural, Definite
+
+
+
+German
+======
+
+Translation: das Schwedisch
+
+Grammar: Noun, Neuter, Singular, Plural, Definite
+
+
+
+New Norwegian
+=============
+
+Translation: svensken
+
+Grammar: Noun, Masculine, Singular, Plural, Definite
+
+
+
+Norwegian
+=========
+
+Translation: svensken
+
+Grammar: Noun, Masculine, Singular, Plural, Definite
+
+
+
+Swedish
+=======
+
+Translation: svenskan
+
+Grammar: Noun, Neuter, Singular, Plural, Definite
