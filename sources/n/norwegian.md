@@ -1,62 +1,91 @@
 English
 =======
 
-Translation: Norwegian, the Norwegian
+Translation: Norwegian
 
-Search: Norwegian
-
-Tags: Noun, Neuter
-
-Type: Noun
+Grammar: Noun, Neuter, Singular, Plural, Indefinite
 
 
 
 German
 ======
 
-Translation: Norwegisch, das Norwegisch
+Translation: Norwegisch
 
-Search: Norwegisch
-
-Tags: Noun, Neuter
-
-Type: Noun
+Grammar: Noun, Neuter, Singular, Plural, Indefinite
 
 
 
 New Norwegian
 =============
 
-Translation: norsk, norsken
+Translation: norsk
 
-Search: norsk, norsken
-
-Tags: Noun, Masculine
-
-Type: Noun
+German: Noun, Masculine, Singular, Plural, Indefinite
 
 
 
 Norwegian
 =========
 
-Translation: norsk, norsken
+Translation: norsk
 
-Search: norsk, norsken
-
-Tags: Noun, Masculine
-
-Type: Noun
+German: Noun, Masculine, Singular, Plural, Indefinite
 
 
 
 Swedish
 =======
 
-Translation: norska, norskan
+Translation: norska
 
-Search: norska, norskan
+German: Noun, Neuter, Singular, Plural, Indefinite
 
-Tags: Noun, Neuter
 
-Type: Noun
+
+--------------------------------------------------------------------------------
+
+
+
+English
+=======
+
+Translation: the Norwegian
+
+German: Noun, Neuter, Singular, Plural, Definite
+
+
+
+German
+======
+
+Translation: das Norwegisch
+
+German: Noun, Neuter, Singular, Plural, Definite
+
+
+
+New Norwegian
+=============
+
+Translation: norsken
+
+German: Noun, Masculine, Singular, Plural, Definite
+
+
+
+Norwegian
+=========
+
+Translation: norsken
+
+German: Noun, Masculine, Singular, Plural, Definite
+
+
+
+Swedish
+=======
+
+Translation: norskan
+
+German: Noun, Neuter, Singular, Plural, Definite
