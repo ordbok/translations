@@ -3,11 +3,7 @@ English
 
 Translation: yes
 
-Search: yes
-
-Tags: Functor
-
-Type: Functor
+Grammar: Functor
 
 
 
@@ -16,11 +12,7 @@ German
 
 Translation: ja
 
-Search: ja
-
-Tags: Functor
-
-Type: Functor
+Grammar: Functor
 
 
 
@@ -29,11 +21,7 @@ New Norwegian
 
 Translation: ja
 
-Search: ja
-
-Tags: Functor
-
-Type: Functor
+Grammar: Functor
 
 
 
@@ -42,11 +30,7 @@ Norwegian
 
 Translation: ja
 
-Search: ja
-
-Tags: Functor
-
-Type: Functor
+Grammar: Functor
 
 
 
@@ -55,8 +39,4 @@ Swedish
 
 Translation: ja
 
-Search: ja
-
-Tags: Functor
-
-Type: Functor
+Grammar: Functor
