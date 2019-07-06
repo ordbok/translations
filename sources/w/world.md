@@ -1,63 +1,189 @@
-
 English
 =======
 
-Translation: (a) world, the world, worlds, the worlds
+Translation: (a) world
 
-Search: world, worlds
-
-Tags: Noun, Neuter
-
-Type: Noun
+Grammar: Noun, Neuter, Singular, Indefinite
 
 
 
 German
 ======
 
-Translation: (eine) Welt, die Welten, Welten, die Welten
+Translation: (eine) Welt
 
-Search: Welt, Welten
-
-Tags: Noun, Feminine
-
-Type: Noun
+Tags: Noun, Feminine, Singular, Indefinite
 
 
 
 New Norwegian
 =============
 
-Translation: (ein) verd, verden, verdar, verdane
+Translation: (ein) verd
 
-Search: verd, verden, verdar, verdane
-
-Tags: Noun, Masculine
-
-Type: Noun
+Grammar: Noun, Masculine, Singular, Indefinite
 
 
 
 Norwegian
 =========
 
-Translation: (en) verden, verdenen, verdener, verdenene
+Translation: (en) verden
 
-Search: verden, verdenen, verdener, verdenene
-
-Tags: Noun, Masculine
-
-Type: Noun
+Grammar: Noun, Masculine, Singular, Indefinite
 
 
 
 Swedish
 =======
 
-Translation: (en) värld, världen, världar, världarna
+Translation: (en) värld
 
-Search: värld, vaerld, varld, världen, vaerlden, varlden, världar, vaerldar, varldar, världarna, vaerldarna, varldarna
+Grammar: Noun, Masculine, Singular, Indefinite
 
-Tags: Noun, Masculine
 
-Type: Noun
+
+--------------------------------------------------------------------------------
+
+
+
+English
+=======
+
+Translation: the world
+
+Grammar: Noun, Neuter, Singular, Definite
+
+
+
+German
+======
+
+Translation: die Welt
+
+Grammar: Noun, Feminine, Singular, Definite
+
+
+
+New Norwegian
+=============
+
+Translation: verden
+
+Grammar: Noun, Masculine, Singular, Definite
+
+
+
+Norwegian
+=========
+
+Translation: verdenen
+
+Grammar: Noun, Masculine, Singular, Definite
+
+
+
+Swedish
+=======
+
+Translation: världen
+
+Grammar: Noun, Masculine, Singular, Definite
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+English
+=======
+
+Translation: worlds
+
+Grammar: Noun, Neuter, Plural, Indefinite
+
+
+
+German
+======
+
+Translation: Welten
+
+Grammar: Noun, Feminine, Plural, Indefinite
+
+
+
+New Norwegian
+=============
+
+Translation: verdar
+
+Grammar: Noun, Masculine, Plural, Indefinite
+
+
+
+Norwegian
+=========
+
+Translation: verdener
+
+Grammar: Noun, Masculine, Plural, Indefinite
+
+
+
+Swedish
+=======
+
+Translation: världar
+
+Tags: Noun, Masculine, Plural, Indefinite
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+English
+=======
+
+Translation: the worlds
+
+Grammar: Noun, Neuter, Plural, Definite
+
+
+
+German
+======
+
+Translation: die Welten
+
+Grammar: Noun, Feminine, Plural, Definite
+
+
+
+New Norwegian
+=============
+
+Translation: verdane
+
+Grammar: Noun, Masculine, Plural, Definite
+
+
+
+Norwegian
+=========
+
+Translation: verdenene
+
+Grammar: Noun, Masculine, Plural, Definite
+
+
+
+Swedish
+=======
+
+Translation: världarna
+
+Grammar: Noun, Masculine, Plural, Definite
