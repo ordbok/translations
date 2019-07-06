@@ -3,11 +3,7 @@ English
 
 Translation: no
 
-Search: no
-
-Tags: Functor
-
-Type: Functor
+Grammar: Functor
 
 
 
@@ -16,11 +12,7 @@ German
 
 Translation: nein
 
-Search: nein
-
-Tags: Functor
-
-Type: Functor
+Grammar: Functor
 
 
 
@@ -29,11 +21,7 @@ New Norwegian
 
 Translation: nei
 
-Search: nei
-
-Tags: Functor
-
-Type: Functor
+Grammar: Functor
 
 
 
@@ -42,11 +30,7 @@ Norwegian
 
 Translation: nei
 
-Search: nei
-
-Tags: Functor
-
-Type: Functor
+Grammar: Functor
 
 
 
@@ -55,8 +39,4 @@ Swedish
 
 Translation: nej
 
-Search: nej
-
-Tags: Functor
-
-Type: Functor
+Grammar: Functor
