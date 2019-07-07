@@ -3,7 +3,7 @@ English
 
 Translation: no
 
-Grammar: Determiner
+Grammar: Phrase
 
 
 
@@ -12,7 +12,7 @@ German
 
 Translation: nein
 
-Grammar: Determiner
+Grammar: Phrase
 
 
 
@@ -21,7 +21,7 @@ New Norwegian
 
 Translation: nei
 
-Grammar: Determiner
+Grammar: Phrase
 
 
 
@@ -30,7 +30,7 @@ Norwegian
 
 Translation: nei
 
-Grammar: Determiner
+Grammar: Phrase
 
 
 
@@ -39,4 +39,4 @@ Swedish
 
 Translation: nej
 
-Grammar: Determiner
+Grammar: Phrase
