@@ -1,5 +1,5 @@
 ---
-name: Suggest new translation
+name: Suggest other translation
 about: Suggest a new translation for this project
 title: "[T] English word - translated language"
 labels: Translation, Undecided
