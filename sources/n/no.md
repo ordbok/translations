@@ -3,7 +3,7 @@ English
 
 Translation: no
 
-Grammar: Functor
+Grammar: Determiner
 
 
 
@@ -12,7 +12,7 @@ German
 
 Translation: nein
 
-Grammar: Functor
+Grammar: Determiner
 
 
 
@@ -21,7 +21,7 @@ New Norwegian
 
 Translation: nei
 
-Grammar: Functor
+Grammar: Determiner
 
 
 
@@ -30,7 +30,7 @@ Norwegian
 
 Translation: nei
 
-Grammar: Functor
+Grammar: Determiner
 
 
 
@@ -39,4 +39,4 @@ Swedish
 
 Translation: nej
 
-Grammar: Functor
+Grammar: Determiner
