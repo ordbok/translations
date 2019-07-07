@@ -26,17 +26,13 @@ Grammatical Comparison:
 
 Grammatical Gender:
 
-- [ ] Masculine
+- [ ] Common
 
 - [ ] Feminine
 
+- [ ] Masculine
+
 - [ ] Neuter
-
-- [ ] Common
-
-- [ ] Animate
-
-- [ ] Inanimate
 
 Grammatical Plurals:
 
@@ -71,17 +67,13 @@ Grammatical Comparison:
 
 Grammatical Gender:
 
-- [ ] Masculine
+- [ ] Common
 
 - [ ] Feminine
 
+- [ ] Masculine
+
 - [ ] Neuter
-
-- [ ] Common
-
-- [ ] Animate
-
-- [ ] Inanimate
 
 Grammatical Plurals:
 
