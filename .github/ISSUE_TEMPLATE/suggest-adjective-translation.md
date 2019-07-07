@@ -1,7 +1,7 @@
 ---
 name: Suggest adjective translation
 about: Suggest a adjective translation for this project
-title: "[T] <English adjective> - <translated language>"
+title: "[T] <English adjective> - <Language>"
 labels: Translation, Undecided
 assignees: ''
 
