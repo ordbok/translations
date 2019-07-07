@@ -12,6 +12,10 @@ English
 
 Translation: …
 
+Grammatical Type:
+
+- [x] Adjective
+
 Grammatical Comparison:
 
 - [ ] Positive
@@ -40,6 +44,53 @@ Grammatical Plurals:
 
 - [ ] Singular
 
+Grammatical Definiteness:
+
+- [ ] Definite
+
+- [ ] Indefinite
+
+
+
+<Language>
+==========
+
+Translation: …
+
 Grammatical Type:
 
 - [x] Adjective
+
+Grammatical Comparison:
+
+- [ ] Positive
+
+- [ ] Comparative
+
+- [ ] Superlative
+
+Grammatical Gender:
+
+- [ ] Masculine
+
+- [ ] Feminine
+
+- [ ] Neuter
+
+- [ ] Common
+
+- [ ] Animate
+
+- [ ] Inanimate
+
+Grammatical Plurals:
+
+- [ ] Plural
+
+- [ ] Singular
+
+Grammatical Definiteness:
+
+- [ ] Definite
+
+- [ ] Indefinite
