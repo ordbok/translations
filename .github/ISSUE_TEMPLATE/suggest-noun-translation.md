@@ -18,17 +18,13 @@ Grammatical Type:
 
 Grammatical Gender:
 
-- [ ] Masculine
+- [ ] Common
 
 - [ ] Feminine
 
+- [ ] Masculine
+
 - [ ] Neuter
-
-- [ ] Common
-
-- [ ] Animate
-
-- [ ] Inanimate
 
 Grammatical Plurals:
 
@@ -55,17 +51,13 @@ Grammatical Type:
 
 Grammatical Gender:
 
-- [ ] Masculine
+- [ ] Common
 
 - [ ] Feminine
 
+- [ ] Masculine
+
 - [ ] Neuter
-
-- [ ] Common
-
-- [ ] Animate
-
-- [ ] Inanimate
 
 Grammatical Plurals:
 
