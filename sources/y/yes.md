@@ -3,7 +3,7 @@ English
 
 Translation: yes
 
-Grammar: Functor
+Grammar: Determiner
 
 
 
@@ -12,7 +12,7 @@ German
 
 Translation: ja
 
-Grammar: Functor
+Grammar: Determiner
 
 
 
@@ -21,7 +21,7 @@ New Norwegian
 
 Translation: ja
 
-Grammar: Functor
+Grammar: Determiner
 
 
 
@@ -30,7 +30,7 @@ Norwegian
 
 Translation: ja
 
-Grammar: Functor
+Grammar: Determiner
 
 
 
@@ -39,4 +39,4 @@ Swedish
 
 Translation: ja
 
-Grammar: Functor
+Grammar: Determiner
