@@ -3,7 +3,7 @@ English
 
 Translation: more
 
-Grammar: Determiner, Comparative, Common, Singular, Indefinite
+Grammar: Determiner, Comparative, Common, Plural, Indefinite
 
 
 
@@ -12,7 +12,7 @@ German
 
 Translation: mehr
 
-Grammar: Determiner, Comparative, Common, Singular, Indefinite
+Grammar: Determiner, Comparative, Common, Plural, Indefinite
 
 
 
@@ -21,7 +21,7 @@ New Norwegian
 
 Translation: meir
 
-Grammar: Determiner, Comparative, Common, Singular, Indefinite
+Grammar: Determiner, Comparative, Common, Plural, Indefinite
 
 
 
@@ -30,7 +30,7 @@ Norwegian
 
 Translation: mer
 
-Grammar: Determiner, Comparative, Common, Singular, Indefinite
+Grammar: Determiner, Comparative, Common, Plural, Indefinite
 
 
 
@@ -39,7 +39,7 @@ Swedish
 
 Translation: mer
 
-Grammar: Determiner, Comparative, Common, Singular, Indefinite
+Grammar: Determiner, Comparative, Common, Plural, Indefinite
 
 
 
@@ -68,7 +68,7 @@ Grammar: Determiner, Comparative, Common, Plural, Definite
 New Norwegian
 =============
 
-Translation: meir
+Translation: fleire
 
 Grammar: Determiner, Comparative, Common, Plural, Definite
 
@@ -77,7 +77,7 @@ Grammar: Determiner, Comparative, Common, Plural, Definite
 Norwegian
 =========
 
-Translation: mer
+Translation: flere
 
 Grammar: Determiner, Comparative, Common, Plural, Definite
 
@@ -86,6 +86,6 @@ Grammar: Determiner, Comparative, Common, Plural, Definite
 Swedish
 =======
 
-Translation: mer
+Translation: fler
 
 Grammar: Determiner, Comparative, Common, Plural, Definite
