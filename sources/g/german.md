@@ -1,340 +1,220 @@
+Defaults
+========
+
+Structure: Singular, Indefinite ; Singular, Definite ; Plural, Indefinite ; Plural, Definite
+
+Grammar:   Noun
+
+
 
 English
 =======
 
-Translation: German
+Translation: German ; - ; - ; -
 
-Grammar: Noun, Neuter, Singular, Plural, Indefinite
+Grammar:     Neuter
 
 
 
 German
 ======
 
-Translation: Deutsch,
+Translation: Deutsch, - ; - ; -
 
-Grammar: Noun, Neuter, Singular, Plural, Indefinite
+Grammar:     Neuter
 
 
 
 New Norwegian
 =============
 
-Translation: tysk
+Translation: tysk ; - ; - ; -
 
-Grammar: Noun, Masculine, Singular, Plural, Indefinite
+Grammar:     Neuter
 
 
 
 Norwegian
 =========
 
-Translation: tysk
+Translation: tysk ; - ; - ; -
 
-Grammar: Noun, Masculine, Singular, Plural, Indefinite
+Grammar:     Neuter
 
 
 
 Swedish
 =======
 
-Translation: tyska
+Translation: tyska ; - ; - ; -
 
-Grammar: Noun, Common, Singular, Plural, Indefinite
+Grammar:     Neuter
 
 
 
 --------------------------------------------------------------------------------
+Defaults
+========
 
+Structure: Singular, Indefinite ; Singular, Definite ; Plural, Indefinite ; Plural, Definite
+
+Grammar:   Noun
 
 
 
 English
 =======
 
-Translation: the German
+Translation: (a) german ; the german ; germen ; the germen
 
-Grammar: Noun, Neuter, Singular, Plural, Definite
+Grammar:     Masculine
 
 
 
 German
 ======
 
-Translation: das Deutsch
+Translation: (ein) Deutscher ; der Deutsche ; Deutsche ; die Deutschen
 
-Grammar: Noun, Neuter, Singular, Plural, Definite
+Grammar:     Masculine
 
 
 
 New Norwegian
 =============
 
-Translation: tysken
+Translation: (ein) tysk ; tysken ; tyskar ; tyskane
 
-Grammar: Noun, Masculine, Singular, Plural, Definite
+Grammar:     Masculine
 
 
 
 Norwegian
 =========
 
-Translation: tysken
 
-Grammar: Noun, Masculine, Singular, Plural, Definite
+Translation: (en) tysk ; tysken ; tysker ; tyskene
+
+Grammar:     Masculine
 
 
 
 Swedish
 =======
 
-Translation: tyskan
+Translation: (en) tysk ; tysken ; tyskar ; tyskarna
 
-Grammar: Noun, Common, Singular, Plural, Definite
-
-Type: Noun
+Grammar:     Common
 
 
 
 --------------------------------------------------------------------------------
+Defaults
+========
+
+Structure: Singular, Indefinite ; Singular, Definite ; Plural, Indefinite ; Plural, Definite
+
+Grammar:   Noun
 
 
 
 English
 =======
 
-Translation: german
+Translation: (a) german ; the german ; germen ; the germen
 
-Grammar: Adjective, Common, Singular, Positive
+Grammar:     Feminine
 
 
 
 German
 ======
 
-Translation: deutsch
+Translation: (eine) Deutsche ; die Deutsche ; Deutsche ; die Deutschen
 
-Grammar: Adjective, Common, Singular, Positive
+Grammar:     Feminine
 
 
 
 New Norwegian
 =============
 
-Translation: tysk
+Translation: (ei) tysk ; tyska ; tysker ; tyskene
 
-Grammar: Adjective, Common, Singular, Positive
+Grammar:     Feminine
 
 
 
 Norwegian
 =========
 
-Translation: tysk
 
-Grammar: Adjective, Common, Singular, Positive
+Translation: (ei) tysk ; tyska ; tysker ; tyskene
+
+Grammar:     Feminine
 
 
 
 Swedish
 =======
 
-Translation: tysk
+Translation: (en) tyska ; tyskan ; tyskor ; tyskorna
 
-Grammar: Adjective, Common, Singular, Positive
+Grammar:     Common
 
 
 
 --------------------------------------------------------------------------------
+Defaults
+========
+
+Structure: Indefinite, Common ;
+           Singular, Feminine ; Singular, Masculine ; Singular, Neuter ;
+           Plural, Feminine   ; Plural, Masculine   ; Plural, Neuter
+
+Grammar:   Adjective ; Positive
 
 
 
 English
 =======
 
-Translation: german
-
-Grammar: Adjective, Feminine, Singular
-
-
-
-German
-======
-
-Translation: deutsche
-
-Grammar: Adjective, Feminine, Singular
-
-
-
-New Norwegian
-=============
-
-Translation: tysk
-
-Grammar: Adjective, Feminine, Singular
-
-
-
-Norwegian
-=========
-
-Translation: tysk
-
-Grammar: Adjective, Feminine, Singular
-
-
-
-Swedish
-=======
-
-Translation: tysk
-
-Grammar: Adjective, Feminine, Singular
-
-
-
---------------------------------------------------------------------------------
-
-
-
-English
-=======
-
-Translation: german
-
-Grammar: Adjective, Masculine, Singular
+Translation: german ;
+             german ; german ; german ;
+             german ; german ; german
 
 
 
 German
 ======
 
-Translation: deutscher
-
-Grammar: Adjective, Masculine, Singular
-
-
-
-New Norwegian
-=============
-
-Translation: tysk
-
-Grammar: Adjective, Masculine, Singular
-
-
-
-Norwegian
-=========
-
-Translation: tysk
-
-Grammar: Adjective, Masculine, Singular
-
-
-
-Swedish
-=======
-
-Translation: tysk
-
-Grammar: Adjective, Common, Singular
-
-
-
---------------------------------------------------------------------------------
-
-
-
-English
-=======
-
-Translation: german
-
-Grammar: Adjective, Neuter, Singular
-
-
-
-German
-======
-
-Translation: deutsches
-
-Grammar: Adjective, Neuter, Singular
+Translation: deutsch   ;
+             deutsche  ; deutscher ; deutsches ;
+             deutschen ; deutschen ; deutschen
 
 
 
 New Norwegian
 =============
 
-Translation: tysk
-
-Grammar: Adjective, Neuter, Singular
-
-
-
-Norwegian
-=========
-
-Translation: tysk
-
-Grammar: Adjective, Neuter, Singular
-
-
-
-Swedish
-=======
-
-Translation: tyskt
-
-Grammar: Adjective, Neuter, Singular
-
-
-
---------------------------------------------------------------------------------
-
-
-
-English
-=======
-
-Translation: german
-
-Grammar: Adjective, Common, Plural
-
-
-
-German
-======
-
-Translation: deutsche
-
-Grammar: Adjective, Common, Plural
-
-
-
-New Norwegian
-=============
-
-Translation: tyske
-
-Grammar: Adjective, Common, Plural
+Translation: tysk  ;
+             tysk  ; tysk  ; tysk  ;
+             tyske ; tyske ; tyske
 
 
 
 Norwegian
 =========
 
-Translation: tyske
-
-Grammar: Adjective, Common, Plural
+Translation: tysk  ;
+             tysk  ; tysk  ; tysk  ;
+             tyske ; tyske ; tyske
 
 
 
 Swedish
 =======
 
-Translation: tyska
-
-Grammar: Adjective, Common, Plural
+Translation: tysk  ;
+             tysk  ; tysk  ; tyskt ;
+             tyska ; tyska ; tyska

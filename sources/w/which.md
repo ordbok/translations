@@ -1,189 +1,46 @@
+Defaults
+========
+
+Structure: Singular, Feminine ; Singular, Masculine ; Singular, Neuter ;
+           Plural, Feminine   ; Plural , Masculine  ; Plural, Neuter
+
+Grammar:   Pronoun
+
+
 English
 =======
 
-Translation: which
-
-Grammar: Pronoun, Feminine, Singular
+Translation: which ; which ; which ;
+             which ; which ; which
 
 
 
 German
 ======
 
-Translation: welche
-
-Grammar: Pronoun, Feminine, Singular
-
-
-
-New Norwegian
-=============
-
-Translation: kva for ei
-
-Grammar: Pronoun, Feminine, Singular
-
-
-
-Norwegian
-=========
-
-Translation: hvilken
-
-Grammar: Pronoun, Feminine, Singular
-
-
-
-Swedish
-=======
-
-Translation: vilken
-
-Grammar: Pronoun, Feminine, Singular
-
-
-
---------------------------------------------------------------------------------
-
-
-
-English
-=======
-
-Translation: which
-
-Grammar: Pronoun, Masculine, Singular
-
-
-
-German
-======
-
-Translation: welcher
-
-Grammar: Pronoun, Masculine, Singular
+Translation: welche ; welcher ; welches ;
+             welche ; welche  ; welche
 
 
 
 New Norwegian
 =============
 
-Translation: kva for ein
-
-Grammar: Pronoun, Masculine, Singular
-
-
-
-Norwegian
-=========
-
-Translation: hvilken
-
-Grammar: Pronoun, Masculine, Singular
-
-
-
-Swedish
-=======
-
-Translation: vilken
-
-Grammar: Pronoun, Masculine, Singular
-
-
-
---------------------------------------------------------------------------------
-
-
-
-English
-=======
-
-Translation: which
-
-Grammar: Pronoun, Neuter, Singular
-
-
-
-German
-======
-
-Translation: welches
-
-Grammar: Pronoun, Neuter, Singular
-
-
-
-New Norwegian
-=============
-
-Translation: kva for eitt
-
-Grammar: Pronoun, Neuter, Singular
+Translation: kva for ei ; kva for ein ; kvar for eit ;
+             kvar for   ; kvar for    ; kva  for
 
 
 
 Norwegian
 =========
 
-Translation: hvilket
-
-Grammar: Pronoun, Neuter, Singular
-
-
-
-Swedish
-=======
-
-Translation: vilket
-
-Grammar: Pronoun, Neuter, Singular
-
-
-
---------------------------------------------------------------------------------
-
-
-
-English
-=======
-
-Translation: which
-
-Grammar: Pronoun, Common, Plural
-
-
-
-German
-======
-
-Translation: welche
-
-Grammar: Pronoun, Common, Plural
-
-
-
-New Norwegian
-=============
-
-Translation: kva for
-
-Grammar: Pronoun, Common, Plural
-
-
-
-Norwegian
-=========
-
-Translation: hvilke
-
-Grammar: Pronoun, Common, Plural
+Translation: hvilken ; hvilken ; hvilket ;
+             hvilke  ; hvilke  ; hvilke
 
 
 
 Swedish
 =======
 
-Translation: vilka
-
-Grammar: Pronoun, Common, Plural
+Translation: vilken ; vilken ; vilket ;
+             vilka  ; vilka  ; vilka

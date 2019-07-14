@@ -1,125 +1,93 @@
+Defaults
+========
+
+Structure: Singular, Indefinite ; Singular, Definite ; Plural, Indefinite ; Plural, Definite
+
+Grammar:   Noun
+
+
+
 English
 =======
 
-Translation: English
+Translation: English ; - ; - ; -
 
-Grammar: Noun, Neuter, Singular, Plural, Indefinite
+Grammar:     Neuter
 
 
 
 German
 ======
 
-Translation: Englisch
+Translation: Englisch ; - ; - ; -
 
-Grammar: Noun, Neuter, Singular, Plural, Indefinite
+Grammar:     Neuter
 
 
 
 New Norwegian
 =============
 
-Translation: engelsk
+Translation: engelsk ; - ; - ; -
 
-Grammar: Noun, Masculine, Singular, Plural, Indefinite
+Grammar:     Neuter
 
 
 
 Norwegian
 =========
 
-Translation: engelsk
+Translation: engelsk ; - ; - ; -
 
-Grammar: Noun, Masculine, Singular, Plural, Indefinite
+Grammar:     Neuter
 
 
 
 Swedish
 =======
 
-Translation: engelska
+Translation: engelska ; - ; - ; -
 
-Grammar: Noun, Neuter, Singular, Plural, Indefinite
+Grammar:     Neuter
 
 
 
 --------------------------------------------------------------------------------
+Defaults
+========
+
+Structure: Indefinite, Common ;
+           Singular, Feminine ; Singular, Masculine ; Singular, Neuter ;
+           Plural, Feminine   ; Plural, Masculine   ; Plural, Neuter
+
+Grammar:   Adjective ; Positive
 
 
 
 English
 =======
 
-Translation: the English
-
-Grammar: Noun, Neuter, Singular, Plural, Definite
-
-
-
-German
-======
-
-Translation: das Englisch
-
-Grammar: Noun, Neuter, Singular, Plural, Definite
-
-
-
-New Norwegian
-=============
-
-Translation: engelsken
-
-Grammar: Noun, Masculine, Singular, Plural, Definite
-
-
-
-Norwegian
-=========
-
-Translation: engelsken
-
-Grammar: Noun, Masculine, Singular, Plural, Definite
-
-
-
-Swedish
-=======
-
-Translation: engelskan
-
-Grammar: Noun, Neuter, Singular, Plural, Definite
-
-
-
---------------------------------------------------------------------------------
-
-
-
-English
-=======
-
-Translation: english
-
-Grammar: Adjective, Common, Singular, Positive
+Translation: english ;
+             english ; english ; english ;
+             english ; english ; english
 
 
 
 German
 ======
 
-Translation: englisch
-
-Grammar: Adjective, Common, Singular, Positive
+Translation: englisch  ;
+             englische ; englischer ; englisches ;
+             englische ; englische  ; englische
 
 
 
 New Norwegian
 =============
 
-Translation: engelsk
-
-Grammar: Adjective, Common, Singular, Positive
+Translation: engelsk  ;
+             engelsk  ; engelsk  ; engelsk  ;
+             engelske ; engelske ; engelske
 
 
 
@@ -127,210 +95,14 @@ Norwegian
 =========
 
 Translation: engelsk
-
-Grammar: Adjective, Common, Singular, Positive
-
-
-
-Swedish
-=======
-
-Translation: engelsk
-
-Grammar: Adjective, Common, Singular, Positive
-
-
-
---------------------------------------------------------------------------------
-
-
-
-English
-=======
-
-Translation: english
-
-Grammar: Adjective, Feminine, Singular
-
-
-
-German
-======
-
-Translation: englische
-
-Grammar: Adjective, Feminine, Singular
-
-
-
-New Norwegian
-=============
-
-Translation: engelsk
-
-Grammar: Adjective, Feminine, Singular
-
-
-
-Norwegian
-=========
-
-Translation: engelsk
-
-Grammar: Adjective, Feminine, Singular
+             engelsk  ; engelsk  ; engelsk  ;
+             engelske ; engelske ; engelske
 
 
 
 Swedish
 =======
 
-Translation: engelsk
-
-Grammar: Adjective, Common, Singular
-
-
-
---------------------------------------------------------------------------------
-
-
-
-English
-=======
-
-Translation: english
-
-Grammar: Adjective, Masculine, Singular
-
-
-
-German
-======
-
-Translation: englischer
-
-Grammar: Adjective, Masculine, Singular
-
-
-
-New Norwegian
-=============
-
-Translation: engelsk
-
-Grammar: Adjective, Masculine, Singular
-
-
-
-Norwegian
-=========
-
-Translation: engelsk
-
-Grammar: Adjective, Masculine, Singular
-
-
-
-Swedish
-=======
-
-Translation: engelsk
-
-Grammar: Adjective, Common, Singular
-
-
-
---------------------------------------------------------------------------------
-
-
-
-English
-=======
-
-Translation: english
-
-Grammar: Adjective, Neuter, Singular
-
-
-
-German
-======
-
-Translation: englisches
-
-Grammar: Adjective, Neuter, Singular
-
-
-
-New Norwegian
-=============
-
-Translation: engelsk
-
-Grammar: Adjective, Neuter, Singular
-
-
-
-Norwegian
-=========
-
-Translation: engelsk
-
-Grammar: Adjective, Neuter, Singular
-
-
-
-Swedish
-=======
-
-Translation: engelskt
-
-Grammar: Adjective, Neuter, Singular
-
-
-
---------------------------------------------------------------------------------
-
-
-
-English
-=======
-
-Translation: english
-
-Grammar: Adjective, Common, Plural
-
-
-
-German
-======
-
-Translation: englische
-
-Grammar: Adjective, Common, Plural
-
-
-
-New Norwegian
-=============
-
-Translation: engelske
-
-Grammar: Adjective, Common, Plural
-
-
-
-Norwegian
-=========
-
-Translation: engelske
-
-Grammar: Adjective, Common, Plural
-
-
-
-Swedish
-=======
-
-Translation: engelska
-
-Grammar: Adjective, Common, Plural
+Translation: engelsk ;
+             engelsk  ; engelsk  ; engelskt ;
+             engelska ; engelska ; engelska

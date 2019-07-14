@@ -1,189 +1,51 @@
-English
-=======
+Defaults
+========
 
-Translation: (a) car
+Structure: Singular, Indefinite ; Singular, Definite ; Plural, Indefinite ; Plural, Definite
 
-Grammar: Noun, Common, Singular, Indefinite
-
-
-
-German
-======
-
-Translation: (ein) Auto
-
-Grammar: Noun, Neuter, Singular, Indefinite
-
-
-
-New Norwegian
-=============
-
-Translation: (ein) bil
-
-Grammar: Noun, Masculine, Singular, Indefinite
-
-
-
-Norwegian
-=========
-
-Translation: (en) bil
-
-Grammar: Noun, Masculine, Singular, Indefinite
-
-
-
-Swedish
-=======
-
-Translation: (en) bil
-
-Grammar: Noun, Common, Singular, Indefinite
-
-
-
---------------------------------------------------------------------------------
+Grammar:   Noun
 
 
 
 English
 =======
 
-Translation: the car
+Translation: (a) car ; the car ; cars ; the cars
 
-Grammar: Noun, Common, Singular, Definite
-
-
-
-German
-======
-
-Translation: das Auto
-
-Grammar: Noun, Neuter, Singular, Definite
-
-
-
-New Norwegian
-=============
-
-Translation: bilen
-
-Grammar: Noun, Masculine, Singular, Definite
-
-
-
-Norwegian
-=========
-
-Translation: bilen
-
-Grammar: Noun, Masculine, Singular, Definite
-
-
-
-Swedish
-=======
-
-Translation: bilen
-
-Grammar: Noun, Common, Singular, Definite
-
-
-
---------------------------------------------------------------------------------
-
-
-
-English
-=======
-
-Translation: cars
-
-Grammar: Noun, Common, Plural, Indefinite
+Grammar:     Neuter
 
 
 
 German
 ======
 
-Translation: Autos
+Translation: (ein) Auto ; das Auto ; Autos ; die Autos
 
-Grammar: Noun, Neuter, Plural, Indefinite
-
-
-
-New Norwegian
-=============
-
-Translation: bilar
-
-Grammar: Noun, Masculine, Plural, Indefinite
-
-
-
-Norwegian
-=========
-
-Translation: biler
-
-Grammar: Noun, Masculine, Plural, Indefinite
-
-
-
-Swedish
-=======
-
-Translation: bilar
-
-Grammar: Noun, Common, Plural, Indefinite
-
-
-
---------------------------------------------------------------------------------
-
-
-
-English
-=======
-
-Translation: the cars
-
-Grammar: Noun, Common, Plural, Definite
-
-
-
-German
-======
-
-Translation: die Autos
-
-Grammar: Noun, Neuter, Plural, Definite
+Grammar:     Neuter
 
 
 
 New Norwegian
 =============
 
-Translation: bilane
+Translation: (ein) bil ; bilen ; bilar ; bilane
 
-Grammar: Noun, Masculine, Plural, Definite
+Grammar:     Masculine
 
 
 
 Norwegian
 =========
 
-Translation: bilene
+Translation: (en) bil ; bilen ; biler ; bilene
 
-Grammar: Noun, Masculine, Plural, Definite
+Grammar:     Masculine
 
 
 
 Swedish
 =======
 
-Translation: bilarna
+Translation: (en) bil ; bilen ; bilar ; bilarna
 
-Grammar: Noun, Common, Plural, Definite
+Grammar:     Common

@@ -1,91 +1,53 @@
-English
-=======
+Defaults
+========
 
-Translation: more
+Structure: Indefinite, Common ;
+           Singular, Feminine ; Singular, Masculine ; Singular, Neuter ;
+           Plural, Feminine   ; Plural, Masculine   ; Plural, Neuter
 
-Grammar: Determiner, Comparative, Common, Plural, Indefinite
-
-
-
-German
-======
-
-Translation: mehr
-
-Grammar: Determiner, Comparative, Common, Plural, Indefinite
-
-
-
-New Norwegian
-=============
-
-Translation: meir
-
-Grammar: Determiner, Comparative, Common, Plural, Indefinite
-
-
-
-Norwegian
-=========
-
-Translation: mer
-
-Grammar: Determiner, Comparative, Common, Plural, Indefinite
-
-
-
-Swedish
-=======
-
-Translation: mer
-
-Grammar: Determiner, Comparative, Common, Plural, Indefinite
-
-
-
---------------------------------------------------------------------------------
+Grammar:   Adjective ; Comparative
 
 
 
 English
 =======
 
-Translation: more
-
-Grammar: Determiner, Comparative, Common, Plural, Definite
+Translation: much ;
+             more ; more ; more ;
+             more ; more ; more
 
 
 
 German
 ======
 
-Translation: mehr
-
-Grammar: Determiner, Comparative, Common, Plural, Definite
+Translation: viel ;
+             mehr ; mehr ; mehr ;
+             mehr ; mehr ; mehr
 
 
 
 New Norwegian
 =============
 
-Translation: fleire
-
-Grammar: Determiner, Comparative, Common, Plural, Definite
+Translation: mykje  ;
+             meir   ; meir   ; meir   ;
+             fleire ; fleire ; fleire
 
 
 
 Norwegian
 =========
 
-Translation: flere
-
-Grammar: Determiner, Comparative, Common, Plural, Definite
+Translation: mye   ;
+             mer   ; mer   : mer   ;
+             flere ; flere ; flere
 
 
 
 Swedish
 =======
 
-Translation: fler
-
-Grammar: Determiner, Comparative, Common, Plural, Definite
+Translation: mycken ;
+             mer    ; mer   ; mer   ;
+             flera  ; flera ; flera

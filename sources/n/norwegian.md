@@ -1,91 +1,108 @@
+Defaults
+========
+
+Structure: Singular, Indefinite ; Singular, Definite ; Plural, Indefinite ; Plural, Definite
+
+Grammar:   Noun
+
+
+
 English
 =======
 
-Translation: Norwegian
+Translation: Norwegian ; - ; - ; -
 
-Grammar: Noun, Neuter, Singular, Plural, Indefinite
+Grammar:     Neuter
 
 
 
 German
 ======
 
-Translation: Norwegisch
+Translation: Norwegisch ; - ; - ; -
 
-Grammar: Noun, Neuter, Singular, Plural, Indefinite
+Grammar:     Neuter
 
 
 
 New Norwegian
 =============
 
-Translation: norsk
+Translation: norsk ; - ; - ; -
 
-German: Noun, Masculine, Singular, Plural, Indefinite
+German:      Neuter
 
 
 
 Norwegian
 =========
 
-Translation: norsk
+Translation: norsk ; - ; - ; -
 
-German: Noun, Masculine, Singular, Plural, Indefinite
+German:      Neuter
 
 
 
 Swedish
 =======
 
-Translation: norska
+Translation: norska ; - ; - ; -
 
-German: Noun, Neuter, Singular, Plural, Indefinite
+German:      Neuter
 
 
 
 --------------------------------------------------------------------------------
+Defaults
+========
+
+Structure: Indefinite, Common ;
+           Singular, Feminine ; Singular, Masculine ; Singular, Neuter ;
+           Plural, Feminine   ; Plural, Masculine   ; Plural, Neuter
+
+Grammar:   Adjective ; Positive
 
 
 
 English
 =======
 
-Translation: the Norwegian
-
-German: Noun, Neuter, Singular, Plural, Definite
+Translation: norwegian ;
+             norwegian ; norwegian ; norwegian ;
+             norwegian ; norwegian ; norwegian
 
 
 
 German
 ======
 
-Translation: das Norwegisch
-
-German: Noun, Neuter, Singular, Plural, Definite
+Translation: norwegisch  ;
+             norwegische ; norwegischer ; norwegisches ;
+             norwegische ; norwegische  ; norwegische
 
 
 
 New Norwegian
 =============
 
-Translation: norsken
-
-German: Noun, Masculine, Singular, Plural, Definite
+Translation: norsk  ;
+             norsk  ; norsk  ; norsk  ;
+             norske ; norske ; norske
 
 
 
 Norwegian
 =========
 
-Translation: norsken
-
-German: Noun, Masculine, Singular, Plural, Definite
+Translation: norsk
+             norsk  ; norsk  ; norsk  ;
+             norske ; norske ; norske
 
 
 
 Swedish
 =======
 
-Translation: norskan
-
-German: Noun, Neuter, Singular, Plural, Definite
+Translation: norsk  ;
+             norsk  ; norsk  ; norskt ;
+             norska ; norska ; norska

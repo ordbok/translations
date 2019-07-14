@@ -1,190 +1,51 @@
+Defaults
+========
 
-English
-=======
+Structure: Singular, Indefinite ; Singular, Definite ; Plural, Indefinite ; Plural, Definite
 
-Translation: (a) language
-
-Grammar: Noun, Neuter, Singular, Indefinite
-
-
-
-German
-======
-
-Translation: (eine) Sprache
-
-Grammar: Noun, Feminine, Singular, Indefinite
-
-
-
-New Norwegian
-=============
-
-Translation: (eit) språk
-
-Grammar: Noun, Neuter, Singular, Indefinite
-
-
-
-Norwegian
-=========
-
-Translation: (et) språk
-
-Grammar: Noun, Neuter, Singular, Indefinite
-
-
-
-Swedish
-=======
-
-Translation: (ett) språk
-
-Grammar: Noun, Neuter, Singular, Indefinite
-
-
-
---------------------------------------------------------------------------------
+Grammar:   Noun
 
 
 
 English
 =======
 
-Translation: the language
+Translation: (a) language ; the language ; languages ; the languages
 
-Grammar: Noun, Neuter, Singular, Definite
-
-
-
-German
-======
-
-Translation: die Sprache
-
-Grammar: Noun, Feminine, Singular, Definite
-
-
-
-New Norwegian
-=============
-
-Translation: språket
-
-Grammar: Noun, Neuter, Singular, Definite
-
-
-
-Norwegian
-=========
-
-Translation: språket
-
-Grammar: Noun, Neuter, Singular, Definite
-
-
-
-Swedish
-=======
-
-Translation: språket
-
-Grammar: Noun, Neuter
-
-
-
---------------------------------------------------------------------------------
-
-
-
-English
-=======
-
-Translation: languages
-
-Grammar: Noun, Neuter, Plural, Indefinite
+Grammar:     Neuter
 
 
 
 German
 ======
 
-Translation: Sprachen
+Translation: (eine) Sprache ; die Sprache ; Sprachen ; die Sprachen
 
-Grammar: Noun, Feminine, Plural, Indefinite
-
-
-
-New Norwegian
-=============
-
-Translation: språk
-
-Grammar: Noun, Neuter, Plural, Indefinite
-
-
-
-Norwegian
-=========
-
-Translation: språk
-
-Grammar: Noun, Neuter, Plural, Indefinite
-
-
-
-Swedish
-=======
-
-Translation: språk
-
-Grammar: Noun, Neuter, Plural, Indefinite
-
-
-
---------------------------------------------------------------------------------
-
-
-
-English
-=======
-
-Translation: the languages
-
-Grammar: Noun, Neuter, Plural, Definite
-
-
-
-German
-======
-
-Translation: die Sprachen
-
-Grammar: Noun, Feminine, Plural, Definite
+Grammar:     Feminine
 
 
 
 New Norwegian
 =============
 
-Translation: språka
+Translation: (eit) språk ; språket ; språk ; språka
 
-Grammar: Noun, Neuter, Plural, Definite
+Grammar:     Neuter
 
 
 
 Norwegian
 =========
 
-Translation: språkene
+Translation: (et) språk ; språket ; språk ; språkene
 
-Grammar: Noun, Neuter, Plural, Definite
+Grammar:     Neuter
 
 
 
 Swedish
 =======
 
-Translation: språken
+Translation: (ett) språk ; språket ; språk ; språken
 
-Grammar: Noun, Neuter, Plural, Definite
+Grammar:     Neuter

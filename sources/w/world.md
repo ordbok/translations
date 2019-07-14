@@ -1,189 +1,50 @@
-English
-=======
+Defaults
+========
 
-Translation: (a) world
+Structure: Singular, Indefinite ; Singular, Definite ; Plural, Indefinite ; Plural, Definite
 
-Grammar: Noun, Neuter, Singular, Indefinite
-
-
-
-German
-======
-
-Translation: (eine) Welt
-
-Tags: Noun, Feminine, Singular, Indefinite
-
-
-
-New Norwegian
-=============
-
-Translation: (ein) verd
-
-Grammar: Noun, Masculine, Singular, Indefinite
-
-
-
-Norwegian
-=========
-
-Translation: (en) verden
-
-Grammar: Noun, Masculine, Singular, Indefinite
-
-
-
-Swedish
-=======
-
-Translation: (en) värld
-
-Grammar: Noun, Masculine, Singular, Indefinite
-
-
-
---------------------------------------------------------------------------------
+Grammar:   Noun
 
 
 
 English
 =======
 
-Translation: the world
+Translation: (a) world ; the world ; worlds ; the worlds
 
-Grammar: Noun, Neuter, Singular, Definite
-
-
-
-German
-======
-
-Translation: die Welt
-
-Grammar: Noun, Feminine, Singular, Definite
-
-
-
-New Norwegian
-=============
-
-Translation: verden
-
-Grammar: Noun, Masculine, Singular, Definite
-
-
-
-Norwegian
-=========
-
-Translation: verdenen
-
-Grammar: Noun, Masculine, Singular, Definite
-
-
-
-Swedish
-=======
-
-Translation: världen
-
-Grammar: Noun, Masculine, Singular, Definite
-
-
-
---------------------------------------------------------------------------------
-
-
-
-English
-=======
-
-Translation: worlds
-
-Grammar: Noun, Neuter, Plural, Indefinite
+Grammar:     Neuter
 
 
 
 German
 ======
 
-Translation: Welten
+Translation: (eine) Welt ; die Welt ; Welten ; die Welten
 
-Grammar: Noun, Feminine, Plural, Indefinite
-
-
-
-New Norwegian
-=============
-
-Translation: verdar
-
-Grammar: Noun, Masculine, Plural, Indefinite
-
-
-
-Norwegian
-=========
-
-Translation: verdener
-
-Grammar: Noun, Masculine, Plural, Indefinite
-
-
-
-Swedish
-=======
-
-Translation: världar
-
-Tags: Noun, Masculine, Plural, Indefinite
-
-
-
---------------------------------------------------------------------------------
-
-
-
-English
-=======
-
-Translation: the worlds
-
-Grammar: Noun, Neuter, Plural, Definite
-
-
-
-German
-======
-
-Translation: die Welten
-
-Grammar: Noun, Feminine, Plural, Definite
+Tags:        Feminine
 
 
 
 New Norwegian
 =============
 
-Translation: verdane
+Translation: (ein) verd ; verden ; verdar ; verdane
 
-Grammar: Noun, Masculine, Plural, Definite
+Grammar:     Masculine
 
 
 
 Norwegian
 =========
 
-Translation: verdenene
+Translation: (en) verden ; verdenen ; verdener ; verdenene
 
-Grammar: Noun, Masculine, Plural, Definite
-
+Grammar:     Masculine
 
 
 Swedish
 =======
 
-Translation: världarna
+Translation: (en) värld ; världen ; världar ; världarna
 
-Grammar: Noun, Masculine, Plural, Definite
+Grammar:     Masculine

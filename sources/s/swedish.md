@@ -1,95 +1,108 @@
+Defaults
+========
+
+Structure: Singular, Indefinite ; Singular, Definite ; Plural, Indefinite ; Plural, Definite
+
+Grammar:   Noun
+
+
 
 English
 =======
 
-Translation: Swedish
+Translation: Swedish ; - ; - ; -
 
-Grammar: Noun, Neuter, Singular, Plural, Indefinite
+Grammar:     Neuter
 
 
 
 German
 ======
 
-Translation: Schwedisch
+Translation: Schwedisch ; - ; - ; -
 
-Grammar: Noun, Neuter, Singular, Plural, Indefinite
+Grammar:     Neuter
 
 
 
 New Norwegian
 =============
 
-Translation: svensk
+Translation: svensk ; - ; - ; -
 
-Grammar: Noun, Masculine, Singular, Plural, Indefinite
+Grammar:     Neuter
 
 
 
 Norwegian
 =========
 
-Translation: svensk
+Translation: svensk ; - ; - ; -
 
-Grammar: Noun, Masculine, Singular, Plural, Indefinite
-
-Type: Noun
+Grammar:     Neuter
 
 
 
 Swedish
 =======
 
-Translation: svenska
+Translation: svenska ; - ; - ; -
 
-Grammar: Noun, Neuter, Singular, Plural, Indefinite
+Grammar:     Neuter
 
 
 
 --------------------------------------------------------------------------------
+Defaults
+========
 
+Structure: Indefinite, Common ;
+           Singular, Feminine ; Singular, Masculine ; Singular, Neuter ;
+           Plural, Feminine   ; Plural, Masculine   ; Plural, Neuter
+
+Grammar:   Adjective ; Positive
 
 
 
 English
 =======
 
-Translation: the Swedish
-
-Grammar: Noun, Neuter, Singular, Plural, Definite
+Translation: swedish ;
+             swedish ; swedish ; swedish ;
+             swedish ; swedish ; swedish
 
 
 
 German
 ======
 
-Translation: das Schwedisch
-
-Grammar: Noun, Neuter, Singular, Plural, Definite
+Translation: schwedisch  ;
+             schwedische ; schwedischer ; schwedisches ;
+             schwedische ; schwedische  ; schwedische
 
 
 
 New Norwegian
 =============
 
-Translation: svensken
-
-Grammar: Noun, Masculine, Singular, Plural, Definite
+Translation: svensk  ;
+             svensk  ; svensk  ; svensk  ;
+             svenske ; svenske ; svenske
 
 
 
 Norwegian
 =========
 
-Translation: svensken
-
-Grammar: Noun, Masculine, Singular, Plural, Definite
+Translation: svensk
+             svensk  ; svensk  ; svensk  ;
+             svenske ; svenske ; svenske
 
 
 
 Swedish
 =======
 
-Translation: svenskan
-
-Grammar: Noun, Neuter, Singular, Plural, Definite
+Translation: svensk ;
+             svensk  ; svensk  ; svenskt ;
+             svenska ; svenska ; svenska

@@ -1,189 +1,51 @@
-English
-=======
+Defaults
+========
 
-Translation: (a) bathroom
+Structure: Singular, Indefinite ; Singular, Definite ; Plural, Indefinite ; Plural, Definite
 
-Grammar: Noun, Common, Singular, Indefinite
-
-
-
-German
-======
-
-Translation: (ein) Badezimmer
-
-Grammar: Noun, Neuter, Singular, Indefinite
-
-
-
-New Norwegian
-=============
-
-Translation: (eit) baderom
-
-Grammar: Noun, Neuter, Singular, Indefinite
-
-
-
-Norwegian
-=========
-
-Translation: (et) bad
-
-Grammar: Noun, Neuter, Singular, Indefinite
-
-
-
-Swedish
-=======
-
-Translation: (ett) badrum
-
-Grammar: Noun, Neuter, Singular, Indefinite
-
-
-
---------------------------------------------------------------------------------
+Grammar:   Noun
 
 
 
 English
 =======
 
-Translation: the bathroom
+Translation: (a) bathroom ; the bathroom ; bathrooms ; the bathrooms
 
-Grammar: Noun, Common, Singular, Definite
-
-
-
-German
-======
-
-Translation: das Badezimmer
-
-Grammar: Noun, Neuter, Singular, Definite
-
-
-
-New Norwegian
-=============
-
-Translation: baderommet
-
-Grammar: Noun, Neuter, Singular, Definite
-
-
-
-Norwegian
-=========
-
-Translation: badet
-
-Grammar: Noun, Neuter, Singular, Definite
-
-
-
-Swedish
-=======
-
-Translation: badrummet
-
-Grammar: Noun, Neuter, Singular, Definite
-
-
-
---------------------------------------------------------------------------------
-
-
-
-English
-=======
-
-Translation: bathrooms
-
-Grammar: Noun, Common, Plural, Indefinite
+Grammar:     Neuter
 
 
 
 German
 ======
 
-Translation: Badezimmer
+Translation: (ein) Badezimmer ; das Badezimmer ; Badezimmer ; die Badezimmer
 
-Grammar: Noun, Neuter, Plural, Indefinite
-
-
-
-New Norwegian
-=============
-
-Translation: baderom
-
-Grammar: Noun, Neuter, Plural, Indefinite
-
-
-
-Norwegian
-=========
-
-Translation: bad
-
-Grammar: Noun, Neuter, Plural, Indefinite
-
-
-
-Swedish
-=======
-
-Translation: badrum
-
-Grammar: Noun, Neuter, Plural, Indefinite
-
-
-
---------------------------------------------------------------------------------
-
-
-
-English
-=======
-
-Translation: the bathrooms
-
-Grammar: Noun, Common, Plural, Definite
-
-
-
-German
-======
-
-Translation: die Badezimmer
-
-Grammar: Noun, Neuter, Plural, Definite
+Grammar:     Neuter
 
 
 
 New Norwegian
 =============
 
-Translation: baderomma
+Translation: (eit) baderom ; baderommet ; baderom ; baderomma
 
-Grammar: Noun, Neuter, Plural, Definite
+Grammar:     Neuter
 
 
 
 Norwegian
 =========
 
-Translation: badene
+Translation: (et) bad ; badet ; bad ; badene
 
-Grammar: Noun, Neuter, Plural, Definite
+Grammar:     Neuter
 
 
 
 Swedish
 =======
 
-Translation: badrummen
+Translation: (ett) badrum ; badrummet ; badrum ; badrummen
 
-Grammar: Noun, Neuter, Plural, Definite
+Grammar:     Neuter

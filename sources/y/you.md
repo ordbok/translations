@@ -1,91 +1,46 @@
+Defaults
+========
+
+Structure: Singular, Feminine ; Singular, Masculine ; Singular, Neuter ;
+           Plural, Feminine   ; Plural, Masculine   ; Plural, Neuter
+
+Grammar: Pronoun; Second Person
+
+
 English
 =======
 
-Translation: you
-
-Grammar: Pronoun, Common, Second Person, Singular
+Translation: you ; you ; you ;
+             you ; you ; you
 
 
 
 German
 ======
 
-Translation: du
-
-Grammar: Pronoun, Common, Second Person, Singular
-
-
-
-New Norwegian
-=============
-
-Translation: du
-
-Grammar: Pronoun, Common, Second Person, Singular
-
-
-
-Norwegian
-=========
-
-Translation: du
-
-Grammar: Pronoun, Common, Second Person, Singular
-
-
-
-Swedish
-=======
-
-Translation: du
-
-Grammar: Pronoun, Common, Second Person, Singular
-
-
-
---------------------------------------------------------------------------------
-
-
-
-English
-=======
-
-Translation: you
-
-Grammar: Pronoun, Common, Second Person, Plural
-
-
-
-German
-======
-
-Translation: ihr
-
-Grammar: Pronoun, Common, Second Person, Plural
+Translation: du  ; du  ; du ;
+             ihr ; ihr ; ihr
 
 
 
 New Norwegian
 =============
 
-Translation: de
-
-Grammar: Pronoun, Common, Second Person, Plural
+Translation: du ; du ; du ;
+             de ; de ; de
 
 
 
 Norwegian
 =========
 
-Translation: dere
-
-Grammar: Pronoun, Common, Second Person, Plural
+Translation: du   ; du   ; du   ;
+             dere ; dere ; dere
 
 
 
 Swedish
 =======
 
-Translation: ni
-
-Grammar: Pronoun, Common, Second Person, Plural
+Translation: du ; du ; du ;
+             ni ; ni ; ni

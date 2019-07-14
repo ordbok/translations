@@ -58,12 +58,16 @@ Grammatical Person
 
 - First Person
 
+- Indefinite
+
 - Second Person
 
 - Third Person
 
 Grammatical Plurals
 -------------------
+
+- Indefinite
 
 - Plural
 
