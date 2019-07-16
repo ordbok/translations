@@ -4,7 +4,7 @@ Defaults
 Structure: Singular, Feminine ; Singular, Masculine ; Singular, Neuter ;
            Plural, Feminine   ; Plural, Masculine   ; Plural, Neuter
 
-Grammar: Pronoun; First Person
+Grammar:   Pronoun ; First Person
 
 
 English

@@ -1,7 +1,7 @@
 Defaults
 ========
 
-Structure: Common ; Feminine ; Masculine ; Neuter
+Structure: Feminine ; Masculine ; Neuter
 
 Grammar:   Determiner ; Singular ; Indefinite
 
@@ -10,32 +10,32 @@ Grammar:   Determiner ; Singular ; Indefinite
 English
 =======
 
-Translation: a ; a ; a ; a
+Translation: a ; a ; a
 
 
 
 German
 ======
 
-Translation: - ; eine ; einer ; eines
+Translation: eine ; ein ; ein
 
 
 
 New Norwegian
 =============
 
-Translation: - ; ei ; ein ; eit
+Translation: ei ; ein ; eit
 
 
 
 Norwegian
 =========
 
-Translation: - ; ei ; en ; et
+Translation: ei ; en ; et
 
 
 
 Swedish
 =======
 
-Translation: en ; en ; en ; ett
+Translation: en ; en ; ett
