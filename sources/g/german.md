@@ -19,7 +19,7 @@ Grammar:     Neuter
 German
 ======
 
-Translation: Deutsch, - ; - ; -
+Translation: Deutsch ; - ; - ; -
 
 Grammar:     Neuter
 
