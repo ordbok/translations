@@ -30,7 +30,7 @@ New Norwegian
 
 Translation: norsk ; - ; - ; -
 
-German:      Neuter
+Grammar:     Neuter
 
 
 
@@ -39,7 +39,7 @@ Norwegian
 
 Translation: norsk ; - ; - ; -
 
-German:      Neuter
+Grammar:     Neuter
 
 
 
@@ -48,7 +48,7 @@ Swedish
 
 Translation: norska ; - ; - ; -
 
-German:      Neuter
+Grammar:     Neuter
 
 
 
