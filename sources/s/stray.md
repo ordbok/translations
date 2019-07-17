@@ -28,18 +28,18 @@ Grammar:     Masculine
 New Norwegian
 =============
 
-Translation: (ein) lauseng ; lausengen ; lausengar ; lausengane
+Translation: (eit) lausdyr ; lausdyret ; lausdyr ; lausdyra
 
-Grammar:     Masculine
+Grammar:     Neuter
 
 
 
 Norwegian
 =========
 
-Translation: (en) løsing ; løsingen ; løsinger ; løsingene
+Translation: (et) løsdyr ; løsdyret ; løsdyr ; løsdyrene
 
-Grammar:     Masculine
+Grammar:     Neuter
 
 
 
