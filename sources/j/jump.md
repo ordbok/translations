@@ -1,4 +1,4 @@
-Defaults
+Meta
 ========
 
 Structure: Singular, Indefinite ; Singular, Definite ; Plural, Indefinite ; Plural, Definite
@@ -54,8 +54,8 @@ Grammar:     Neuter
 
 --------------------------------------------------------------------------------
 
-Defaults
-========
+Meta
+====
 
 Structure: Infinitive, Indefinite ;
            Singular, First Person ; Singular, Second Person ; Singular, Third Person ;

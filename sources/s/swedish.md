@@ -1,5 +1,5 @@
-Defaults
-========
+Meta
+====
 
 Structure: Singular, Indefinite ; Singular, Definite ; Plural, Indefinite ; Plural, Definite
 
@@ -56,8 +56,8 @@ Grammar:     Neuter
 
 
 
-Defaults
-========
+Meta
+====
 
 Structure: Indefinite, Common ;
            Singular, Feminine ; Singular, Masculine ; Singular, Neuter ;

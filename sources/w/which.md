@@ -1,5 +1,5 @@
-Defaults
-========
+Meta
+====
 
 Structure: Singular, Feminine ; Singular, Masculine ; Singular, Neuter ;
            Plural, Feminine   ; Plural , Masculine  ; Plural, Neuter
