@@ -1,9 +1,9 @@
 Meta
 ====
 
-Structure: Indefinite, Common ;
-           Singular, Feminine ; Singular, Masculine ; Singular, Neuter ;
-           Plural, Feminine   ; Plural, Masculine   ; Plural, Neuter
+Structure: Singular, Feminine             ; Singular, Masculine             ; Singular, Neuter             ; Plural, Common             ;
+           Singular, Indefinite, Feminine ; Singular, Indefinite, Masculine ; Singular, Indefinite, Neuter ; Plural, Indefinite, Common ;
+           Singular, Definite, Feminine   ; Singular, Definite, Masculine   ; Singular, Definite, Neuter   ; Plural, Definite, Common
 
 Grammar:   Adjective ; Positive
 
@@ -12,42 +12,42 @@ Grammar:   Adjective ; Positive
 English
 =======
 
-Translation: much ;
-             much ; much ; much ;
-             many ; many ; many
+Translation: much ; much ; much ; many ;
+             much ; much ; much ; many ;
+             many ; many ; many ; many
 
 
 
 German
 ======
 
-Translation: viel  ;
-             viel  ; viel  ; viel  ;
-             viele ; viele ; viele
+Translation: viel  ; viel  ; viel  ; viele  ;
+             viel  ; viel  ; viel  ; viele  ;
+             viele ; viele ; viele ; vielen
 
 
 
 New Norwegian
 =============
 
-Translation: mykje ;
-             mykje ; mykje ; mykje ;
-             mange ; mange ; mange
+Translation: mykje ; mykje ; mykje ; mange ;
+             mykje ; mykje ; mykje ; mange ;
+             mange ; mange ; mange ; mange
 
 
 
 Norwegian
 =========
 
-Translation: mye   ;
-             mye   ; mye   ; mye   ;
-             mange ; mange ; mange
+Translation: mye   ; mye   ; mye   ; mange ;
+             mye   ; mye   ; mye   ; mange ;
+             mange ; mange ; mange ; mange
 
 
 
 Swedish
 =======
 
-Translation: mycken ;
-             mycken ; mycken ; mycket ;
-             många  ; många  ; många
+Translation: mycken ; mycken ; mycket ; många
+             mycken ; mycken ; mycket ; många
+             mångna ; mångne ; mångna ; många
