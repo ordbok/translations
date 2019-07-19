@@ -1,19 +1,19 @@
 Meta
 ====
 
-Structure: Infinitive, Indefinite ;
-           Singular, First Person ; Singular, Second Person ; Singular, Third Person ;
+Structure: Singular, First Person ; Singular, Second Person ; Singular, Third Person ;
            Plural, First Person   ; Plural, Second Person   ; Plural, Third Person
 
 Grammar:   Verb ; Past
+
+Relation:  make ; made
 
 
 
 English
 =======
 
-Translation: make ;
-             made ; made ; made ;
+Translation: made ; made ; made ;
              made ; made ; made
 
 
@@ -21,8 +21,7 @@ Translation: make ;
 German
 ======
 
-Translation: machen  ;
-             machte  ; machte  ; machte  ;
+Translation: machte  ; machte  ; machte  ;
              machten ; machtet ; machten
 
 
@@ -30,8 +29,7 @@ Translation: machen  ;
 New Norwegian
 =============
 
-Translation: lage ;
-             laga ; laga ; laga ;
+Translation: laga ; laga ; laga ;
              laga ; laga ; laga
 
 
@@ -39,8 +37,7 @@ Translation: lage ;
 Norwegian
 =========
 
-Translation: lage  ;
-             laget ; laget ; laget ;
+Translation: laget ; laget ; laget ;
              laget ; laget ; laget
 
 
@@ -48,6 +45,5 @@ Translation: lage  ;
 Swedish
 =======
 
-Translation: göra   ;
-             gjorde ; gjorde ; gjorde ;
+Translation: gjorde ; gjorde ; gjorde ;
              gjorde ; gjorde ; gjorde

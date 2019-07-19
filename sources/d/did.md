@@ -1,18 +1,19 @@
 Meta
 ====
 
-Structure: Infinitive, Indefinite ;
-           Singular, First Person ; Singular, Second Person ; Singular, Third Person ;
+Structure: Singular, First Person ; Singular, Second Person ; Singular, Third Person ;
            Plural, First Person   ; Plural, Second Person   ; Plural, Third Person
 
 Grammar:   Verb ; Past
+
+Relation:  do ; did
+
 
 
 English
 =======
 
-Translation: do  ;
-             did ; did ; did ;
+Translation: did ; did ; did ;
              did ; did ; did
 
 
@@ -20,8 +21,7 @@ Translation: do  ;
 German
 ======
 
-Translation: machen  ;
-             machte  ; machtest ; machte  ;
+Translation: machte  ; machtest ; machte  ;
              machten ; machtet  ; machten
 
 
@@ -29,8 +29,7 @@ Translation: machen  ;
 New Norwegian
 =============
 
-Translation: gjere  ;
-             gjorde ; gjorde ; gjorde ;
+Translation: gjorde ; gjorde ; gjorde ;
              gjorde ; gjorde ; gjorde
 
 
@@ -38,8 +37,7 @@ Translation: gjere  ;
 Norwegian
 =========
 
-Translation: gjøre  ;
-             gjorde ; gjorde ; gjorde ;
+Translation: gjorde ; gjorde ; gjorde ;
              gjorde ; gjorde ; gjorde
 
 
@@ -47,6 +45,5 @@ Translation: gjøre  ;
 Swedish
 =======
 
-Translation: göra   ;
-             gjorde ; gjorde ; gjorde ;
+Translation: gjorde ; gjorde ; gjorde ;
              gjorde ; gjorde ; gjorde

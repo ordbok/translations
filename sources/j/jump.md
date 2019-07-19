@@ -5,6 +5,8 @@ Structure: Singular, Indefinite ; Singular, Definite ; Plural, Indefinite ; Plur
 
 Grammar:   Noun
 
+Relation:  jump
+
 
 
 English
@@ -57,8 +59,61 @@ Grammar:     Neuter
 Meta
 ====
 
-Structure: Infinitive, Indefinite ;
-           Singular, First Person ; Singular, Second Person ; Singular, Third Person ;
+Structure: Singular, First Person ; Singular, Second Person ; Singular, Third Person ;
+           Plural, First Person   ; Plural, Second Person   ; Plural, Third Person
+
+Grammar:   Verb ; Infinitive
+
+Relation:  jump
+
+
+
+English
+=======
+
+Translation: to jump ; to jump ; to jump ;
+             to jump ; to jump ; to jump
+
+
+
+German
+======
+
+Translation: zu springen ; zu springen ; zu springen ;
+             zu springen ; zu springen ; zu springen
+
+
+
+New Norwegian
+=============
+
+Translation: å hoppa ; å hoppa ; å hoppa ;
+             å hoppa ; å hoppa ; å hoppa
+
+
+
+Norwegian
+=========
+
+Translation: å hoppe ; å hoppe ; å hoppe ;
+             å hoppe ; å hoppe ; å hoppe
+
+
+
+Swedish
+=======
+
+Translation: att hoppa ; att hoppa ; att hoppa ;
+             att hoppa ; att hoppa ; att hoppa
+
+
+
+--------------------------------------------------------------------------------
+
+Meta
+====
+
+Structure: Singular, First Person ; Singular, Second Person ; Singular, Third Person ;
            Plural, First Person   ; Plural, Second Person   ; Plural, Third Person
 
 Grammar:   Verb ; Present
@@ -67,8 +122,7 @@ Grammar:   Verb ; Present
 English
 =======
 
-Translation: jump ;
-             jump ; jump ; jumps ;
+Translation: jump ; jump ; jumps ;
              jump ; jump ; jump
 
 
@@ -76,8 +130,7 @@ Translation: jump ;
 German
 ======
 
-Translation: springen ;
-             springe  ; springst ; springt  ;
+Translation: springe  ; springst ; springt  ;
              springen ; springt  ; springen
 
 
@@ -85,8 +138,7 @@ Translation: springen ;
 New Norwegian
 =============
 
-Translation: hoppa  ;
-             hoppar ; hoppar ; hoppar ;
+Translation: hoppar ; hoppar ; hoppar ;
              hoppar ; hoppar ; hoppar
 
 
@@ -94,8 +146,7 @@ Translation: hoppa  ;
 Norwegian
 =========
 
-Translation: hoppe  ;
-             hopper ; hopper ; hopper ;
+Translation: hopper ; hopper ; hopper ;
              hopper ; hopper ; hopper
 
 
@@ -103,6 +154,5 @@ Translation: hoppe  ;
 Swedish
 =======
 
-Translation: hoppa  ;
-             hoppar ; hoppar ; hoppar ;
+Translation: hoppar ; hoppar ; hoppar ;
              hoppar ; hoppar ; hoppar

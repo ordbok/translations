@@ -1,18 +1,73 @@
 Meta
 ====
 
-Structure: Infinitive, Indefinite ;
-           Singular, First Person ; Singular, Second Person ; Singular, Third Person ;
+Structure: Singular, First Person ; Singular, Second Person ; Singular, Third Person ;
            Plural, First Person   ; Plural, Second Person   ; Plural, Third Person
 
-Grammar:   Verb ; Present
+Grammar:   Verb ; Infinitive
+
+Relation:  do ; did
+
 
 
 English
 =======
 
-Translation: do ;
-             do ; do ; does ;
+Translation: to do ; to do ; to do ;
+             to do ; to do ; to do
+
+
+
+German
+======
+
+Translation: zu machen ; zu machen ; zu machen ;
+             zu machen ; zu machen ; zu machen
+
+
+
+New Norwegian
+=============
+
+Translation: å gjere ; å gjere ; å gjere ;
+             å gjere ; å gjere ; å gjere ;
+
+
+
+Norwegian
+=========
+
+Translation: å gjøre ; å gjøre ; å gjøre ;
+             å gjøre ; å gjøre ; å gjøre
+
+
+
+Swedish
+=======
+
+Translation: att göra ; att göra ; att göra ;
+             att göra ; att göra ; att göra
+
+
+
+--------------------------------------------------------------------------------
+
+Meta
+====
+
+Structure: Singular, First Person ; Singular, Second Person ; Singular, Third Person ;
+           Plural, First Person   ; Plural, Second Person   ; Plural, Third Person
+
+Grammar:   Verb ; Present
+
+Relation:  do ; did
+
+
+
+English
+=======
+
+Translation: do ; do ; does ;
              do ; do ; do
 
 
@@ -20,8 +75,7 @@ Translation: do ;
 German
 ======
 
-Translation: machen ;
-             mache  ; machst ; macht  ;
+Translation: mache  ; machst ; macht  ;
              machen ; macht  ; machen
 
 
@@ -29,8 +83,7 @@ Translation: machen ;
 New Norwegian
 =============
 
-Translation: gjere ;
-             gjer  ; gjer ; gjer ;
+Translation: gjer  ; gjer ; gjer ;
              gjer  ; gjer ; gjer
 
 
@@ -38,8 +91,7 @@ Translation: gjere ;
 Norwegian
 =========
 
-Translation: gjøre ;
-             gjør  ; gjør ; gjør ;
+Translation: gjør  ; gjør ; gjør ;
              gjør  ; gjør ; gjør
 
 
@@ -47,6 +99,5 @@ Translation: gjøre ;
 Swedish
 =======
 
-Translation: göra ;
-             gör  ; gör ; gör ;
+Translation: gör  ; gör ; gör ;
              gör  ; gör ; gör

@@ -1,19 +1,73 @@
 Meta
 ====
 
-Structure: Infinitive, Indefinite ;
-           Singular, First Person ; Singular, Second Person ; Singular, Third Person ;
+Structure: Singular, First Person ; Singular, Second Person ; Singular, Third Person ;
            Plural, First Person   ; Plural, Second Person   ; Plural, Third Person
 
-Grammar:   Verb ; Present
+Grammar:   Verb ; Infinitive
+
+Relation:  make ; made
 
 
 
 English
 =======
 
-Translation: make ;
-             make ; make ; makes ;
+Translation: to make ; to make ; to make ;
+             to make ; to make ; to make
+
+
+
+German
+======
+
+Translation: zu machen ; zu machen ; zu machen ;
+             zu machen ; zu machen ; zu machen
+
+
+
+New Norwegian
+=============
+
+Translation: å lage ; å lage ; å lage ;
+             å lage ; å lage ; å lage
+
+
+
+Norwegian
+=========
+
+Translation: å lage ; å lage ; å lage ;
+             å lage ; å lage ; å lage
+
+
+
+Swedish
+=======
+
+Translation: att göra ; att göra ; att göra ;
+             att göra ; att göra ; att göra
+
+
+
+--------------------------------------------------------------------------------
+
+Meta
+====
+
+Structure: Singular, First Person ; Singular, Second Person ; Singular, Third Person ;
+           Plural, First Person   ; Plural, Second Person   ; Plural, Third Person
+
+Grammar:   Verb ; Present
+
+Relation:  make ; made
+
+
+
+English
+=======
+
+Translation: make ; make ; makes ;
              make ; make ; make
 
 
@@ -21,8 +75,7 @@ Translation: make ;
 German
 ======
 
-Translation: machen ;
-             mache  ; machst ; macht  ;
+Translation: mache  ; machst ; macht  ;
              machen ; macht  ; machen
 
 
@@ -30,8 +83,7 @@ Translation: machen ;
 New Norwegian
 =============
 
-Translation: lage  ;
-             lagar ; lagar ; lagar ;
+Translation: lagar ; lagar ; lagar ;
              lagar ; lagar ; lagar
 
 
@@ -39,8 +91,7 @@ Translation: lage  ;
 Norwegian
 =========
 
-Translation: lage  ;
-             lager ; lager ; lager ;
+Translation: lager ; lager ; lager ;
              lager ; lager ; lager
 
 
@@ -48,6 +99,5 @@ Translation: lage  ;
 Swedish
 =======
 
-Translation: göra ;
-             gör  ; gör ; gör ;
+Translation: gör  ; gör ; gör ;
              gör  ; gör ; gör
