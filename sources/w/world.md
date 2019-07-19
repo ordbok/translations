@@ -21,7 +21,7 @@ German
 
 Translation: (eine) Welt ; die Welt ; Welten ; die Welten
 
-Tags:        Feminine
+Grammar:     Feminine
 
 
 
