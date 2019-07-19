@@ -50,6 +50,6 @@ Translation: mye   ; mye   ; mye   ; mange ;
 Swedish
 =======
 
-Translation: mycken ; mycken ; mycket ; många
-             mycken ; mycken ; mycket ; många
+Translation: mycken ; mycken ; mycket ; många ;
+             mycken ; mycken ; mycket ; många ;
              mångna ; mångne ; mångna ; många
