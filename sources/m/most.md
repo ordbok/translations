@@ -25,7 +25,7 @@ German
 
 Translation: am meisten ; am meisten ; am meisten ; am meisten ;
              meiste     ; meister    ; meistes    ; meiste     ;
-             meiste     ; meiste     ; meiste     ; meisten    ;
+             meiste     ; meiste     ; meiste     ; meisten
 
 
 
@@ -52,4 +52,4 @@ Swedish
 
 Translation: mest  ; mest  ; mest  ; flest ;
              mest  ; mest  ; mest  ; flesta ;
-             mesta ; meste ; mesta ; flesta ;
+             mesta ; meste ; mesta ; flesta
