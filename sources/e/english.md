@@ -54,14 +54,12 @@ Grammar:     Neuter
 
 --------------------------------------------------------------------------------
 
-
-
 Meta
 ====
 
-Structure: Indefinite, Common ;
-           Singular, Feminine ; Singular, Masculine ; Singular, Neuter ;
-           Plural, Feminine   ; Plural, Masculine   ; Plural, Neuter
+Structure: Singular, Predicative, Feminine ; Singular, Predicative, Masculine ; Singular, Predicative, Neuter ; Plural, Predicative, Common ;
+           Singular, Indefinite, Feminine  ; Singular, Indefinite, Masculine  ; Singular, Indefinite, Neuter  ; Plural, Indefinite, Common  ;
+           Singular, Definite, Feminine    ; Singular, Definite, Masculine    ; Singular, Definite, Neuter    ; Plural, Definite, Common
 
 Grammar:   Adjective ; Positive
 
@@ -70,42 +68,42 @@ Grammar:   Adjective ; Positive
 English
 =======
 
-Translation: english ;
-             english ; english ; english ;
-             english ; english ; english
+Translation: english ; english ; english ; english ;
+             english ; english ; english ; english ;
+             english ; english ; english ; english
 
 
 
 German
 ======
 
-Translation: englisch  ;
-             englische ; englischer ; englisches ;
-             englische ; englische  ; englische
+Translation: englisch  ; englisch   ; englisch   ; englisch   ;
+             englische ; englischer ; englisches ; englische  ;
+             englische ; englische  ; englische  ; englischen
 
 
 
 New Norwegian
 =============
 
-Translation: engelsk  ;
-             engelsk  ; engelsk  ; engelsk  ;
-             engelske ; engelske ; engelske
+Translation: engelsk  ; engelsk  ; engelsk  ; engelske ;
+             engelsk  ; engelsk  ; engelsk  ; engelske ;
+             engelske ; engelske ; engelske ; engelske
 
 
 
 Norwegian
 =========
 
-Translation: engelsk  ;
-             engelsk  ; engelsk  ; engelsk  ;
-             engelske ; engelske ; engelske
+Translation: engelsk  ; engelsk  ; engelsk  ; engelske ;
+             engelsk  ; engelsk  ; engelsk  ; engelske ;
+             engelske ; engelske ; engelske ; engelske
 
 
 
 Swedish
 =======
 
-Translation: engelsk  ;
-             engelsk  ; engelsk  ; engelskt ;
-             engelska ; engelska ; engelska
+Translation: engelsk  ; engelsk  ; engelskt ; engelska ;
+             engelsk  ; engelsk  ; engelskt ; engelska ;
+             engelska ; engelske ; engelska ; engelska
