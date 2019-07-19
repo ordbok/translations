@@ -54,14 +54,12 @@ Grammar:     Neuter
 
 --------------------------------------------------------------------------------
 
-
-
 Meta
 ====
 
-Structure: Indefinite, Common ;
-           Singular, Feminine ; Singular, Masculine ; Singular, Neuter ;
-           Plural, Feminine   ; Plural, Masculine   ; Plural, Neuter
+Structure: Singular, Predicative, Feminine ; Singular, Predicative, Masculine ; Singular, Predicative, Neuter ; Plural, Predicative, Common ;
+           Singular, Indefinite, Feminine  ; Singular, Indefinite, Masculine  ; Singular, Indefinite, Neuter  ; Plural, Indefinite, Common  ;
+           Singular, Definite, Feminine    ; Singular, Definite, Masculine    ; Singular, Definite, Neuter    ; Plural, Definite, Common
 
 Grammar:   Adjective ; Positive
 
@@ -70,42 +68,42 @@ Grammar:   Adjective ; Positive
 English
 =======
 
-Translation: norwegian ;
-             norwegian ; norwegian ; norwegian ;
-             norwegian ; norwegian ; norwegian
+Translation: norwegian ; norwegian ; norwegian ; norwegian ;
+             norwegian ; norwegian ; norwegian ; norwegian ;
+             norwegian ; norwegian ; norwegian ; norwegian
 
 
 
 German
 ======
 
-Translation: norwegisch  ;
-             norwegische ; norwegischer ; norwegisches ;
-             norwegische ; norwegische  ; norwegische
+Translation: norwegisch  ; norwegisch   ; norwegisch   ; norwegisch   ;
+             norwegische ; norwegischer ; norwegisches ; norwegische  ;
+             norwegische ; norwegische  ; norwegische  ; norwegischen
 
 
 
 New Norwegian
 =============
 
-Translation: norsk  ;
-             norsk  ; norsk  ; norsk  ;
-             norske ; norske ; norske
+Translation: norsk  ; norsk  ; norsk  ; norske ;
+             norsk  ; norsk  ; norsk  ; norske ;
+             norske ; norske ; norske ; norske
 
 
 
 Norwegian
 =========
 
-Translation: norsk
-             norsk  ; norsk  ; norsk  ;
-             norske ; norske ; norske
+Translation: norsk  ; norsk  ; norsk  ; norske ;
+             norsk  ; norsk  ; norsk  ; norske ;
+             norske ; norske ; norske ; norske
 
 
 
 Swedish
 =======
 
-Translation: norsk  ;
-             norsk  ; norsk  ; norskt ;
-             norska ; norska ; norska
+Translation: norsk  ; norsk  ; norskt ; norska ;
+             norsk  ; norsk  ; norskt ; norska ;
+             norska ; norske ; norska ; norska
