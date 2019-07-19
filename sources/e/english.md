@@ -97,7 +97,7 @@ Translation: engelsk  ;
 Norwegian
 =========
 
-Translation: engelsk
+Translation: engelsk  ;
              engelsk  ; engelsk  ; engelsk  ;
              engelske ; engelske ; engelske
 
@@ -106,6 +106,6 @@ Translation: engelsk
 Swedish
 =======
 
-Translation: engelsk ;
+Translation: engelsk  ;
              engelsk  ; engelsk  ; engelskt ;
              engelska ; engelska ; engelska
