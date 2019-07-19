@@ -41,7 +41,7 @@ Translation: meir ; meir ; meir ; fleire ;
 Norwegian
 =========
 
-Translation: mer ; mer : mer ; flere ;
+Translation: mer ; mer ; mer ; flere ;
              mer ; mer ; mer ; flere ;
              mer ; mer ; mer ; flere
 
