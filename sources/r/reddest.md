@@ -1,11 +1,13 @@
 Meta
 ====
 
-Structure: Singular, Feminine             ; Singular, Masculine             ; Singular, Neuter             ; Plural, Common             ;
-           Singular, Indefinite, Feminine ; Singular, Indefinite, Masculine ; Singular, Indefinite, Neuter ; Plural, Indefinite, Common ;
-           Singular, Definite, Feminine   ; Singular, Definite, Masculine   ; Singular, Definite, Neuter   ; Plural, Definite, Common
+Structure: Singular, Predicative, Feminine ; Singular, Predicative, Masculine ; Singular, Predicative, Neuter ; Plural, Predicative, Common ;
+           Singular, Indefinite, Feminine  ; Singular, Indefinite, Masculine  ; Singular, Indefinite, Neuter  ; Plural, Indefinite, Common  ;
+           Singular, Definite, Feminine    ; Singular, Definite, Masculine    ; Singular, Definite, Neuter    ; Plural, Definite, Common
 
 Grammar:   Adjective ; Superlative
+
+Relation:  red ; redder ; reddest
 
 
 

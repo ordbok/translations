@@ -1,53 +1,55 @@
 Meta
 ====
 
-Structure: Indefinite, Common ;
-           Singular, Feminine ; Singular, Masculine ; Singular, Neuter ;
-           Plural, Feminine   ; Plural, Masculine   ; Plural, Neuter
+Structure: Singular, Predicative, Feminine ; Singular, Predicative, Masculine ; Singular, Predicative, Neuter ; Plural, Predicative, Common ;
+           Singular, Indefinite, Feminine  ; Singular, Indefinite, Masculine  ; Singular, Indefinite, Neuter  ; Plural, Indefinite, Common  ;
+           Singular, Definite, Feminine    ; Singular, Definite, Masculine    ; Singular, Definite, Neuter    ; Plural, Definite, Common
 
 Grammar:   Adjective ; Comparative
+
+Relation:  much ; more ; most
 
 
 
 English
 =======
 
-Translation: much ;
-             more ; more ; more ;
-             more ; more ; more
+Translation: more ; more ; more ; more ;
+             more ; more ; more ; more ;
+             more ; more ; more ; more
 
 
 
 German
 ======
 
-Translation: viel ;
-             mehr ; mehr ; mehr ;
-             mehr ; mehr ; mehr
+Translation: mehr    ; mehr     ; mehr     ; mehr     ;
+             mehrere ; mehrerer ; mehreres ; mehrere  ;
+             mehrere ; mehrere  ; mehrere  ; mehreren
 
 
 
 New Norwegian
 =============
 
-Translation: mykje  ;
-             meir   ; meir   ; meir   ;
-             fleire ; fleire ; fleire
+Translation: meir ; meir ; meir ; fleire ;
+             meir ; meir ; meir ; fleire ;
+             meir ; meir ; meir ; fleire
 
 
 
 Norwegian
 =========
 
-Translation: mye   ;
-             mer   ; mer   : mer   ;
-             flere ; flere ; flere
+Translation: mer ; mer : mer ; flere ;
+             mer ; mer ; mer ; flere ;
+             mer ; mer ; mer ; flere
 
 
 
 Swedish
 =======
 
-Translation: mycken ;
-             mer    ; mer   ; mer   ;
-             flera  ; flera ; flera
+Translation: mer ; mer ; mer ; flera ;
+             mer ; mer ; mer ; flera ;
+             mer ; mer ; mer ; flera

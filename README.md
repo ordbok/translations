@@ -38,6 +38,8 @@ Grammatical Definiteness
 
 - Indefinite
 
+- Predicative
+
 Grammatical Gender
 ------------------
 
