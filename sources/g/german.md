@@ -172,14 +172,12 @@ Grammar:     Common
 
 --------------------------------------------------------------------------------
 
-
-
 Meta
 ====
 
-Structure: Indefinite, Common ;
-           Singular, Feminine ; Singular, Masculine ; Singular, Neuter ;
-           Plural, Feminine   ; Plural, Masculine   ; Plural, Neuter
+Structure: Singular, Predicative, Feminine ; Singular, Predicative, Masculine ; Singular, Predicative, Neuter ; Plural, Predicative, Common ;
+           Singular, Indefinite, Feminine  ; Singular, Indefinite, Masculine  ; Singular, Indefinite, Neuter  ; Plural, Indefinite, Common  ;
+           Singular, Definite, Feminine    ; Singular, Definite, Masculine    ; Singular, Definite, Neuter    ; Plural, Definite, Common
 
 Grammar:   Adjective ; Positive
 
@@ -224,6 +222,6 @@ Translation: tysk  ;
 Swedish
 =======
 
-Translation: tysk  ;
-             tysk  ; tysk  ; tyskt ;
-             tyska ; tyska ; tyska
+Translation: tysk  ; tysk  ; tyskt ; tyska ;
+             tysk  ; tysk  ; tyskt ; tyska ;
+             tyska ; tyske ; tyska ; tyska
