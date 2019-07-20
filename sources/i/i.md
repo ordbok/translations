@@ -1,45 +1,42 @@
 Meta
 ====
 
-Structure: Singular, Feminine ; Singular, Masculine ; Singular, Neuter ;
-           Plural, Feminine   ; Plural, Masculine   ; Plural, Neuter
+Structure: Singular, Feminine ; Singular, Masculine ; Singular, Neuter ; Plural, Common
 
-Grammar: Pronoun; First Person
+Grammar:   Pronoun ; First Person ; Singular
+
+Relation:  i ; you ; he ; she ; it ; we ; we together ; they
+
 
 
 English
 =======
 
-Translation: i ; i ; i ;
-             - ; - ; -
+Translation: i ; i ; i ; -
 
 
 
 German
 ======
 
-Translation: ich ; ich ; ich ;
-             -   ; -   ; -
+Translation: ich ; ich ; ich ; -
 
 
 
 New Norwegian
 =============
 
-Translation: eg ; eg ; eg ;
-             -  ; -  ; -
+Translation: eg ; eg ; eg ; -
 
 
 
 Norwegian
 =========
 
-Translation: jeg ; jeg ; jeg ;
-             -   ; -   ; -
+Translation: jeg ; jeg ; jeg ; -
 
 
 Swedish
 =======
 
-Translation: jag ; jag ; jag ;
-             -   ; -   ; -
+Translation: jag ; jag ; jag ; -
