@@ -186,36 +186,36 @@ Grammar:   Adjective ; Positive
 English
 =======
 
-Translation: german ;
-             german ; german ; german ;
-             german ; german ; german
+Translation: german ; german ; german ; german ;
+             german ; german ; german ; german ;
+             german ; german ; german ; german
 
 
 
 German
 ======
 
-Translation: deutsch   ;
-             deutsche  ; deutscher ; deutsches ;
-             deutschen ; deutschen ; deutschen
+Translation: deutsch   ; deutsch   ; deutsch   ; deutsch   ;
+             deutsche  ; deutscher ; deutsches ; deutsche  ;
+             deutschen ; deutschen ; deutschen ; deutschen
 
 
 
 New Norwegian
 =============
 
-Translation: tysk  ;
-             tysk  ; tysk  ; tysk  ;
-             tyske ; tyske ; tyske
+Translation: tysk  ; tysk  ; tysk  ; tyske ;
+             tysk  ; tysk  ; tysk  ; tyske ;
+             tyske ; tyske ; tyske ; tyske
 
 
 
 Norwegian
 =========
 
-Translation: tysk  ;
-             tysk  ; tysk  ; tysk  ;
-             tyske ; tyske ; tyske
+Translation: tysk  ; tysk  ; tysk  ; tyske ;
+             tysk  ; tysk  ; tysk  ; tyske ;
+             tyske ; tyske ; tyske ; tyske
 
 
 
