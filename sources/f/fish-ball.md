@@ -10,7 +10,7 @@ Grammar:   Noun
 English
 =======
 
-Translation: (a) fishball ; the fishball ; fishballs ; the fishballs
+Translation: (a) fish ball ; the fish ball ; fish balls ; the fish balls
 
 Grammar:     Neuter
 
