@@ -1,9 +1,9 @@
 Language
 ========
 
-Tranlsation: Indefinite, Common ;
-             Singular, Feminine ; Singular, Masculine ; Singular, Neuter ;
-             Plural, Feminine   ; Plural, Masculine   ; Plural, Neuter
+Translation: Singular, Predicative, Feminine ; Singular, Predicative, Masculine ; Singular, Predicative, Neuter ; Plural, Predicative, Common ;
+             Singular, Indefinite, Feminine  ; Singular, Indefinite, Masculine  ; Singular, Indefinite, Neuter  ; Plural, Indefinite, Common  ;
+             Singular, Definite, Feminine    ; Singular, Definite, Masculine    ; Singular, Definite, Neuter    ; Plural, Definite, Common
 
 Grammar:     Adjective ; Positive / Comparative / Superlative
 
@@ -12,9 +12,9 @@ Grammar:     Adjective ; Positive / Comparative / Superlative
 Language
 ========
 
-Translation: Feminine ; Masculine ; Neuter
+Translation: Singular, Feminine ; Singular, Masculine ; Singular, Neuter ; Plural, Common
 
-Grammar:     Determiner ; Singular / Plural ; Indefinite / Definite
+Grammar:     Determiner ; Indefinite / Definite / First Person / Second Person / Third Person ; Indefinite / Singular / Plural
 
 --------------------------------------------------------------------------------
 
@@ -41,7 +41,7 @@ Language
 
 Translation: Singular, Feminine ; Singular, Masculine ; Singular, Neuter ; Plural, Common
 
-Grammar:     Pronoun ; Indefinite / First Person / Second Person / Third Person
+Grammar:     Pronoun ; Indefinite / First Person / Second Person / Third Person ; Indefinite / Singular / Plural
 
 --------------------------------------------------------------------------------
 
