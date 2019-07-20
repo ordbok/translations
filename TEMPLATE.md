@@ -39,8 +39,7 @@ Grammar:     Phrase
 Language
 ========
 
-Translation: Singular, Feminine ; Singular, Masculine ; Singular, Neuter ;
-             Plural, Feminine   ; Plural, Masculine   ; Plural, Neuter
+Translation: Singular, Feminine ; Singular, Masculine ; Singular, Neuter ; Plural, Common
 
 Grammar:     Pronoun ; Indefinite / First Person / Second Person / Third Person
 
@@ -49,8 +48,7 @@ Grammar:     Pronoun ; Indefinite / First Person / Second Person / Third Person
 Language
 ========
 
-Translation: Infinitive, Indefinite ;
-             Singular, First Person ; Singular, Second Person ; Singular, Third Person ;
+Translation: Singular, First Person ; Singular, Second Person ; Singular, Third Person ;
              Plural, First Person   ; Plural, Second Person   ; Plural, Third Person
 
 Grammar:     Verb ; Infinitive / Present / Past / Future / Present Perfect / Past Perfect / Future Perfect
