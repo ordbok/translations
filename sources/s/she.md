@@ -1,45 +1,42 @@
 Meta
 ====
 
-Structure: Singular, Feminine ; Singular, Masculine ; Singular, Neuter ;
-           Plural, Feminine   ; Plural, Masculine   ; Plural, Neuter
+Structure: Singular, Feminine ; Singular, Masculine ; Singular, Neuter ; Plural, Common
 
-Grammar: Pronoun; Third Person
+Grammar:   Pronoun ; Third Person ; Singular
+
+Relation:  i ; you ; he ; she ; it ; we ; we together ; they
+
 
 
 English
 =======
 
-Translation: she ; - ; - ;
-             -   ; - ; -
+Translation: she ; - ; - ; -
 
 
 
 German
 ======
 
-Translation: sie ; - ; - ;
-             -   ; - ; -
+Translation: sie ; - ; - ; -
 
 
 
 New Norwegian
 =============
 
-Translation: ho ; - ; - ;
-             -  ; - ; -
+Translation: ho ; - ; - ; -
 
 
 
 Norwegian
 =========
 
-Translation: hun ; - ; - ;
-             -   ; - ; -
+Translation: hun ; - ; - ; -
 
 
 Swedish
 =======
 
-Translation: hon ; - ; - ;
-             -   ; - ; -
+Translation: hon ; - ; - ; -
