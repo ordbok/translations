@@ -1,46 +1,91 @@
 Meta
 ====
 
-Structure: Singular, Feminine ; Singular, Masculine ; Singular, Neuter ;
-           Plural, Feminine   ; Plural, Masculine   ; Plural, Neuter
+Structure: Singular, Feminine ; Singular, Masculine ; Singular, Neuter ; Plural, Common
 
-Grammar: Pronoun; Second Person
+Grammar:   Pronoun ; Second Person ; Singular
+
+Relation:  i ; you ; he ; she ; it ; we ; we together ; they
+
 
 
 English
 =======
 
-Translation: you ; you ; you ;
-             you ; you ; you
+Translation: you ; you ; you ; -
 
 
 
 German
 ======
 
-Translation: du  ; du  ; du ;
-             ihr ; ihr ; ihr
+Translation: du ; du ; du ; -
 
 
 
 New Norwegian
 =============
 
-Translation: du ; du ; du ;
-             de ; de ; de
+Translation: du ; du ; du ; -
 
 
 
 Norwegian
 =========
 
-Translation: du   ; du   ; du   ;
-             dere ; dere ; dere
+Translation: du ; du ; du ; -
 
 
 
 Swedish
 =======
 
-Translation: du ; du ; du ;
-             ni ; ni ; ni
+Translation: du ; du ; du ; -
+
+
+
+--------------------------------------------------------------------------------
+
+Meta
+====
+
+Structure: Singular, Feminine ; Singular, Masculine ; Singular, Neuter ; Plural, Common
+
+Grammar:   Pronoun ; Second Person ; Plural
+
+Relation:  i ; you ; he ; she ; it ; we ; we together ; they
+
+
+
+English
+=======
+
+Translation: - ; - ; - ; you
+
+
+
+German
+======
+
+Translation: - ; - ; - ; ihr
+
+
+
+New Norwegian
+=============
+
+Translation: - ; - ; - ; de
+
+
+
+Norwegian
+=========
+
+Translation: - ; - ; - ; dere
+
+
+
+Swedish
+=======
+
+Translation: - ; - ; - ; ni
