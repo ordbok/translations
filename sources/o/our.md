@@ -5,6 +5,8 @@ Structure: Singular, Feminine ; Singular, Masculine ; Singular, Neuter ; Plural,
 
 Grammar:   Determiner ; First Person ; Plural
 
+Relation:  my ; your ; her ; his ; its ; our ; your ; their
+
 
 
 English
@@ -17,7 +19,7 @@ Translation: our ; our ; our ; our
 German
 ======
 
-Translation: unsere ; unser ; unseres ; unsere
+Translation: unsere ; unser ; unser ; unsere
 
 
 
