@@ -3,7 +3,9 @@ Meta
 
 Structure: Singular, Feminine ; Singular, Masculine ; Singular, Neuter ; Plural, Common
 
-Grammar:   Determiner ; First Person ; Singular
+Grammar:   Determiner ; First Person ; Singular ; Common
+
+Relation:  my ; your ; her ; his ; its ; our ; your ; their
 
 
 
