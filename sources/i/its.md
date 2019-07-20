@@ -5,6 +5,8 @@ Structure: Singular, Feminine ; Singular, Masculine ; Singular, Neuter ; Plural,
 
 Grammar:   Determiner ; Third Person ; Singular ; Neuter
 
+Relation:  my ; your ; her ; his ; its ; our ; your ; their
+
 
 
 English
