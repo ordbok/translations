@@ -3,6 +3,52 @@ Meta
 
 Structure: Singular, Feminine ; Singular, Masculine ; Singular, Neuter ; Plural, Common
 
+Grammar:   Determiner ; Third Person ; Singular ; Common
+
+
+
+English
+=======
+
+Translation: their ; their ; their ; their
+
+
+
+German
+======
+
+Translation: Ihre ; Ihr ; Ihr ; Ihre
+
+
+
+New Norwegian
+=============
+
+Translation: dens ; dens ; dens ; dens
+
+
+
+Norwegian
+=========
+
+Translation: dens ; dens ; dens ; dens
+
+
+
+Swedish
+=======
+
+Translation: hens ; hens ; hens ; hens
+
+
+
+--------------------------------------------------------------------------------
+
+Meta
+====
+
+Structure: Singular, Feminine ; Singular, Masculine ; Singular, Neuter ; Plural, Common
+
 Grammar:   Determiner ; Third Person ; Plural
 
 
