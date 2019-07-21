@@ -5,7 +5,7 @@ Translation: Singular, Predicative, Feminine ; Singular, Predicative, Masculine 
              Singular, Indefinite, Feminine  ; Singular, Indefinite, Masculine  ; Singular, Indefinite, Neuter  ; Plural, Indefinite, Common  ;
              Singular, Definite, Feminine    ; Singular, Definite, Masculine    ; Singular, Definite, Neuter    ; Plural, Definite, Common
 
-Grammar:     Adjective ; Positive / Comparative / Superlative
+Grammar:     Adjective ; Positive
 
 
 
@@ -32,7 +32,7 @@ New Norwegian
 
 Translation: uvirkelig  ; uvirkelig  ; uvirkelig  ; uvirkelige ;
              uvirkelig  ; uvirkelig  ; uvirkelig  ; uvirkelige ;
-             uvirkelige ; uvirkelige ; uvirkelige ; uvirkelige ;
+             uvirkelige ; uvirkelige ; uvirkelige ; uvirkelige
 
 
 
@@ -41,7 +41,7 @@ Norwegian
 
 Translation: uvirkelig  ; uvirkelig  ; uvirkelig  ; uvirkelige ;
              uvirkelig  ; uvirkelig  ; uvirkelig  ; uvirkelige ;
-             uvirkelige ; uvirkelige ; uvirkelige ; uvirkelige ;
+             uvirkelige ; uvirkelige ; uvirkelige ; uvirkelige
 
 
 
