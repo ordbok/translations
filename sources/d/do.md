@@ -30,7 +30,7 @@ New Norwegian
 =============
 
 Translation: å gjere ; å gjere ; å gjere ;
-             å gjere ; å gjere ; å gjere ;
+             å gjere ; å gjere ; å gjere
 
 
 
@@ -83,21 +83,21 @@ Translation: mache  ; machst ; macht  ;
 New Norwegian
 =============
 
-Translation: gjer  ; gjer ; gjer ;
-             gjer  ; gjer ; gjer
+Translation: gjer ; gjer ; gjer ;
+             gjer ; gjer ; gjer
 
 
 
 Norwegian
 =========
 
-Translation: gjør  ; gjør ; gjør ;
-             gjør  ; gjør ; gjør
+Translation: gjør ; gjør ; gjør ;
+             gjør ; gjør ; gjør
 
 
 
 Swedish
 =======
 
-Translation: gör  ; gör ; gör ;
-             gör  ; gör ; gör
+Translation: gör ; gör ; gör ;
+             gör ; gör ; gör
