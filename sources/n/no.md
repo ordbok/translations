@@ -1,7 +1,7 @@
 Meta
 ====
 
-Grammar: Phrase
+Grammar: Particle
 
 
 English
