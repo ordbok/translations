@@ -5,6 +5,8 @@ Structure: Singular, Indefinite ; Singular, Definite ; Plural, Indefinite ; Plur
 
 Grammar:   Noun
 
+Relation:  earthquake ; quake
+
 
 
 English
@@ -40,8 +42,6 @@ Norwegian
 Translation: (et) jordskjelv ; jordskjelvet ; jordskjelv ; jordskjelvene
 
 Grammar:     Neuter
-
-Relation:  quake ; earthquake
 
 
 
