@@ -6,7 +6,7 @@ Structure: Singular, First Person ; Singular, Second Person ; Singular, Third Pe
 
 Grammar:   Verb ; Infinitive
 
-Relation:  quake ; earthquake
+Relation:  earthquake ; quake
 
 
 
@@ -60,7 +60,7 @@ Structure: Singular, First Person ; Singular, Second Person ; Singular, Third Pe
 
 Grammar:   Verb ; Present
 
-Relation:  make ; made
+Relation:  earthquake ; quake
 
 
 
