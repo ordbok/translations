@@ -14,7 +14,7 @@ English
 
 Translation: (a) woman ; the woman ; women ; the women
 
-Grammar:     Neuter
+Grammar:     Feminine
 
 
 
