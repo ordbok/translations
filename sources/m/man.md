@@ -14,7 +14,7 @@ English
 
 Translation: (a) man ; the man ; men ; the men
 
-Grammar:     Neuter
+Grammar:     Masculine
 
 
 
