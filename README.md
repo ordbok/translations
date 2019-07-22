@@ -1,7 +1,9 @@
-ORDBOK translations
+ORDBOK Translations
 ===================
 
 This package contains all translations.
+
+
 
 
 
@@ -12,8 +14,10 @@ The easiest way to provide a single translation is by creating a
 [new issue](https://github.com/ordbok/translations/issues/new/choose). If you
 like to contribute several translations, a pull request is the preferred way.
 Please limit the number of changed files in each pull request to a maximum of
-20 files. Take a look at the [templates](./.github/ISSUE_TEMPLATE) for
-structuring the Markdown files.
+20 files. Take a look at the [TEMPLATE.md](TEMPLATE.md) for structuring the
+Markdown files.
+
+
 
 
 
@@ -21,6 +25,8 @@ Grammar
 =======
 
 Possible grammar values are a combination of the following groups.
+
+
 
 Grammatical Comparitive
 -----------------------
@@ -31,6 +37,8 @@ Grammatical Comparitive
 
 - Superlative: highest level
 
+
+
 Grammatical Definiteness
 ------------------------
 
@@ -39,6 +47,8 @@ Grammatical Definiteness
 - Indefinite
 
 - Predicative
+
+
 
 Grammatical Gender
 ------------------
@@ -55,6 +65,8 @@ Grammatical Gender
 
 - Neuter
 
+
+
 Grammatical Person
 ------------------
 
@@ -66,6 +78,8 @@ Grammatical Person
 
 - Third Person
 
+
+
 Grammatical Plurals
 -------------------
 
@@ -74,6 +88,8 @@ Grammatical Plurals
 - Plural
 
 - Singular
+
+
 
 Grammatical Type
 ----------------
@@ -89,6 +105,8 @@ Grammatical Type
 - Pronoun
 
 - Verb
+
+
 
 Grammatical Tense
 -----------------
