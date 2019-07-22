@@ -100,6 +100,8 @@ Grammatical Type
 
 - Noun
 
+- Particle
+
 - Phrase
 
 - Pronoun
