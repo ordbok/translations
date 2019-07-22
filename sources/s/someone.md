@@ -19,7 +19,7 @@ Translation: someone ; someone ; - ; some
 German
 ======
 
-Translation: jemand ; jemand ; - ; einige
+Translation: jemand ; jemand ; - ; jemand
 
 
 
