@@ -22,7 +22,7 @@ German
 ======
 
 Translation: zu übersetzen ; zu übersetzen ; zu übersetzen ;
-             zu übersetzen ; zu übersetzen ; zu übersetzen ;
+             zu übersetzen ; zu übersetzen ; zu übersetzen
 
 
 
