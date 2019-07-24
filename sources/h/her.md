@@ -41,3 +41,50 @@ Swedish
 =======
 
 Translation: hennes ; hennes ; hennes ; hennes
+
+
+
+--------------------------------------------------------------------------------
+
+Meta
+====
+
+Structure: Singular, Feminine ; Singular, Masculine ; Singular, Neuter ; Plural, Common
+
+Grammar:   Pronoun ; Third Person ; Singular
+
+Relation:  me ; you ; her ; him ; it ; us ; them
+
+
+
+English
+=======
+
+Translation: her ; - ; - ; -
+
+
+
+German
+======
+
+Translation: ihr ; - ; - ; -
+
+
+
+New Norwegian
+=============
+
+Translation: henne ; - ; - ; -
+
+
+
+Norwegian
+=========
+
+Translation: henne ; - ; - ; -
+
+
+Swedish
+=======
+
+Translation: henne ; - ; - ; -
