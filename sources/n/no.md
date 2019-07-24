@@ -44,9 +44,9 @@ Translation: nej
 Meta
 ====
 
-Translation: Singular, Feminine ; Singular, Masculine ; Singular, Neuter ; Plural, Common
+Structure: Singular, Feminine ; Singular, Masculine ; Singular, Neuter ; Plural, Common
 
-Grammar:     Determiner ; Indefinite
+Grammar:   Determiner ; Indefinite
 
 
 
