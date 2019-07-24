@@ -52,7 +52,7 @@ Structure: Singular, Feminine ; Singular, Masculine ; Singular, Neuter ; Plural,
 
 Grammar:   Pronoun ; Third Person ; Singular
 
-Relation:  me ; you ; her ; him ; it ; us ; them
+Relation:  me ; you ; her ; him ; it ; us ; you ; them
 
 
 

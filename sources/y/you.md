@@ -101,7 +101,7 @@ Structure: Singular, Feminine ; Singular, Masculine ; Singular, Neuter ; Plural,
 
 Grammar:   Pronoun ; Second Person ; Singular
 
-Relation:  me ; you ; her ; him ; it ; us ; them
+Relation:  me ; you ; her ; him ; it ; us ; you ; them
 
 
 
@@ -149,7 +149,7 @@ Structure: Singular, Feminine ; Singular, Masculine ; Singular, Neuter ; Plural,
 
 Grammar:   Pronoun ; Second Person ; Plural
 
-Relation:  me ; you ; her ; him ; it ; us ; them
+Relation:  me ; you ; her ; him ; it ; us ; you ; them
 
 
 

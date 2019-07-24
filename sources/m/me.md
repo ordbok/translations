@@ -5,7 +5,7 @@ Structure: Singular, Feminine ; Singular, Masculine ; Singular, Neuter ; Plural,
 
 Grammar:   Pronoun ; First Person ; Singular
 
-Relation:  me ; you ; her ; him ; it ; us ; them
+Relation:  me ; you ; her ; him ; it ; us ; you ; them
 
 
 
