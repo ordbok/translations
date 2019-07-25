@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "noEmitOnError": true,
+        "strict": true,
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "outDir": "tests_build",
+        "rootDir": "tests",
+        "target": "es5"
+    },
+    "exclude": [
+        "dist",
+        "node_modules",
+        "tests_build"
+    ],
+    "include": [
+        "tests/**/*.ts"
+    ]
+}
