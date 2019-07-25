@@ -44,7 +44,7 @@ function testFile (filePath: string): void {
     }
     finally {
 
-        console.log(filePath);
+        console.log('Tested', filePath);
     }
 }
 
