@@ -5,6 +5,8 @@ Structure: Singular, Indefinite ; Singular, Definite ; Plural, Indefinite ; Plur
 
 Grammar:   Noun
 
+Relation:  spring, summer, autumn, winter
+
 
 
 English
