@@ -14,7 +14,7 @@ Language
 
 Translation: Singular, Feminine ; Singular, Masculine ; Singular, Neuter ; Plural, Common
 
-Grammar:     Determiner ; Indefinite / Definite / First Person / Second Person / Third Person ; Indefinite / Singular / Plural
+Grammar:     Determiner ; Indefinite / Definite / First Person / Second Person / Third Person ; Indefinite / Singular / Plural ; Common / Feminine / Masculine / Neuter
 
 --------------------------------------------------------------------------------
 
@@ -24,6 +24,15 @@ Language
 Translation: Singular, Indefinite ; Singular, Definite ; Plural, Indefinite ; Plural, Definite
 
 Grammar:     Noun ; Common / Feminine / Masculine / Neuter
+
+--------------------------------------------------------------------------------
+
+Language
+========
+
+Translation: Indefinite
+
+Grammar:     Particle
 
 --------------------------------------------------------------------------------
 
