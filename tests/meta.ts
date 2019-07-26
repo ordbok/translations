@@ -21,10 +21,10 @@ export function test (markdownPage: IMarkdownPage): void {
         throw new Error('No meta headline found!');
     }
 
-    const metaGrammar = markdownMeta['Grammar'];
-    const metaStructure = markdownMeta['Structure'];
+    const metaGrammar = (markdownMeta['Grammar'] || []);
+    const metaStructure = (markdownMeta['Structure'] || []);
 
-    if (!metaGrammar) {
+    if (!metaGrammar.length) {
         throw new Error('No meta grammar found!');
     }
 
@@ -69,6 +69,11 @@ function testAdjective (grammar: Array<string>, structure: Array<string>): void 
         grammar.length, 2,
         'Adjective grammar is invalid: ' + grammar.join(' ; ')
     );
+
+    Assert.equal(
+        structure.length, 12,
+        'Adjective structure is invalid: ' + structure.join(' ; ')
+    );
 }
 
 function testDeterminer (grammar: Array<string>, structure: Array<string>): void {
@@ -76,6 +81,11 @@ function testDeterminer (grammar: Array<string>, structure: Array<string>): void
     Assert.ok(
         grammar.length >= 2 && grammar.length <= 4,
         'Determiner grammar is invalid: ' + grammar.join(' ; ')
+    );
+
+    Assert.equal(
+        structure.length, 4,
+        'Determiner structure is invalid: ' + structure.join(' ; ')
     );
 }
 
@@ -85,6 +95,11 @@ function testNoun (grammar: Array<string>, structure: Array<string>): void {
         grammar.length, 1,
         'Noun grammar is invalid: ' + grammar.join(' ; ')
     );
+
+    Assert.equal(
+        structure.length, 4,
+        'Noun structure is invalid: ' + structure.join(' ; ')
+    );
 }
 
 function testParticle (grammar: Array<string>, structure: Array<string>): void {
@@ -92,6 +107,11 @@ function testParticle (grammar: Array<string>, structure: Array<string>): void {
     Assert.equal(
         grammar.length, 1,
         'Particle grammar is invalid: ' + grammar.join(' ; ')
+    );
+
+    Assert.equal(
+        structure.length, 0,
+        'Particle structure is invalid: ' + structure.join(' ; ')
     );
 }
 
@@ -101,6 +121,11 @@ function testPhrase (grammar: Array<string>, structure: Array<string>): void {
         grammar.length, 1,
         'Phrase grammar is invalid: ' + grammar.join(' ; ')
     );
+
+    Assert.equal(
+        structure.length, 0,
+        'Phrase structure is invalid: ' + structure.join(' ; ')
+    );
 }
 
 function testPronoun (grammar: Array<string>, structure: Array<string>): void {
@@ -109,6 +134,11 @@ function testPronoun (grammar: Array<string>, structure: Array<string>): void {
         grammar.length >= 2 && grammar.length <= 3,
         'Pronoun grammar is invalid: ' + grammar.join(' ; ')
     );
+
+    Assert.equal(
+        structure.length, 4,
+        'Pronoun structure is invalid: ' + structure.join(' ; ')
+    );
 }
 
 function testVerb (grammar: Array<string>, structure: Array<string>): void {
@@ -116,4 +146,9 @@ function testVerb (grammar: Array<string>, structure: Array<string>): void {
     Assert.equal(
         grammar.length, 2,
         'Verb grammar is invalid: ' + grammar.join(' ; '));
+
+    Assert.equal(
+        structure.length, 6,
+        'Verb structure is invalid: ' + structure.join(' ; ')
+    );
 }
