@@ -19,7 +19,7 @@ Grammar:     Neuter
 German
 ======
 
-Translation: (eine) Pflanze ; (die) Pflanze ; Pflanzen ; die Pflanzen
+Translation: (eine) Pflanze ; die Pflanze ; Pflanzen ; die Pflanzen
 
 Grammar:     Feminine
 
