@@ -1,8 +1,7 @@
 Meta
 ====
 
-Structure: Singular, Feminine ; Singular, Masculine ; Singular, Neuter ;
-           Plural, Feminine   ; Plural , Masculine  ; Plural, Neuter
+Structure: Singular, Feminine ; Singular, Masculine ; Singular, Neuter ; Plural, Common
 
 Grammar:   Pronoun ; Indefinite
 
@@ -10,37 +9,32 @@ Grammar:   Pronoun ; Indefinite
 English
 =======
 
-Translation: which ; which ; which ;
-             which ; which ; which
+Translation: which ; which ; which ; which
 
 
 
 German
 ======
 
-Translation: welche ; welcher ; welches ;
-             welche ; welche  ; welche
+Translation: welche ; welcher ; welches ; welche
 
 
 
 New Norwegian
 =============
 
-Translation: kva for ei ; kva for ein ; kvar for eit ;
-             kvar for   ; kvar for    ; kva  for
+Translation: kva for ei ; kva for ein ; kvar for eit ; kva for
 
 
 
 Norwegian
 =========
 
-Translation: hvilken ; hvilken ; hvilket ;
-             hvilke  ; hvilke  ; hvilke
+Translation: hvilken ; hvilken ; hvilket ; hvilke
 
 
 
 Swedish
 =======
 
-Translation: vilken ; vilken ; vilket ;
-             vilka  ; vilka  ; vilka
+Translation: vilken ; vilken ; vilket ; vilka
