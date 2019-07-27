@@ -47,4 +47,4 @@ Swedish
 
 Translation: (en) värld ; världen ; världar ; världarna
 
-Grammar:     Masculine
+Grammar:     Common
