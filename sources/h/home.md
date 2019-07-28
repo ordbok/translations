@@ -28,7 +28,7 @@ Grammar:     Neuter
 New Norwegian
 =============
 
-Translation: (et) heim ; heimet ; heim ; heima
+Translation: (eit) heim ; heimet ; heim ; heima
 
 Grammar:     Neuter
 
