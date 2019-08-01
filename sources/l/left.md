@@ -10,7 +10,7 @@ Grammar:   Noun
 English
 =======
 
-Translation: (a) left ; the left ; lefts ; the lefts
+Translation: left ; the left ; - ; -
 
 Grammar:     Neuter
 
@@ -19,7 +19,7 @@ Grammar:     Neuter
 German
 ======
 
-Translation: (ein) Links ; das Links ; Linke ; die Linken
+Translation: Links ; das Links ; - ; die Linken
 
 Grammar:     Neuter
 
@@ -28,7 +28,7 @@ Grammar:     Neuter
 New Norwegian
 =============
 
-Translation: (eit) venstre ; venstret ; venstre ; venstra
+Translation: venstre ; venstret ; - ; -
 
 Grammar:     Neuter
 
@@ -37,7 +37,7 @@ Grammar:     Neuter
 Norwegian
 =========
 
-Translation: (et) venstre ; venstret ; venstre ; venstrene
+Translation: venstre ; venstret ; - ; -
 
 Grammar:     Neuter
 
@@ -46,7 +46,7 @@ Grammar:     Neuter
 Swedish
 =======
 
-Translation: (en) vänster ; vänstern ; vänster ; vänsterna
+Translation: vänster ; vänstern ; - ; -
 
 Grammar:     Common
 
