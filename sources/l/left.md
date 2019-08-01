@@ -19,7 +19,7 @@ Grammar:     Neuter
 German
 ======
 
-Translation: Links ; das Links ; - ; die Linken
+Translation: Links ; das Links ; - ; -
 
 Grammar:     Neuter
 
