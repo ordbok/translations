@@ -3,9 +3,8 @@
 /* Licensed under the MIT License. See the LICENSE file in the project root. */
 /*---------------------------------------------------------------------------*/
 
-import { strict as Assert } from 'assert';
-import * as Fs from 'fs';
-import { IMarkdownPage, IMarkdownSection } from '@ordbok/core/dist';
+import * as Assert from 'assert';
+import { IMarkdownPage } from '@ordbok/core/dist';
 
 /* *
  *
@@ -74,7 +73,7 @@ export function test (markdownPage: IMarkdownPage): void {
  */
 function testAdjective (grammar: Array<string>, structure: Array<string>): void {
 
-    Assert.equal(
+    Assert.strictEqual(
         grammar.length, 2,
         'Adjective grammar is invalid: ' + grammar.join(' ; ')
     );
@@ -87,23 +86,35 @@ function testAdjective (grammar: Array<string>, structure: Array<string>): void 
         'Adjective grammar is invalid: ' + grammar.join(' ; ')
     );
 
-    Assert.equal(
-        structure.length, 12,
+    Assert.ok(
+        structure.length === 4 || structure.length === 12,
         'Adjective structure is invalid: ' + structure.join(' ; ')
     );
 
-    Assert.deepEqual(
-        structure,
-        [
-            'Singular, Predicative, Feminine', 'Singular, Predicative, Masculine',
-            'Singular, Predicative, Neuter', 'Plural, Predicative, Common',
-            'Singular, Indefinite, Feminine', 'Singular, Indefinite, Masculine',
-            'Singular, Indefinite, Neuter', 'Plural, Indefinite, Common',
-            'Singular, Definite, Feminine', 'Singular, Definite, Masculine',
-            'Singular, Definite, Neuter', 'Plural, Definite, Common'
-        ],
-        'Adjective structure is invalid: ' + structure.join(' ; ')
-    );
+    if (structure.length === 4) {
+        Assert.deepStrictEqual(
+            structure,
+            [
+                'Singular, Predicative, Feminine', 'Singular, Predicative, Masculine',
+                'Singular, Predicative, Neuter', 'Plural, Predicative, Common',
+            ],
+            'Adjective structure is invalid: ' + structure.join(' ; ')
+        );
+    }
+    else {
+        Assert.deepStrictEqual(
+            structure,
+            [
+                'Singular, Predicative, Feminine', 'Singular, Predicative, Masculine',
+                'Singular, Predicative, Neuter', 'Plural, Predicative, Common',
+                'Singular, Indefinite, Feminine', 'Singular, Indefinite, Masculine',
+                'Singular, Indefinite, Neuter', 'Plural, Indefinite, Common',
+                'Singular, Definite, Feminine', 'Singular, Definite, Masculine',
+                'Singular, Definite, Neuter', 'Plural, Definite, Common'
+            ],
+            'Adjective structure is invalid: ' + structure.join(' ; ')
+        );
+    }
 }
 
 /**
@@ -146,12 +157,12 @@ function testDeterminer (grammar: Array<string>, structure: Array<string>): void
         'Determiner grammar is invalid: ' + grammar.join(' ; ')
     );
 
-    Assert.equal(
+    Assert.strictEqual(
         structure.length, 4,
         'Determiner structure is invalid: ' + structure.join(' ; ')
     );
 
-    Assert.deepEqual(
+    Assert.deepStrictEqual(
         structure,
         [
             'Singular, Feminine', 'Singular, Masculine', 'Singular, Neuter', 'Plural, Common'
@@ -171,17 +182,17 @@ function testDeterminer (grammar: Array<string>, structure: Array<string>): void
  */
 function testNoun (grammar: Array<string>, structure: Array<string>): void {
 
-    Assert.equal(
+    Assert.strictEqual(
         grammar.length, 1,
         'Noun grammar is invalid: ' + grammar.join(' ; ')
     );
 
-    Assert.equal(
+    Assert.strictEqual(
         structure.length, 4,
         'Noun structure is invalid: ' + structure.join(' ; ')
     );
 
-    Assert.deepEqual(
+    Assert.deepStrictEqual(
         structure,
         [
             'Singular, Indefinite', 'Singular, Definite', 'Plural, Indefinite', 'Plural, Definite'
@@ -192,12 +203,12 @@ function testNoun (grammar: Array<string>, structure: Array<string>): void {
 
 function testParticle (grammar: Array<string>, structure: Array<string>): void {
 
-    Assert.equal(
+    Assert.strictEqual(
         grammar.length, 1,
         'Particle grammar is invalid: ' + grammar.join(' ; ')
     );
 
-    Assert.equal(
+    Assert.strictEqual(
         structure.length, 0,
         'Particle structure is invalid: ' + structure.join(' ; ')
     );
@@ -205,12 +216,12 @@ function testParticle (grammar: Array<string>, structure: Array<string>): void {
 
 function testPhrase (grammar: Array<string>, structure: Array<string>): void {
 
-    Assert.equal(
+    Assert.strictEqual(
         grammar.length, 1,
         'Phrase grammar is invalid: ' + grammar.join(' ; ')
     );
 
-    Assert.equal(
+    Assert.strictEqual(
         structure.length, 0,
         'Phrase structure is invalid: ' + structure.join(' ; ')
     );
@@ -219,11 +230,12 @@ function testPhrase (grammar: Array<string>, structure: Array<string>): void {
 function testPronoun (grammar: Array<string>, structure: Array<string>): void {
 
     Assert.ok(
-        grammar.length >= 2 && grammar.length <= 3,
+        grammar.length === 2 ||
+        grammar.length === 3,
         'Pronoun grammar is invalid: ' + grammar.join(' ; ')
     );
 
-    Assert.equal(
+    Assert.strictEqual(
         structure.length, 4,
         'Pronoun structure is invalid: ' + structure.join(' ; ')
     );
@@ -231,11 +243,11 @@ function testPronoun (grammar: Array<string>, structure: Array<string>): void {
 
 function testVerb (grammar: Array<string>, structure: Array<string>): void {
 
-    Assert.equal(
+    Assert.strictEqual(
         grammar.length, 2,
         'Verb grammar is invalid: ' + grammar.join(' ; '));
 
-    Assert.equal(
+    Assert.strictEqual(
         structure.length, 6,
         'Verb structure is invalid: ' + structure.join(' ; ')
     );
