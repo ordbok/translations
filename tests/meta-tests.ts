@@ -12,6 +12,12 @@ import { IMarkdownPage } from '@ordbok/core/dist';
  *
  * */
 
+/**
+ * Tests the Meta section of a Markdown page.
+ *
+ * @param markdownPage
+ *        Markdown page to test
+ */
 export function test (markdownPage: IMarkdownPage): void {
 
     const markdownMeta = markdownPage['Meta'];
