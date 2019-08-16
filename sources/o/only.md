@@ -17,25 +17,71 @@ Translation: only ; only ; only ; only
 German
 ======
 
-Translation: nur ; nur ; nur ; nur
+Translation: einzige ; einziger ; einziges ; einzige
 
 
 
 New Norwegian
 =============
 
-Translation: berre ; berre ; berre ; berre
+Translation: einaste ; einaste ; einaste ; einaste
 
 
 
 Norwegian
 =========
 
-Translation: kun ; kun ; kun ; kun
+Translation: eneste ; eneste ; eneste ; eneste
 
 
 
 Swedish
 =======
 
-Translation: bara ; bara ; bara ; bara
+Translation: endast ; endast ; endast ; endast
+
+
+
+-------------
+
+Meta
+====
+
+Translation: Indefinite
+
+Grammar:     Particle
+
+
+
+English
+=======
+
+Translation: only
+
+
+
+German
+======
+
+Translation: nur
+
+
+
+New Norwegian
+=============
+
+Translation: berre
+
+
+
+Norwegian
+=========
+
+Translation: bare
+
+
+
+Swedish
+=======
+
+Translation: bara
