@@ -3,8 +3,17 @@
 /* Licensed under the MIT License. See the LICENSE file in the project root. */
 /*---------------------------------------------------------------------------*/
 
-import * as Assert from 'assert';
-import { IMarkdownPage } from '@ordbok/core/dist';
+import
+{
+    deepStrictEqual,
+    strictEqual
+}
+from 'assert';
+import
+{
+    IMarkdownPage
+}
+from '@ordbok/core/dist';
 
 /* *
  *
@@ -18,8 +27,8 @@ import { IMarkdownPage } from '@ordbok/core/dist';
  * @param markdownPage
  *        Markdown page to test
  */
-export function test (markdownPage: IMarkdownPage): void {
-
+export function test (markdownPage: IMarkdownPage): void
+{
     testSectionOrder(markdownPage);
 }
 
@@ -29,21 +38,21 @@ export function test (markdownPage: IMarkdownPage): void {
  * @param markdownPage
  *        Markdown page to test
  */
-function testSectionOrder (markdownPage: IMarkdownPage): void {
-
+function testSectionOrder (markdownPage: IMarkdownPage): void
+{
     const sectionTitles = Object.keys(markdownPage);
 
-    Assert.strictEqual(
+    strictEqual(
         sectionTitles[0], 'Meta',
         'Meta has to be the first section.'
     );
 
-    Assert.strictEqual(
+    strictEqual(
         sectionTitles[1], 'English',
         'English has to be the second section.'
     );
 
-    Assert.deepStrictEqual(
+    deepStrictEqual(
         sectionTitles,
         ['Meta', 'English', ...sectionTitles.slice(2).sort()],
         'Sections beginning at third position have to be in order.'

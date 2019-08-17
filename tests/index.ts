@@ -3,8 +3,17 @@
 /* Licensed under the MIT License. See the LICENSE file in the project root. */
 /*---------------------------------------------------------------------------*/
 
-import * as Fs from 'fs';
-import { Markdown, Internals } from '@ordbok/core/dist';
+import
+{
+    readFileSync
+}
+from 'fs';
+import
+{
+    Markdown,
+    Internals
+}
+from '@ordbok/core/dist';
 import * as MarkdownTests from './markdown-tests';
 import * as MetaTests from './meta-tests';
 
@@ -22,10 +31,10 @@ let pageCounter = 0;
  *
  * */
 
-function test (): void {
-
-    try {
-
+function test (): void
+{
+    try
+    {
         Internals
             .getFiles('sources', /\.(?:md|markdown)$/)
             .forEach(testFile);
@@ -34,8 +43,8 @@ function test (): void {
 
         process.exit(0);
     }
-    catch (catchedError) {
-
+    catch (catchedError)
+    {
         console.log('\nTests failed!');
         console.error('\nERROR: ' + catchedError.message);
         console.error('\nACTUAL: ', catchedError.actual);
@@ -45,11 +54,12 @@ function test (): void {
     }
 }
 
-function testFile (filePath: string): void {
+function testFile (filePath: string): void
+{
+    try
+    {
 
-    try {
-
-        const fileContent = Fs.readFileSync(filePath).toString();
+        const fileContent = readFileSync(filePath).toString();
         const markdown = new Markdown(fileContent);
 
         markdown.pages.forEach(MarkdownTests.test);
@@ -57,8 +67,8 @@ function testFile (filePath: string): void {
 
         pageCounter += markdown.pages.length;
     }
-    finally {
-
+    finally
+    {
         console.log('Tested', filePath);
     }
 }

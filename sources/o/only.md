@@ -47,9 +47,7 @@ Translation: endast ; endast ; endast ; endast
 Meta
 ====
 
-Translation: Indefinite
-
-Grammar:     Particle
+Grammar:   Particle
 
 
 
