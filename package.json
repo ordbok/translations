@@ -13,7 +13,7 @@
 	"homepage": "https://github.com/ordbok/translations#readme",
 	"repository": "https://github.com/ordbok/translations.git",
 	"devDependencies": {
-		"@ordbok/core": "https://github.com/ordbok/core.git#v0.0.6",
+		"@ordbok/core": "https://github.com/ordbok/core.git#v0.0.8",
 		"@types/node": "^10.0.0",
 		"husky": "3.0.1",
 		"typescript": "3.4.5"
