@@ -37,9 +37,9 @@ Grammar:     Feminine
 Norwegian
 =========
 
-Translation:
+Translation: (en) sikt ; sikten ; sikter ; siktene
 
-Grammar:     (en) sikt ; sikten ; sikter ; siktene
+Grammar:     Masculine
 
 
 
