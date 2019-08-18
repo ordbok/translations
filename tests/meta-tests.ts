@@ -21,7 +21,10 @@ from '@ordbok/core/dist';
  *
  * */
 
-const ADJECTIVE_GRAMMAR = ['Positive', 'Comparative', 'Superlative'];
+const ADJECTIVE_GRAMMAR = [
+    ['Adjective'],
+    ['Positive', 'Comparative', 'Superlative']
+];
 
 const ADJECTIVE_STRUCTURE = {
     4: [
@@ -51,6 +54,10 @@ const DETERMINE_STRUCTURE = [
 
 const NOUN_STRUCTURE = [
     'Singular, Indefinite', 'Singular, Definite', 'Plural, Indefinite', 'Plural, Definite'
+]
+
+const NOUN_GRAMMAR = [
+    ['Noun']
 ]
 
 const SECTIONS = ['Grammar', 'Relation', 'Structure'];
@@ -89,15 +96,15 @@ export function test (markdownPage: IMarkdownPage): void
         default:
             throw new Error('Unexpected meta grammar type: ' + metaGrammar[0]);
 
-        case 'Adjective':
+        case ADJECTIVE_GRAMMAR[0][0]:
             testAdjective(metaGrammar, metaStructure);
             break;
 
-        case 'Determiner':
+        case DETERMINER_GRAMMAR[0][0]:
             testDeterminer(metaGrammar, metaStructure);
             break;
 
-        case 'Noun':
+        case NOUN_GRAMMAR[0][0]:
             testNoun(metaGrammar, metaStructure);
             break;
 
@@ -149,7 +156,7 @@ function testAdjective (grammar: Array<string>, structure: Array<string>): void
     );
 
     strictEqual(
-        ADJECTIVE_GRAMMAR.includes(grammar[1]),
+        ADJECTIVE_GRAMMAR[1].includes(grammar[1]),
         true,
         'Adjective grammar is invalid: ' + grammar.join(' ; ')
     );
