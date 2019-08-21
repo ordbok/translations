@@ -207,13 +207,16 @@ function testDeterminer (grammar: Array<string>, structure: Array<string>): void
     );
 
     strictEqual(
-        DETERMINER_GRAMMAR[2].includes(grammar[2] || 'Indefinite'),
+        grammar.length <= 2 ||
+        DETERMINER_GRAMMAR[2].includes(grammar[2]) ||
+        DETERMINER_GRAMMAR[3].includes(grammar[2]),
         true,
         'Determiner grammar is invalid: ' + grammar.join(' ; ')
     );
 
     strictEqual(
-        DETERMINER_GRAMMAR[3].includes(grammar[3] || 'Common'),
+        grammar.length <= 3 ||
+        DETERMINER_GRAMMAR[3].includes(grammar[3]),
         true,
         'Determiner grammar is invalid: ' + grammar.join(' ; ')
     );
