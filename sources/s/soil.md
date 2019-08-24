@@ -46,6 +46,6 @@ Grammar:     Feminine
 Swedish
 =======
 
-Translation:  (en) jord | jorden | jordar | jordarna
+Translation:  (en) jord ; jorden ; jordar ; jordarna
 
 Grammar:     Common
