@@ -72,7 +72,7 @@ German
 ======
 
 Translation: lese  ; liest ; liest ;
-             lesen ; liest ; lesen
+             lesen ; lest  ; lesen
 
 
 
