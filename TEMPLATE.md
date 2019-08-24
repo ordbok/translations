@@ -1,63 +1,129 @@
+Meta
+====
+
+Structure: Singular, Predicative, Feminine ; Singular, Predicative, Masculine ; Singular, Predicative, Neuter ; Plural, Predicative, Common ;
+           Singular, Indefinite, Feminine  ; Singular, Indefinite, Masculine  ; Singular, Indefinite, Neuter  ; Plural, Indefinite, Common  ;
+           Singular, Definite, Feminine    ; Singular, Definite, Masculine    ; Singular, Definite, Neuter    ; Plural, Definite, Common
+
+Grammar:   Adjective ; Positive / Comparative / Superlative
+
+
+
 Language
 ========
 
-Translation: Singular, Predicative, Feminine ; Singular, Predicative, Masculine ; Singular, Predicative, Neuter ; Plural, Predicative, Common ;
-             Singular, Indefinite, Feminine  ; Singular, Indefinite, Masculine  ; Singular, Indefinite, Neuter  ; Plural, Indefinite, Common  ;
-             Singular, Definite, Feminine    ; Singular, Definite, Masculine    ; Singular, Definite, Neuter    ; Plural, Definite, Common
+Translation: adjective ; adjective ; adjective ; adjective ;
+             adjective ; adjective ; adjective ; adjective ;
+             adjective ; adjective ; adjective ; adjective
 
-Grammar:     Adjective ; Positive / Comparative / Superlative
+
 
 --------------------------------------------------------------------------------
 
+Meta
+====
+
+Structure: Singular, Feminine ; Singular, Masculine ; Singular, Neuter ; Plural, Common
+
+Grammar:   Determiner ; Indefinite / Definite / First Person / Second Person / Third Person ; Indefinite / Singular / Plural ; Common / Feminine / Masculine / Neuter
+
+
+
 Language
 ========
 
-Translation: Singular, Feminine ; Singular, Masculine ; Singular, Neuter ; Plural, Common
+Translation: determiner ; determiner ; determiner ; determiner
 
-Grammar:     Determiner ; Indefinite / Definite / First Person / Second Person / Third Person ; Indefinite / Singular / Plural ; Common / Feminine / Masculine / Neuter
+
 
 --------------------------------------------------------------------------------
 
+Meta
+====
+
+Structure: Singular, Indefinite ; Singular, Definite ; Plural, Indefinite ; Plural, Definite
+
+Grammar:   Noun
+
+
+
 Language
 ========
 
-Translation: Singular, Indefinite ; Singular, Definite ; Plural, Indefinite ; Plural, Definite
+Translation: noun ; noun ; noun ; noun
 
-Grammar:     Noun ; Common / Feminine / Masculine / Neuter
+Grammar:     Common / Feminine / Masculine / Neuter
+
+
 
 --------------------------------------------------------------------------------
 
-Language
-========
+Meta
+====
 
 Translation: Indefinite
 
 Grammar:     Particle
 
---------------------------------------------------------------------------------
+
 
 Language
 ========
+
+Translation: particle
+
+
+
+--------------------------------------------------------------------------------
+
+Meta
+====
 
 Translation: Indefinite
 
 Grammar:     Phrase
 
---------------------------------------------------------------------------------
+
 
 Language
 ========
 
-Translation: Singular, Feminine ; Singular, Masculine ; Singular, Neuter ; Plural, Common
+Translation: phrase
 
-Grammar:     Pronoun ; Indefinite / First Person / Second Person / Third Person ; Indefinite / Singular / Plural
+
 
 --------------------------------------------------------------------------------
+
+Meta
+====
+
+Structure: Singular, Feminine ; Singular, Masculine ; Singular, Neuter ; Plural, Common
+
+Grammar:   Pronoun ; Indefinite / First Person / Second Person / Third Person ; Indefinite / Singular / Plural
+
+
 
 Language
 ========
 
-Translation: Singular, First Person ; Singular, Second Person ; Singular, Third Person ;
-             Plural, First Person   ; Plural, Second Person   ; Plural, Third Person
+Translation: pronoun ; pronoun ; pronoun ; pronoun
 
-Grammar:     Verb ; Infinitive / Present / Past / Future / Present Perfect / Past Perfect / Future Perfect
+
+
+--------------------------------------------------------------------------------
+
+Meta
+====
+
+Structure: Singular, First Person ; Singular, Second Person ; Singular, Third Person ;
+           Plural, First Person   ; Plural, Second Person   ; Plural, Third Person
+
+Grammar:   Verb ; Infinitive / Present / Past / Future / Present Perfect / Past Perfect / Future Perfect
+
+
+
+Language
+========
+
+Translation: verb ; verb ; verb ;
+             verb ; verb ; verb
