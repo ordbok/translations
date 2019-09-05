@@ -61,9 +61,7 @@ Grammar:     Common / Feminine / Masculine / Neuter
 Meta
 ====
 
-Translation: Indefinite
-
-Grammar:     Particle
+Grammar: Particle
 
 
 
@@ -79,9 +77,7 @@ Translation: particle
 Meta
 ====
 
-Translation: Indefinite
-
-Grammar:     Phrase
+Grammar: Phrase
 
 
 
