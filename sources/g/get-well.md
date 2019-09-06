@@ -8,7 +8,7 @@ Grammar: Phrase
 English
 =======
 
-Translation: Get well soon!
+Translation: Get well!
 
 
 
