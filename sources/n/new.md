@@ -7,6 +7,8 @@ Structure: Singular, Predicative, Feminine ; Singular, Predicative, Masculine ; 
 
 Grammar:   Adjective ; Positive
 
+Relation:  new ; old
+
 
 
 English
