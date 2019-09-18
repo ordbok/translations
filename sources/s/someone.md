@@ -5,7 +5,7 @@ Structure: Singular, Feminine ; Singular, Masculine ; Singular, Neuter ; Plural,
 
 Grammar:   Pronoun ; Third Person
 
-Relation:  someone ; something
+Relation:  somebody ; someone ; something
 
 
 
@@ -19,7 +19,7 @@ Translation: someone ; someone ; - ; some
 German
 ======
 
-Translation: jemand ; jemand ; - ; jemand
+Translation: jemand ; jemand ; - ; einige
 
 
 
