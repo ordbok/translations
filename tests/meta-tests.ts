@@ -62,6 +62,16 @@ const NOUN_GRAMMAR = [
 
 const SECTIONS = ['Grammar', 'Relation', 'Structure'];
 
+const VERB_STRUCTURE = [
+    'Singular, First Person', 'Singular, Second Person', 'Singular, Third Person',
+    'Plural, First Person', 'Plural, Second Person', 'Plural, Third Person'
+]
+
+const VERB_GRAMMAR = [
+    ['Verb'],
+    ['Infinitive', 'Present', 'Past', 'Future', 'Present Perfect', 'Past Perfect', 'Future Perfect']
+]
+
 /* *
  *
  *  Functions
@@ -319,8 +329,20 @@ function testVerb (grammar: Array<string>, structure: Array<string>): void
     );
 
     strictEqual(
+        VERB_GRAMMAR[1].includes(grammar[1]),
+        true,
+        'Verb grammar is invalid: ' + grammar.join(' ; ')
+    );
+
+    strictEqual(
         structure.length,
         6,
+        'Verb structure is invalid: ' + structure.join(' ; ')
+    );
+
+    deepStrictEqual(
+        structure,
+        VERB_STRUCTURE,
         'Verb structure is invalid: ' + structure.join(' ; ')
     );
 }
