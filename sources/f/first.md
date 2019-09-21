@@ -51,6 +51,6 @@ Translation: første ; første ; første ; første ;
 Swedish
 =======
 
-Translation: förste ; förste ; förste ; förste ;
-             förste ; förste ; förste ; förste ;
-             förste ; förste ; förste ; förste
+Translation: första ; första ; första ; första ;
+             första ; första ; första ; första ;
+             första ; förste ; första ; första
