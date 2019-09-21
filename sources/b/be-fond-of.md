@@ -35,7 +35,7 @@ Translation: å være glad i ; å være glad i ; å være glad i ;
 Norwegian
 =========
 
-Translatiom: å være glad i ; å være glad i ; å være glad i ;
+Translation: å være glad i ; å være glad i ; å være glad i ;
              å være glad i ; å være glad i ; å være glad i
 
 
