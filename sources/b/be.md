@@ -35,7 +35,7 @@ Translation: å være ; å være ; å være ;
 Norwegian
 =========
 
-Translatiom: å være ; å være ; å være ;
+Translation: å være ; å være ; å være ;
              å være ; å være ; å være
 
 
