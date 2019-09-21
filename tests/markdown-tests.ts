@@ -29,7 +29,32 @@ from '@ordbok/core/dist';
  */
 export function test (markdownPage: IMarkdownPage): void
 {
-    testSectionOrder(markdownPage);
+    testCategories(markdownPage);
+    testSections(markdownPage);
+}
+
+/**
+ * Tests the order of a Markdown sections.
+ *
+ * @param markdownPage
+ *        Markdown page to test
+ */
+function testCategories (markdownPage: IMarkdownPage): void
+{
+    const categoryTitles = Object.values(markdownPage).map(Object.keys);
+
+    strictEqual(
+        categoryTitles[0].includes('Grammar'), true,
+        'Meta has to contain the grammar category:\n' + categoryTitles[0].join('\n')
+    );
+
+    strictEqual(
+        categoryTitles.every(function (titles: string[], index: number): boolean {
+            return (index === 0 || titles.includes('Translation'));
+        }),
+        true,
+        'Languages have to contain the translation category:\n' + categoryTitles.join('\n')
+    );
 }
 
 /**
@@ -38,7 +63,7 @@ export function test (markdownPage: IMarkdownPage): void
  * @param markdownPage
  *        Markdown page to test
  */
-function testSectionOrder (markdownPage: IMarkdownPage): void
+function testSections (markdownPage: IMarkdownPage): void
 {
     const sectionTitles = Object.keys(markdownPage);
 
