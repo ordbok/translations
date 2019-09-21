@@ -34,7 +34,7 @@ export function test (markdownPage: IMarkdownPage): void
 }
 
 /**
- * Tests the order of a Markdown sections.
+ * Tests the Markdown categories.
  *
  * @param markdownPage
  *        Markdown page to test
@@ -58,7 +58,7 @@ function testCategories (markdownPage: IMarkdownPage): void
 }
 
 /**
- * Tests the order of a Markdown section.
+ * Tests the Markdown sections.
  *
  * @param markdownPage
  *        Markdown page to test
