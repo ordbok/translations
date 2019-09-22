@@ -6,6 +6,8 @@ Structure: Singular, First Person ; Singular, Second Person ; Singular, Third Pe
 
 Grammar:   Verb ; Infinitive
 
+Relation:  be ; was
+
 
 
 English
@@ -27,8 +29,8 @@ Translation: zu sein ; zu sein ; zu sein ;
 New Norwegian
 =============
 
-Translation: å være ; å være ; å være ;
-             å være ; å være ; å være
+Translation: å vere ; å vere ; å vere ;
+             å vere ; å vere ; å vere
 
 
 
@@ -57,6 +59,8 @@ Structure: Singular, First Person ; Singular, Second Person ; Singular, Third Pe
            Plural, First Person   ; Plural, Second Person   ; Plural, Third Person
 
 Grammar:   Verb ; Present
+
+Relation:  be ; was
 
 
 
