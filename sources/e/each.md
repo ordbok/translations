@@ -5,6 +5,8 @@ Structure: Singular, Feminine ; Singular, Masculine ; Singular, Neuter ; Plural,
 
 Grammar:   Determiner ; Indefinite ; Common
 
+Relation:  each ; every
+
 
 
 English
@@ -24,7 +26,7 @@ Translation: jede ; jeder ; jedes ; -
 New Norwegian
 =============
 
-Translation: hver ; hver ; hvert ; -
+Translation: kvar ; kvar ; kvart ; -
 
 
 
