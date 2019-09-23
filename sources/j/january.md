@@ -15,7 +15,7 @@ English
 
 Translation: (a) January ; the January ; Januaries ; the Januaries
 
-Grammar:     Neuer
+Grammar:     Neuter
 
 
 
