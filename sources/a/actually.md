@@ -20,21 +20,22 @@ German
 Translation: tatsächlich ; tatsächlich ; tatsächlich ; tatsächlich
 
 
+
 New Norwegian
 =============
 
-Translation: faktisk  ; faktisk  ; faktisk  ; faktiske
+Translation: faktisk ; faktisk ; faktisk ; faktiske
 
 
 
 Norwegian
 =========
 
-Translation: faktisk  ; faktisk  ; faktisk  ; faktiske
+Translation: faktisk ; faktisk ; faktisk ; faktiske
 
 
 
 Swedish
 =======
 
-Translation: faktisk  ; faktisk  ; faktiskt ; faktiska
+Translation: faktisk ; faktisk ; faktiskt ; faktiska
