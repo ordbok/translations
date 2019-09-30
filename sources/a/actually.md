@@ -38,4 +38,4 @@ Translation: faktisk ; faktisk ; faktisk ; faktiske
 Swedish
 =======
 
-Translation: faktisk ; faktisk ; faktiskt ; faktiska
+Translation: faktiskt ; faktiskt ; faktiskt ; faktiskt
