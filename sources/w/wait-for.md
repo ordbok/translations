@@ -11,40 +11,40 @@ Grammar:   Verb ; Infinitive
 English
 =======
 
-Translation: wait for … ; wait for … ; wait for … ;
-             wait for … ; wait for … ; wait for …
+Translation: wait for (…) ; wait for (…) ; wait for (…) ;
+             wait for (…) ; wait for (…) ; wait for (…)
 
 
 
 German
 ======
 
-Translation: auf … warten ; auf … warten ; auf … warten ;
-             auf … warten ; auf … warten ; auf … warten
+Translation: auf (…) warten ; auf (…) warten ; auf (…) warten ;
+             auf (…) warten ; auf (…) warten ; auf (…) warten
 
 
 
 New Norwegian
 =============
 
-Translation: venta på … ; venta på … ; venta på … ;
-             venta på … ; venta på … ; venta på …
+Translation: venta på (…) ; venta på (…) ; venta på (…) ;
+             venta på (…) ; venta på (…) ; venta på (…)
 
 
 
 Norwegian
 =========
 
-Translation: vente på … ; vente på … ; vente på … ;
-             vente på … ; vente på … ; vente på …
+Translation: vente på (…) ; vente på (…) ; vente på (…) ;
+             vente på (…) ; vente på (…) ; vente på (…)
 
 
 
 Swedish
 =======
 
-Translation: vänta på … ; vänta på … ; vänta på … ;
-             vänta på … ; vänta på … ; vänta på …
+Translation: vänta på (…) ; vänta på (…) ; vänta på (…) ;
+             vänta på (…) ; vänta på (…) ; vänta på (…)
 
 
 
@@ -63,37 +63,37 @@ Grammar:   Verb ; Present
 English
 =======
 
-Translation: wait for … ; wait for … ; waits for … ;
-             wait for … ; wait for … ; wait for …
+Translation: wait for (…) ; wait for (…) ; waits for (…) ;
+             wait for (…) ; wait for (…) ; wait for (…)
 
 
 
 German
 ======
 
-Translation: warte auf … ; wartest auf … ; wartet … ;
-             warten auf … ; wartet auf … ; warten …
+Translation: warte auf (…) ; wartest auf (…) ; wartet (…) ;
+             warten auf (…) ; wartet auf (…) ; warten (…)
 
 
 
 New Norwegian
 =============
 
-Translation: ventar på … ; ventar på … ; ventar på … ;
-             ventar på … ; ventar på … ; ventar på …
+Translation: ventar på (…) ; ventar på (…) ; ventar på (…) ;
+             ventar på (…) ; ventar på (…) ; ventar på (…)
 
 
 
 Norwegian
 =========
 
-Translation: venter på … ; venter på … ; venter på … ;
-             venter på … ; venter på … ; venter på …
+Translation: venter på (…) ; venter på (…) ; venter på (…) ;
+             venter på (…) ; venter på (…) ; venter på (…)
 
 
 
 Swedish
 =======
 
-Translation: väntar på … ; väntar på … ; väntar på … ;
-             väntar på … ; väntar på … ; väntar på …
+Translation: väntar på (…) ; väntar på (…) ; väntar på (…) ;
+             väntar på (…) ; väntar på (…) ; väntar på (…)
