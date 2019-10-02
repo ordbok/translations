@@ -11,40 +11,40 @@ Grammar:   Verb ; Infinitive
 English
 =======
 
-Translation: to write ; to write ; to write ;
-             to write ; to write ; to write
+Translation: (to) write ; (to) write ; (to) write ;
+             (to) write ; (to) write ; (to) write
 
 
 
 German
 ======
 
-Translation: zu schreiben ; zu schreiben ; zu schreiben ;
-             zu schreiben ; zu schreiben ; zu schreiben
+Translation: (zu) schreiben ; (zu) schreiben ; (zu) schreiben ;
+             (zu) schreiben ; (zu) schreiben ; (zu) schreiben
 
 
 
 New Norwegian
 =============
 
-Translation: å skriva ; å skriva ; å skriva ;
-             å skriva ; å skriva ; å skriva
+Translation: (å) skriva ; (å) skriva ; (å) skriva ;
+             (å) skriva ; (å) skriva ; (å) skriva
 
 
 
 Norwegian
 =========
 
-Translation: å skrive ; å skrive ; å skrive ;
-             å skrive ; å skrive ; å skrive
+Translation: (å) skrive ; (å) skrive ; (å) skrive ;
+             (å) skrive ; (å) skrive ; (å) skrive
 
 
 
 Swedish
 =======
 
-Translation: att skriva ; att skriva ; att skriva ;
-             att skriva ; att skriva ; att skriva
+Translation: (att) skriva ; (att) skriva ; (att) skriva ;
+             (att) skriva ; (att) skriva ; (att) skriva
 
 
 
