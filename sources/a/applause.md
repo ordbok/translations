@@ -21,7 +21,7 @@ German
 
 Translation: (ein) Applaus ; der Applaus ; Applause ; die Applause
 
-Grammar:     Masculine+
+Grammar:     Masculine
 
 
 
