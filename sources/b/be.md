@@ -13,40 +13,39 @@ Relation:  be ; was
 English
 =======
 
-Translation: to be ; to be ; to be ;
-             to be ; to be ; to be
-
+Translation: (to) be ; (to) be ; (to) be ;
+             (to) be ; (to) be ; (to) be
 
 
 German
 ======
 
-Translation: zu sein ; zu sein ; zu sein ;
-             zu sein ; zu sein ; zu sein
+Translation: (zu) sein ; (zu) sein ; (zu) sein ;
+             (zu) sein ; (zu) sein ; (zu) sein
 
 
 
 New Norwegian
 =============
 
-Translation: å vere ; å vere ; å vere ;
-             å vere ; å vere ; å vere
+Translation: (å) vere ; (å) vere ; (å) vere ;
+             (å) vere ; (å) vere ; (å) vere
 
 
 
 Norwegian
 =========
 
-Translation: å være ; å være ; å være ;
-             å være ; å være ; å være
+Translation: (å) vere ; (å) vere ; (å) vere ;
+             (å) vere ; (å) vere ; (å) vere
 
 
 
 Swedish
 =======
 
-Translation: att vara ; att vara ; att vara ;
-             att vara ; att vara ; att vara
+Translation: (att) vara ; (att) vara ; (att) vara ;
+             (att) vara ; (att) vara ; (att) vara
 
 
 
