@@ -13,40 +13,40 @@ Relation:  do ; did
 English
 =======
 
-Translation: to do ; to do ; to do ;
-             to do ; to do ; to do
+Translation: (to) do ; (to) do ; (to) do ;
+             (to) do ; (to) do ; (to) do
 
 
 
 German
 ======
 
-Translation: zu machen ; zu machen ; zu machen ;
-             zu machen ; zu machen ; zu machen
+Translation: (zu) machen ; (zu) machen ; (zu) machen ;
+             (zu) machen ; (zu) machen ; (zu) machen
 
 
 
 New Norwegian
 =============
 
-Translation: å gjere ; å gjere ; å gjere ;
-             å gjere ; å gjere ; å gjere
+Translation: (å) gjere ; (å) gjere ; (å) gjere ;
+             (å) gjere ; (å) gjere ; (å) gjere
 
 
 
 Norwegian
 =========
 
-Translation: å gjøre ; å gjøre ; å gjøre ;
-             å gjøre ; å gjøre ; å gjøre
+Translation: (å) gjøre ; (å) gjøre ; (å) gjøre ;
+             (å) gjøre ; (å) gjøre ; (å) gjøre
 
 
 
 Swedish
 =======
 
-Translation: att göra ; att göra ; att göra ;
-             att göra ; att göra ; att göra
+Translation: (att) göra ; (att) göra ; (att) göra ;
+             (att) göra ; (att) göra ; (att) göra
 
 
 
