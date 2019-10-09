@@ -11,40 +11,40 @@ Grammar:   Verb ; Infinitive
 English
 =======
 
-Translation: to chew ; to chew ; to chew ;
-             to chew ; to chew ; to chew
+Translation: (to) chew ; (to) chew ; (to) chew ;
+             (to) chew ; (to) chew ; (to) chew
 
 
 
 German
 ======
 
-Translation: zu kauen ; zu kauen ; zu kauen ;
-             zu kauen ; zu kauen ; zu kauen
+Translation: (zu) kauen ; (zu) kauen ; (zu) kauen ;
+             (zu) kauen ; (zu) kauen ; (zu) kauen
 
 
 
 New Norwegian
 =============
 
-Translation: å tygga ; å tygga ; å tygga ;
-             å tygga ; å tygga ; å tygga
+Translation: (å) tygga ; (å) tygga ; (å) tygga ;
+             (å) tygga ; (å) tygga ; (å) tygga
 
 
 
 Norwegian
 =========
 
-Translation: å tygge ; å tygge ; å tygge ;
-             å tygge ; å tygge ; å tygge
+Translation: (å) tygge ; (å) tygge ; (å) tygge ;
+             (å) tygge ; (å) tygge ; (å) tygge
 
 
 
 Swedish
 =======
 
-Translation: att tugga ; att tugga ; att tugga ;
-             att tugga ; att tugga ; att tugga
+Translation: (att) tugga ; (att) tugga ; (att) tugga ;
+             (att) tugga ; (att) tugga ; (att) tugga
 
 
 
