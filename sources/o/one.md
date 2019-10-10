@@ -22,9 +22,9 @@ Grammar:     Neuter
 German
 ======
 
-Translation: (eine) Eins ; die Eins; Einsen ; die Einsen
+Translation: (ein) Einser ; der Einser; Einser ; die Einser
 
-Grammar:     Feminine
+Grammar:     Masculine
 
 
 
