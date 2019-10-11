@@ -1,22 +1,19 @@
 {
 	"private": true,
-	"name": "@ordbok/translations",
-	"version": "0.0.0",
 	"author": "ORDBOK contributors",
-	"license": "MIT",
-	"description": "Dictionary translations",
-	"keywords": [
-		"dictionary",
-		"ordbok"
-	],
 	"bugs": "https://github.com/ordbok/translations/issues",
+	"description": "Dictionary translations",
 	"homepage": "https://github.com/ordbok/translations#readme",
+	"license": "MIT",
+	"main": "README.md",
+	"name": "@ordbok/translations",
 	"repository": "https://github.com/ordbok/translations.git",
+	"version": "0.0.0",
 	"devDependencies": {
 		"@ordbok/core": "https://github.com/ordbok/core.git#v0.0.8",
 		"@types/node": "^10.0.0",
-		"husky": "3.0.1",
-		"typescript": "3.4.5"
+		"husky": "^3.0.8",
+		"typescript": "~3.6.4"
 	},
 	"engines": {
 		"node": ">=10.0.0"
@@ -29,17 +26,20 @@
 		"README.md",
 		"TEMPLATE.md"
 	],
-	"main": "README.md",
+	"husky": {
+		"hooks": {
+			"pre-commit": "npm run tests"
+		}
+	},
+	"keywords": [
+		"dictionary",
+		"ordbok"
+	],
 	"scripts": {
 		"release": "npm publish --access=public --tag next",
 		"release-as-stable": "npm publish --access=public",
 		"tests": "npm run tests-clean && npm run tests-build && npm run tests-clean",
 		"tests-build": "tsc --build tsconfig.json && node tests_build/index.js",
 		"tests-clean": "rm -rf tests_build"
-	},
-	"husky": {
-		"hooks": {
-			"pre-commit": "npm run tests"
-		}
 	}
 }
