@@ -62,39 +62,42 @@ Meta
 
 Structure: Singular, Feminine ; Singular, Masculine ; Singular, Neuter ; Plural, Common
 
-Grammar:   Determiner ; Definite ; Singular ; Common
+Grammar:   Determiner ; Definite ; Plural ; Common
+
+Relation:  zero ; one    ; two    ; three    ; four     ; five    ; six     ; seven     ; eight    ; nine
+           ten  ; eleven ; twelve ; thirteen ; fourteen ; fifteen ; sixteen ; seventeen ; eighteen ; nineteen
 
 
 
 English
 =======
 
-Translation: zero ; zero ; zero ; zero
+Translation: - ; - ; - ; zero
 
 
 
 German
 ======
 
-Translation: null ; null ; null ; null
+Translation: - ; - ; - ; null
 
 
 
 New Norwegian
 =============
 
-Translation: null ; null ; null ; null
+Translation: - ; - ; - ; null
 
 
 
 Norwegian
 =========
 
-Translation: null ; null ; null ; null
+Translation: - ; - ; - ; null
 
 
 
 Swedish
 =======
 
-Translation: noll ; noll ; noll ; noll
+Translation: - ; - ; - ; noll
