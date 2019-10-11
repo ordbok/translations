@@ -22,16 +22,16 @@ Grammar:     Neuter
 German
 ======
 
-Translation: (ein) Einser ; der Einser; Einser ; die Einser
+Translation: (eine) Eins ; die Eins ; Einser ; die Einser
 
-Grammar:     Masculine
+Grammar:     Feminine
 
 
 
 New Norwegian
 =============
 
-Translation: (ein) einar ; einaren ; einarar ; einarane
+Translation: (ein) ein ; einen ; einar ; einane
 
 Grammar:     Masculine
 
@@ -40,7 +40,7 @@ Grammar:     Masculine
 Norwegian
 =========
 
-Translation: (en) ener ; eneren ; enerer ; enerne
+Translation: (en) en ; enen ; ener ; enene
 
 Grammar:     Masculine
 
@@ -63,6 +63,9 @@ Meta
 Structure: Singular, Feminine ; Singular, Masculine ; Singular, Neuter ; Plural, Common
 
 Grammar:   Determiner ; Definite ; Singular ; Common
+
+Relation:  zero ; one    ; two    ; three    ; four     ; five    ; six     ; seven     ; eight    ; nine
+           ten  ; eleven ; twelve ; thirteen ; fourteen ; fifteen ; sixteen ; seventeen ; eighteen ; nineteen
 
 
 
