@@ -1,10 +1,9 @@
-
 Meta
 ====
 
 Structure: Singular, Feminine ; Singular, Masculine ; Singular, Neuter ; Plural, Common
 
-Grammar:   Pronoun ; Indefinite ; Plural
+Grammar:   Determiner ; Definite ; Singular ; Common
 
 Relation:  each ; every
 
