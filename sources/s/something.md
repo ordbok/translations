@@ -5,7 +5,7 @@ Structure: Singular, Feminine ; Singular, Masculine ; Singular, Neuter ; Plural,
 
 Grammar:   Pronoun ; Third Person
 
-Relation:  somebody ; someone ; something
+Relation:  some ; somebody ; someone ; something
 
 
 
