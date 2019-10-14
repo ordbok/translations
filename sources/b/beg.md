@@ -45,8 +45,8 @@ Translation: (å) be ; (å) be ; (å) be ;
 Swedish
 =======
 
-Translation: (å) be ; (å) be ; (å) be ;
-             (å) be ; (å) be ; (å) be
+Translation: (att) be ; (att) be ; (att) be ;
+             (att) be ; (att) be ; (att) be
 
 
 
