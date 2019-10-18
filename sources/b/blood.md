@@ -16,7 +16,7 @@ Grammar:     Neuter
 
 
 
-Germam
+German
 ======
 
 Translation: Blut ; das Blut ; - ; -
