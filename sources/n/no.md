@@ -32,6 +32,13 @@ Translation: nei
 
 
 
+Polish
+======
+
+Translation: nie
+
+
+
 Swedish
 =======
 
@@ -67,7 +74,7 @@ Translation: keine ; kein ; kein ; keine
 New Norwegian
 =============
 
-Translation: ingen ; inga ; inkje ; ingen
+Translation: inga ; ingen ; inkje ; ingen
 
 
 
@@ -75,6 +82,13 @@ Norwegian
 =========
 
 Translation: ingen ; ingen ; intet ; ingen
+
+
+
+Polish
+======
+
+Translation: żadna ; żaden ; żadne ; żadni
 
 
 
