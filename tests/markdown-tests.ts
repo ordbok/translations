@@ -17,6 +17,58 @@ from '@ordbok/core/dist';
 
 /* *
  *
+ *  Constants
+ *
+ * */
+
+const SECTION_TITLES = [
+    'Meta',
+    'English',
+    'Afrikaans',
+    'Alemannic',
+    'Aramaic',
+    'Cantonese',
+    'Danish',
+    'Dutch',
+    'Faroese',
+    'Finnish',
+    'French',
+    'Frisian',
+    'German',
+    'Greek',
+    'Hausa',
+    'Hebrew',
+    'Hokkien',
+    'Icelandic',
+    'Irish',
+    'Italian',
+    'Japanese',
+    'Korean',
+    'Latin',
+    'Maghrebi Arabic',
+    'Mashriqi Arabic',
+    'Mandarin',
+    'New Norwegian',
+    'Norwegian',
+    'Persian',
+    'Polish',
+    'Portuguese',
+    'Russian',
+    'Sami',
+    'Scots',
+    'Spanish',
+    'Swedish',
+    'Tagalog',
+    'Taiwanese Hakka',
+    'Taiwanese Mandarin',
+    'Thai',
+    'Vietnamese',
+    'Yiddish',
+    'Yoruba'
+];
+
+/* *
+ *
  *  Functions
  *
  * */
@@ -66,6 +118,18 @@ function testCategories (markdownPage: IMarkdownPage): void
 function testSections (markdownPage: IMarkdownPage): void
 {
     const sectionTitles = Object.keys(markdownPage);
+
+    let lastSectionTitle: (string|undefined);
+
+    strictEqual(
+        sectionTitles.every(
+            function (sectionTitle: string): boolean {
+                lastSectionTitle = sectionTitle;
+                return SECTION_TITLES.includes(sectionTitle);
+            }
+        ), true,
+        lastSectionTitle + ' is not a known language.'
+    );
 
     strictEqual(
         sectionTitles[0], 'Meta',
