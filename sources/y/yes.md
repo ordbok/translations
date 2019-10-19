@@ -33,6 +33,13 @@ Translation: ja
 
 
 
+Polish
+======
+
+Translation: tak
+
+
+
 Swedish
 =======
 
