@@ -1,7 +1,9 @@
 Meta
 ====
 
-Grammar: Phrase
+Grammar:  Phrase
+
+Relation: Too bad. ; What a pity!
 
 
 
