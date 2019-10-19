@@ -8,32 +8,32 @@ Grammar: Phrase
 English
 =======
 
-Translation: okay
+Translation: Okay!
 
 
 
 German
 ======
 
-Translation: okay
+Translation: Okay!
 
 
 
 New Norwegian
 =============
 
-Translation: okey
+Translation: Okey!
 
 
 
 Norwegian
 =========
 
-Translation: okey
+Translation: Okey!
 
 
 
 Swedish
 =======
 
-Translation: okej
+Translation: Okej!
