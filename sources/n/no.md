@@ -39,6 +39,13 @@ Translation: nie
 
 
 
+Romanian
+========
+
+Translation: nu
+
+
+
 Swedish
 =======
 
