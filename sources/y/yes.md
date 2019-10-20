@@ -40,6 +40,13 @@ Translation: tak
 
 
 
+Romanian
+========
+
+Translation: da
+
+
+
 Swedish
 =======
 
