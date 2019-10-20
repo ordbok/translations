@@ -43,6 +43,24 @@ Grammar:     Feminine
 
 
 
+Polish
+======
+
+Translation: pomoc ; pomoc ; pomoce ; pomoce
+
+Grammar:     Feminine
+
+
+
+Romanian
+========
+
+Translation: ajutor ; ajutorul ; ajutoare ; ajutoarele
+
+Grammar:     Feminine
+
+
+
 Swedish
 =======
 
@@ -67,40 +85,55 @@ Grammar:   Verb ; Infinitive
 English
 =======
 
-Translation: to help ; to help ; to help ;
-             to help ; to help ; to help
+Translation: (to) help ; (to) help ; (to) help ;
+             (to) help ; (to) help ; (to) help
 
 
 
 German
 ======
 
-Translation: zu helfen ; zu helfen ; zu helfen ;
-             zu helfen ; zu helfen ; zu helfen
+Translation: (zu) helfen ; (zu) helfen ; (zu) helfen ;
+             (zu) helfen ; (zu) helfen ; (zu) helfen
 
 
 
 New Norwegian
 =============
 
-Translation: å hjelpe ; å hjelpe ; å hjelpe ;
-             å hjelpe ; å hjelpe ; å hjelpe
+Translation: (å) hjelpe ; (å) hjelpe ; (å) hjelpe ;
+             (å) hjelpe ; (å) hjelpe ; (å) hjelpe
 
 
 
 Norwegian
 =========
 
-Translation: å hjelpe ; å hjelpe ; å hjelpe ;
-             å hjelpe ; å hjelpe ; å hjelpe
+Translation: (å) hjelpe ; (å) hjelpe ; (å) hjelpe ;
+             (å) hjelpe ; (å) hjelpe ; (å) hjelpe
 
+
+
+Polish
+======
+
+Translation: pomóc ; pomóc ; pomóc ;
+             pomóc ; pomóc ; pomóc
+
+
+
+Romanian
+========
+
+Translation: (a) ajuta ; (a) ajuta ; (a) ajuta ;
+             (a) ajuta ; (a) ajuta ; (a) ajuta
 
 
 Swedish
 =======
 
-Translation: att hjälpa ; att hjälpa ; att hjälpa ;
-             att hjälpa ; att hjälpa ; att hjälpa
+Translation: (att) hjälpa ; (att) hjälpa ; (att) hjälpa ;
+             (att) hjälpa ; (att) hjälpa ; (att) hjälpa
 
 
 
@@ -145,6 +178,22 @@ Norwegian
 
 Translation: hjelper ; hjelper ; hjelper ;
              hjelper ; hjelper ; hjelper
+
+
+
+Polish
+======
+
+Translation: pomogę   ; pomożesz  ; pomoże ;
+             pomożemy ; pomożecie ; pomogą
+
+
+
+Romanian
+========
+
+Translation: ajut   ; ajuti  ; ajută ;
+             ajutăm ; ajutți ; ajută
 
 
 
