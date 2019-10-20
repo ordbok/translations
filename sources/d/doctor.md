@@ -55,7 +55,7 @@ Grammar:     Masculine
 Romanian
 ========
 
-Translation: doctor ; doctorul ; doctori ; doctorii
+Translation: medic ; medicul ; medici ; medicii
 
 Grammar:     Masculine
 
