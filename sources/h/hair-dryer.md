@@ -48,4 +48,4 @@ Swedish
 
 Translation: (en) hårtork ; hårtorken ; hårtorkar ; hårtorkarna
 
-Grammar:     Masculine
+Grammar:     Common
