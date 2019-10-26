@@ -48,4 +48,4 @@ Swedish
 
 Translation: (en) häst ; hästen ; hästar ; hästarna
 
-Grammar:     Masculine
+Grammar:     Common
