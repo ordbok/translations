@@ -12,7 +12,7 @@ Relation:  earthquake ; quake
 English
 =======
 
-Translation: (a) earthquake ; the earthquake ; earthquakes ; the earthquakes
+Translation: (an) earthquake ; the earthquake ; earthquakes ; the earthquakes
 
 Grammar:     Neuter
 
