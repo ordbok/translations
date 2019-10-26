@@ -49,4 +49,4 @@ Swedish
 
 Translation: (en) fil ; filen ; filer ; filerna
 
-Grmmar:      Common
+Grammar:     Common
