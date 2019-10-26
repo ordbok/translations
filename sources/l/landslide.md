@@ -50,4 +50,4 @@ Swedish
 
 Translation: (ett) jordskred ; jordskredet ; jordskred ; jordskreden
 
-Grammar:     Neutrum
+Grammar:     Neuter
