@@ -1,7 +1,10 @@
-/*---------------------------------------------------------------------------*/
-/* Copyright (c) ORDBOK contributors. All rights reserved.                   */
-/* Licensed under the MIT License. See the LICENSE file in the project root. */
-/*---------------------------------------------------------------------------*/
+/*!*
+ *
+ *  Copyright (c) ORDBOK contributors. All rights reserved.
+ *
+ *  Licensed under the MIT License. See the LICENSE file in the project root.
+ *
+ *!*/
 
 import
 {
@@ -16,6 +19,7 @@ import
 from '@ordbok/core/dist';
 import * as MarkdownTests from './markdown-tests';
 import * as MetaTests from './meta-tests';
+import * as SwedishTests from './swedish-tests';
 
 /* *
  *
@@ -64,6 +68,7 @@ function testFile (filePath: string): void
 
         markdown.pages.forEach(MarkdownTests.test);
         markdown.pages.forEach(MetaTests.test);
+        markdown.pages.forEach(SwedishTests.test);
 
         pageCounter += markdown.pages.length;
     }
