@@ -48,4 +48,4 @@ Swedish
 
 Translation: (en) storm ; stormen ; stormar ; stormarna
 
-Grammar:     Masculine
+Grammar:     Common
