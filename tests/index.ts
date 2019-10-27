@@ -17,8 +17,12 @@ import
     Internals
 }
 from '@ordbok/core/dist';
+import * as EnglishTests from './english-tests';
+import * as GermanTests from './german-tests';
 import * as MarkdownTests from './markdown-tests';
 import * as MetaTests from './meta-tests';
+import * as NewNorwegianTests from './new-norwegian-tests';
+import * as NorwegianTests from './norwegian-tests';
 import * as SwedishTests from './swedish-tests';
 
 /* *
@@ -68,6 +72,10 @@ function testFile (filePath: string): void
 
         markdown.pages.forEach(MarkdownTests.test);
         markdown.pages.forEach(MetaTests.test);
+        markdown.pages.forEach(EnglishTests.test);
+        markdown.pages.forEach(GermanTests.test);
+        markdown.pages.forEach(NewNorwegianTests.test);
+        markdown.pages.forEach(NorwegianTests.test);
         markdown.pages.forEach(SwedishTests.test);
 
         pageCounter += markdown.pages.length;
