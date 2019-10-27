@@ -13,40 +13,40 @@ Relation:  earthquake ; quake
 English
 =======
 
-Translation: to quake ; to quake ; to quake ;
-             to quake ; to quake ; to quake
+Translation: (to) quake ; (to) quake ; (to) quake ;
+             (to) quake ; (to) quake ; (to) quake
 
 
 
 German
 ======
 
-Translation: zu beben ; zu beben ; zu beben ;
-             zu beben ; zu beben ; zu beben
+Translation: (zu) beben ; (zu) beben ; (zu) beben ;
+             (zu) beben ; (zu) beben ; (zu) beben
 
 
 
 New Norwegian
 =============
 
-Translation: å skjelva ; å skjelva ; å skjelva ;
-             å skjelva ; å skjelva ; å skjelva
+Translation: (å) skjelva ; (å) skjelva ; (å) skjelva ;
+             (å) skjelva ; (å) skjelva ; (å) skjelva
 
 
 
 Norwegian
 =========
 
-Translation: å skjelve ; å skjelve ; å skjelve ;
-             å skjelve ; å skjelve ; å skjelve
+Translation: (å) skjelve ; (å) skjelve ; (å) skjelve ;
+             (å) skjelve ; (å) skjelve ; (å) skjelve
 
 
 
 Swedish
 =======
 
-Translation: att skälva ; att skälva ; att skälva ;
-             att skälva ; att skälva ; att skälva
+Translation: (att) skälva ; (att) skälva ; (att) skälva ;
+             (att) skälva ; (att) skälva ; (att) skälva
 
 
 
