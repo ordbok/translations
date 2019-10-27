@@ -8,6 +8,11 @@
 
 import
 {
+    strictEqual
+}
+from 'assert';
+import
+{
     IMarkdownPage
 }
 from '@ordbok/core/dist';
@@ -45,13 +50,17 @@ export function test (markdownPage: IMarkdownPage): void
     switch (grammar[0])
     {
         case 'Noun':
-            testNoun(grammar, translation);
+            testNoun(translation, grammar);
+            break;
+
+        case 'Verb':
+            testVerb(translation, grammar);
             break;
     }
 }
 
 /**
- * Noun tests
+ * Tests noun translation.
  *
  * @param translation
  * Translation to test.
@@ -59,23 +68,62 @@ export function test (markdownPage: IMarkdownPage): void
  * @param grammar
  * Grammar to test.
  */
-function testNoun (grammar: Array<string>, translation: Array<string>) {
+function testNoun (translation: Array<string>, grammar: Array<string>)
+{
+    const indefinite = translation[0];
 
-    const indefinite = (translation[0] || '');
-
-    switch (grammar[1]) {
+    switch (grammar[1])
+    {
         default:
-            throw new Error('Unexpected grammar: ' + grammar[1]);
+            throw new Error(`Unexpected grammar in Swedish: ${grammar[1]}`);
 
         case 'Common':
-            if (indefinite.includes('(') && !indefinite.includes('(en)')) {
-                throw new Error('Unexpected common indefinite: ' + indefinite);
-            }
+            strictEqual(
+                (!indefinite.includes('(') || indefinite.startsWith('(en)')), true,
+                `Common indefinite should start with "(en)" in Swedish: ${indefinite}`
+            );
             break;
 
         case 'Neuter':
-            if (indefinite.includes('(') && !indefinite.includes('(ett)')) {
-                throw new Error('Unexpected neuter indefinite: ' + indefinite);
+            strictEqual(
+                (!indefinite.includes('(') || indefinite.startsWith('(ett)')), true,
+                `Neuter indefinite should start with "(ett)" in Swedish: ${indefinite}`
+            );
+            break;
+    }
+}
+
+/**
+ * Tests verb translation.
+ *
+ * @param translation
+ * Translation to test.
+ *
+ * @param grammar
+ * Grammar to test.
+ */
+function testVerb (translation: Array<string>, grammar: Array<string>)
+{
+    switch (grammar[1])
+    {
+        default:
+            const firstPersonSingular = translation[0];
+            for (let grammarCase of translation)
+            {
+                strictEqual(
+                    grammarCase, firstPersonSingular,
+                    `Verb's translated grammar cases should be the same in Swedish.`
+                );
+            }
+            break;
+
+        case 'Infinitive':
+            for (let translationCase of translation)
+            {
+                strictEqual(
+                    translationCase.startsWith('(att)'), true,
+                    `Verb's infinitive should start with "(att)" in Swedish.`
+                );
             }
             break;
     }
