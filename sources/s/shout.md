@@ -120,7 +120,7 @@ English
 =======
 
 Translation: shout ; shout ; shouts ;
-             shout ; shout ; shouts
+             shout ; shout ; shout
 
 
 
