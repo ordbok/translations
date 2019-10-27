@@ -68,40 +68,40 @@ Grammar:   Verb ; Infinitive
 English
 =======
 
-Translation: to doubt ; to doubt ; to doubt ;
-             to doubt ; to doubt ; to doubt
+Translation: (to) doubt ; (to) doubt ; (to) doubt ;
+             (to) doubt ; (to) doubt ; (to) doubt
 
 
 
 German
 ======
 
-Translation: zu zweifeln ; zu zweifeln ; zu zweifeln ;
-             zu zweifeln ; zu zweifeln ; zu zweifeln
+Translation: (zu) zweifeln ; (zu) zweifeln ; (zu) zweifeln ;
+             (zu) zweifeln ; (zu) zweifeln ; (zu) zweifeln
 
 
 
 New Norwegian
 =============
 
-Translation: å tvila ; å tvila ; å tvila ;
-             å tvila ; å tvila ; å tvila
+Translation: (å) tvila ; (å) tvila ; (å) tvila ;
+             (å) tvila ; (å) tvila ; (å) tvila
 
 
 
 Norwegian
 =========
 
-Translation: å tvile ; å tvile ; å tvile ;
-             å tvile ; å tvile ; å tvile
+Translation: (å) tvila ; (å) tvila ; (å) tvila ;
+             (å) tvila ; (å) tvila ; (å) tvila
 
 
 
 Swedish
 =======
 
-Translation: att tvivla ; att tvivla ; att tvivla ;
-             att tvivla ; att tvivla ; att tvivla
+Translation: (att) tvivla ; (att) tvivla ; (att) tvivla ;
+             (att) tvivla ; (att) tvivla ; (att) tvivla
 
 
 
@@ -113,7 +113,7 @@ Meta
 Structure: Singular, First Person ; Singular, Second Person ; Singular, Third Person ;
            Plural, First Person   ; Plural, Second Person   ; Plural, Third Person
 
-Grammar:   Verb ; Infinitive
+Grammar:   Verb ; Present
 
 
 
