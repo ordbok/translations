@@ -21,7 +21,7 @@ German
 
 Translation: (eine) Hoffnung ; die Hoffnung ; Hoffnungen ; die Hoffnungen
 
-Grammar:     Translation
+Grammar:     Feminine
 
 
 
