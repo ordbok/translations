@@ -11,40 +11,40 @@ Grammar:   Verb ; Infinitive
 English
 =======
 
-Translation: close ; close ; close ;
-             close ; close ; close
+Translation: (to) close ; (to) close ; (to) close ;
+             (to) close ; (to) close ; (to) close
 
 
 
 German
 ======
 
-Translation: schließen ; schließen ; schließen ;
-             schließen ; schließen ; schließen
+Translation: (zu) schließen ; (zu) schließen ; (zu) schließen ;
+             (zu) schließen ; (zu) schließen ; (zu) schließen
 
 
 
 New Norwegian
 =============
 
-Translation: lukka ; lukka ; lukka ;
-             lukka ; lukka ; lukka
+Translation: (å) lukka ; (å) lukka ; (å) lukka ;
+             (å) lukka ; (å) lukka ; (å) lukka
 
 
 
 Norwegian
 =========
 
-Translation: lukke ; lukke ; lukke ;
-             lukke ; lukke ; lukke
+Translation: (å) lukke ; (å) lukke ; (å) lukke ;
+             (å) lukke ; (å) lukke ; (å) lukke
 
 
 
 Swedish
 =======
 
-Translation: stänga ; stänga ; stänga ;
-             stänga ; stänga ; stänga
+Translation: (att) stänga ; (att) stänga ; (att) stänga ;
+             (att) stänga ; (att) stänga ; (att) stänga
 
 
 
