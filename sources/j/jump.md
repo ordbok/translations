@@ -71,40 +71,40 @@ Relation:  jump
 English
 =======
 
-Translation: to jump ; to jump ; to jump ;
-             to jump ; to jump ; to jump
+Translation: (to) jump ; (to) jump ; (to) jump ;
+             (to) jump ; (to) jump ; (to) jump
 
 
 
 German
 ======
 
-Translation: zu springen ; zu springen ; zu springen ;
-             zu springen ; zu springen ; zu springen
+Translation: (zu) springen ; (zu) springen ; (zu) springen ;
+             (zu) springen ; (zu) springen ; (zu) springen
 
 
 
 New Norwegian
 =============
 
-Translation: å hoppa ; å hoppa ; å hoppa ;
-             å hoppa ; å hoppa ; å hoppa
+Translation: (å) hoppa ; (å) hoppa ; (å) hoppa ;
+             (å) hoppa ; (å) hoppa ; (å) hoppa
 
 
 
 Norwegian
 =========
 
-Translation: å hoppe ; å hoppe ; å hoppe ;
-             å hoppe ; å hoppe ; å hoppe
+Translation: (å) hoppe ; (å) hoppe ; (å) hoppe ;
+             (å) hoppe ; (å) hoppe ; (å) hoppe
 
 
 
 Swedish
 =======
 
-Translation: att hoppa ; att hoppa ; att hoppa ;
-             att hoppa ; att hoppa ; att hoppa
+Translation: (att) hoppa ; (att) hoppa ; (att) hoppa ;
+             (att) hoppa ; (att) hoppa ; (att) hoppa
 
 
 
