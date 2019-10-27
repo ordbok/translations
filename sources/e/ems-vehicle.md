@@ -30,7 +30,7 @@ Grammar:     Masculine
 New Norwegian
 =============
 
-Translation: (en) akuttbil ; akuttbilen ; akuttbilar ; akuttbilane
+Translation: (ein) akuttbil ; akuttbilen ; akuttbilar ; akuttbilane
 
 Grammar:     Masculine
 
