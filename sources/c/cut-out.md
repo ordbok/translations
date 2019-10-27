@@ -11,40 +11,40 @@ Grammar:   Verb ; Infinitive
 English
 =======
 
-Translation: to cut out ; to cut out ; to cut out ;
-             to cut out ; to cut out ; to cut out
+Translation: (to) cut out ; (to) cut out ; (to) cut out ;
+             (to) cut out ; (to) cut out ; (to) cut out
 
 
 
 German
 ======
 
-Translation: zu ausschneiden ; zu ausschneiden ; zu ausschneiden ;
-             zu ausschneiden ; zu ausschneiden ; zu ausschneiden
+Translation: aus (zu) schneiden ; aus (zu) schneiden ; aus (zu) schneiden ;
+             aus (zu) schneiden ; aus (zu) schneiden ; aus (zu) schneiden
 
 
 
 New Norwegian
 =============
 
-Translation: å klipp ut ; å klipp ut ; å klipp ut ;
-             å klipp ut ; å klipp ut ; å klipp ut
+Translation: (å) klipp ut ; (å) klipp ut ; (å) klipp ut ;
+             (å) klipp ut ; (å) klipp ut ; (å) klipp ut
 
 
 
 Norwegian
 =========
 
-Translation: å klipp ut ; å klipp ut ; å klipp ut ;
-             å klipp ut ; å klipp ut ; å klipp ut
+Translation: (å) klipp ut ; (å) klipp ut ; (å) klipp ut ;
+             (å) klipp ut ; (å) klipp ut ; (å) klipp ut
 
 
 
 Swedish
 =======
 
-Translation: att klippa ut ; att klippa ut ; att klippa ut ;
-             att klippa ut ; att klippa ut ; att klippa ut
+Translation: (att) klippa ut ; (att) klippa ut ; (att) klippa ut ;
+             (att) klippa ut ; (att) klippa ut ; (att) klippa ut
 
 
 
