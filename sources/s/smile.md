@@ -67,40 +67,40 @@ Grammar:   Verb ; Infinitive
 English
 =======
 
-Translation: to smile ; to smile ; to smile ;
-             to smile ; to smile ; to smile
+Translation: (to) smile ; (to) smile ; (to) smile ;
+             (to) smile ; (to) smile ; (to) smile
 
 
 
 German
 ======
 
-Translation: zu lächeln ; zu lächeln ; zu lächeln ;
-             zu lächeln ; zu lächeln ; zu lächeln
+Translation: (zu) lächeln ; (zu) lächeln ; (zu) lächeln ;
+             (zu) lächeln ; (zu) lächeln ; (zu) lächeln
 
 
 
 New Norwegian
 =============
 
-Translation: å smila ; å smila ; å smila ;
-             å smila ; å smila ; å smila
+Translation: (å) smila ; (å) smila ; (å) smila ;
+             (å) smila ; (å) smila ; (å) smila
 
 
 
 Norwegian
 =========
 
-Translation: å smile ; å smile ; å smile ;
-             å smile ; å smile ; å smile
+Translation: (å) smile ; (å) smile ; (å) smile ;
+             (å) smile ; (å) smile ; (å) smile
 
 
 
 Swedish
 =======
 
-Translation: att le ; att le ; att le ;
-             att le ; att le ; att le
+Translation: (att) le ; (att) le ; (att) le ;
+             (att) le ; (att) le ; (att) le
 
 
 
@@ -119,7 +119,7 @@ Grammar:   Verb ; Present
 English
 =======
 
-Translation: smile ; smile ; smile ;
+Translation: smile ; smile ; smiles ;
              smile ; smile ; smile
 
 
