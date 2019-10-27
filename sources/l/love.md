@@ -67,40 +67,40 @@ Grammar:   Verb ; Infinitive
 English
 =======
 
-Translation: to love ; to love ; to love ;
-             to love ; to love ; to love
+Translation: (to) love ; (to) love ; (to) love ;
+             (to) love ; (to) love ; (to) love
 
 
 
 German
 ======
 
-Translation: zu lieben ; zu lieben ; zu lieben ;
-             zu lieben ; zu lieben ; zu lieben
+Translation: (zu) lieben ; (zu) lieben ; (zu) lieben ;
+             (zu) lieben ; (zu) lieben ; (zu) lieben
 
 
 
 New Norwegian
 =============
 
-Translation: å elska ; å elska ; å elska ;
-             å elska ; å elska ; å elska
+Translation: (å) elska ; (å) elska ; (å) elska ;
+             (å) elska ; (å) elska ; (å) elska
 
 
 
 Norwegian
 =========
 
-Translation: å elske ; å elske ; å elske ;
-             å elske ; å elske ; å elske
+Translation: (å) elske ; (å) elske ; (å) elske ;
+             (å) elske ; (å) elske ; (å) elske
 
 
 
 Swedish
 =======
 
-Translation: att älska ; att älska ; att älska ;
-             att älska ; att älska ; att älska
+Translation: (att) älska ; (att) älska ; (att) älska ;
+             (att) älska ; (att) älska ; (att) älska
 
 
 
