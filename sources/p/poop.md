@@ -67,40 +67,40 @@ Grammar:   Verb ; Infinitive
 English
 =======
 
-Translation: to poop ; to poop ; to poop ;
-             to poop ; to poop ; to poop
+Translation: (to) poop ; (to) poop ; (to) poop ;
+             (to) poop ; (to) poop ; (to) poop
 
 
 
 German
 ======
 
-Translation: zu kacken ; zu kacken ; zu kacken ;
-             zu kacken ; zu kacken ; zu kacken
+Translation: (zu) kacken ; (zu) kacken ; (zu) kacken ;
+             (zu) kacken ; (zu) kacken ; (zu) kacken
 
 
 
 New Norwegian
 =============
 
-Translation: å bæsja ; å bæsja ; å bæsja ;
-             å bæsja ; å bæsja ; å bæsja
+Translation: (å) bæsja ; (å) bæsja ; (å) bæsja ;
+             (å) bæsja ; (å) bæsja ; (å) bæsja
 
 
 
 Norwegian
 =========
 
-Translation: å bæsje ; å bæsje ; å bæsje ;
-             å bæsje ; å bæsje ; å bæsje
+Translation: (å) bæsje ; (å) bæsje ; (å) bæsje ;
+             (å) bæsje ; (å) bæsje ; (å) bæsje
 
 
 
 Swedish
 =======
 
-Translation: att bajsa ; att bajsa ; att bajsa ;
-             att bajsa ; att bajsa ; att bajsa
+Translation: (att) bajsa ; (att) bajsa ; (att) bajsa ;
+             (att) bajsa ; (att) bajsa ; (att) bajsa
 
 
 
