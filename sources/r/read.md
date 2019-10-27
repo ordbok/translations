@@ -11,40 +11,40 @@ Grammar:   Verb ; Infinitive
 English
 =======
 
-Translation: to read ; to read ; to read ;
-             to read ; to read ; to read
+Translation: (to) read ; (to) read ; (to) read ;
+             (to) read ; (to) read ; (to) read
 
 
 
 German
 ======
 
-Translation: zu lesen ; zu lesen ; zu lesen ;
-             zu lesen ; zu lesen ; zu lesen
+Translation: (zu) lesen ; (zu) lesen ; (zu) lesen ;
+             (zu) lesen ; (zu) lesen ; (zu) lesen
 
 
 
 New Norwegian
 =============
 
-Translation: å lese ; å lese ; å lese ;
-             å lese ; å lese ; å lese
+Translation: (å) lese ; (å) lese ; (å) lese ;
+             (å) lese ; (å) lese ; (å) lese
 
 
 
 Norwegian
 =========
 
-Translation: å lese ; å lese ; å lese ;
-             å lese ; å lese ; å lese
+Translation: (å) lese ; (å) lese ; (å) lese ;
+             (å) lese ; (å) lese ; (å) lese
 
 
 
 Swedish
 =======
 
-Translation: att läsa ; att läsa ; att läsa ;
-             att läsa ; att läsa ; att läsa
+Translation: (att) läsa ; (att) läsa ; (att) läsa ;
+             (att) läsa ; (att) läsa ; (att) läsa
 
 
 
