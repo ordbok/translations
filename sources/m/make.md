@@ -13,40 +13,40 @@ Relation:  make ; made
 English
 =======
 
-Translation: to make ; to make ; to make ;
-             to make ; to make ; to make
+Translation: (to) make ; (to) make ; (to) make ;
+             (to) make ; (to) make ; (to) make
 
 
 
 German
 ======
 
-Translation: zu machen ; zu machen ; zu machen ;
-             zu machen ; zu machen ; zu machen
+Translation: (zu) machen ; (zu) machen ; (zu) machen ;
+             (zu) machen ; (zu) machen ; (zu) machen
 
 
 
 New Norwegian
 =============
 
-Translation: å lage ; å lage ; å lage ;
-             å lage ; å lage ; å lage
+Translation: (å) lage ; (å) lage ; (å) lage ;
+             (å) lage ; (å) lage ; (å) lage
 
 
 
 Norwegian
 =========
 
-Translation: å lage ; å lage ; å lage ;
-             å lage ; å lage ; å lage
+Translation: (å) lage ; (å) lage ; (å) lage ;
+             (å) lage ; (å) lage ; (å) lage
 
 
 
 Swedish
 =======
 
-Translation: att göra ; att göra ; att göra ;
-             att göra ; att göra ; att göra
+Translation: (att) göra ; (att) göra ; (att) göra ;
+             (att) göra ; (att) göra ; (att) göra
 
 
 
