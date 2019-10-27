@@ -13,40 +13,40 @@ Relation:  have ; had
 English
 =======
 
-Translation: to have ; to have ; to have ;
-             to have ; to have ; to have
+Translation: (to) have ; (to) have ; (to) have ;
+             (to) have ; (to) have ; (to) have
 
 
 
 German
 ======
 
-Translation: zu haben ; zu haben ; zu haben ;
-             zu haben ; zu haben ; zu haben
+Translation: (zu) haben ; (zu) haben ; (zu) haben ;
+             (zu) haben ; (zu) haben ; (zu) haben
 
 
 
 New Norwegian
 =============
 
-Translation: å ha ; å ha ; å ha ;
-             å ha ; å ha ; å ha
+Translation: (å) ha ; (å) ha ; (å) ha ;
+             (å) ha ; (å) ha ; (å) ha
 
 
 
 Norwegian
 =========
 
-Translation: å ha ; å ha ; å ha ;
-             å ha ; å ha ; å ha
+Translation: (å) ha ; (å) ha ; (å) ha ;
+             (å) ha ; (å) ha ; (å) ha
 
 
 
 Swedish
 =======
 
-Translation: att ha ; att ha ; att ha ;
-             att ha ; att ha ; att ha
+Translation: (att) ha ; (att) ha ; (att) ha ;
+             (att) ha ; (att) ha ; (att) ha
 
 
 
