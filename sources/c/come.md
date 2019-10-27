@@ -63,7 +63,7 @@ Grammar:   Verb ; Present
 English
 =======
 
-Translation: come ; come ; comee ;
+Translation: come ; come ; comes ;
              come ; come ; come
 
 
