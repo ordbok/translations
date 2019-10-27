@@ -11,40 +11,40 @@ Grammar:   Verb ; Infinitive
 English
 =======
 
-Translation: to taint ; to taint ; to taint ;
-             to taint ; to taint ; to taint
+Translation: (to) taint ; (to) taint ; (to) taint ;
+             (to) taint ; (to) taint ; (to) taint
 
 
 
 German
 ======
 
-Translation: zu anstecken ; zu anstecken ; zu anstecken ;
-             zu anstecken ; zu anstecken ; zu anstecken
+Translation: an (zu) stecken ; an (zu) stecken ; an (zu) stecken ;
+             an (zu) stecken ; an (zu) stecken ; an (zu) stecken
 
 
 
 New Norwegian
 =============
 
-Translation: å smitta ; å smitta ; å smitta ;
-             å smitta ; å smitta ; å smitta
+Translation: (å) smitta ; (å) smitta ; (å) smitta ;
+             (å) smitta ; (å) smitta ; (å) smitta
 
 
 
 Norwegian
 =========
 
-Translation: å smitte ; å smitte ; å smitte ;
-             å smitte ; å smitte ; å smitte
+Translation: (å) smitte ; (å) smitte ; (å) smitte ;
+             (å) smitte ; (å) smitte ; (å) smitte
 
 
 
 Swedish
 =======
 
-Translation: att smitta ; att smitta ; att smitta ;
-             att smitta ; att smitta ; att smitta
+Translation: (att) smitta ; (att) smitta ; (att) smitta ;
+             (att) smitta ; (att) smitta ; (att) smitta
 
 
 
