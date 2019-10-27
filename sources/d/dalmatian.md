@@ -30,7 +30,7 @@ New Norwegian
 
 Translation: (ein) dalmatinar ; dalmatinaren ; dalmatinarar ; dalmatinarane
 
-Grammar:     Neuter
+Grammar:     Masculine
 
 
 
