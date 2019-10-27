@@ -13,40 +13,40 @@ Relation:  make ; made
 English
 =======
 
-Translation: to marry ; to marry ; to marry ;
-             to marry ; to marry ; to marry
+Translation: (to) marry ; (to) marry ; (to) marry ;
+             (to) marry ; (to) marry ; (to) marry
 
 
 
 German
 ======
 
-Translation: zu heiraten ; zu heiraten ; zu heiraten ;
-             zu heiraten ; zu heiraten ; zu heiraten
+Translation: (zu) heiraten ; (zu) heiraten ; (zu) heiraten ;
+             (zu) heiraten ; (zu) heiraten ; (zu) heiraten
 
 
 
 New Norwegian
 =============
 
-Translation: å gifta ; å gifta ; å gifta ;
-             å gifta ; å gifta ; å gifta
+Translation: (å) gifta ; (å) gifta ; (å) gifta ;
+             (å) gifta ; (å) gifta ; (å) gifta
 
 
 
 Norwegian
 =========
 
-Translation: å gifte ; å gifte ; å gifte ;
-             å gifte ; å gifte ; å gifte
+Translation: (å) gifte ; (å) gifte ; (å) gifte ;
+             (å) gifte ; (å) gifte ; (å) gifte
 
 
 
 Swedish
 =======
 
-Translation: att gifta ; att gifta ; att gifta ;
-             att gifta ; att gifta ; att gifta
+Translation: (att) gifta ; (att) gifta ; (att) gifta ;
+             (att) gifta ; (att) gifta ; (att) gifta
 
 
 
