@@ -11,40 +11,40 @@ Grammar:   Verb ; Infinitive
 English
 =======
 
-Translation: to miss ; to miss ; to miss ;
-             to miss ; to miss ; to miss
+Translation: (to) miss ; (to) miss ; (to) miss ;
+             (to) miss ; (to) miss ; (to) miss
 
 
 
 German
 ======
 
-Translation: zu vermissen ; zu vermissen ; zu vermissen ;
-             zu vermissen ; zu vermissen ; zu vermissen
+Translation: (zu) vermissen ; (zu) vermissen ; (zu) vermissen ;
+             (zu) vermissen ; (zu) vermissen ; (zu) vermissen
 
 
 
 New Norwegian
 =============
 
-Translation: å sakna ; å sakna ; å sakna ;
-             å sakna ; å sakna ; å sakna
+Translation: (å) sakna ; (å) sakna ; (å) sakna ;
+             (å) sakna ; (å) sakna ; (å) sakna
 
 
 
 Norwegian
 =========
 
-Translation: å savne ; å savne ; å savne ;
-             å savne ; å savne ; å savne
+Translation: (å) savne ; (å) savne ; (å) savne ;
+             (å) savne ; (å) savne ; (å) savne
 
 
 
 Swedish
 =======
 
-Translation: att sakna ; att sakna ; att sakna ;
-             att sakna ; att sakna ; att sakna
+Translation: (att) sakna ; (att) sakna ; (att) sakna ;
+             (att) sakna ; (att) sakna ; (att) sakna
 
 
 
