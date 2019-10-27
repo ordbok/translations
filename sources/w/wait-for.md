@@ -11,40 +11,40 @@ Grammar:   Verb ; Infinitive
 English
 =======
 
-Translation: wait for (…) ; wait for (…) ; wait for (…) ;
-             wait for (…) ; wait for (…) ; wait for (…)
+Translation: (to) wait for (…) ; (to) wait for (…) ; (to) wait for (…) ;
+             (to) wait for (…) ; (to) wait for (…) ; (to) wait for (…)
 
 
 
 German
 ======
 
-Translation: auf (…) warten ; auf (…) warten ; auf (…) warten ;
-             auf (…) warten ; auf (…) warten ; auf (…) warten
+Translation: auf (…) (zu) warten ; auf (…) (zu) warten ; auf (…) (zu) warten ;
+             auf (…) (zu) warten ; auf (…) (zu) warten ; auf (…) (zu) warten
 
 
 
 New Norwegian
 =============
 
-Translation: venta på (…) ; venta på (…) ; venta på (…) ;
-             venta på (…) ; venta på (…) ; venta på (…)
+Translation: (å) venta på (…) ; (å) venta på (…) ; (å) venta på (…) ;
+             (å) venta på (…) ; (å) venta på (…) ; (å) venta på (…)
 
 
 
 Norwegian
 =========
 
-Translation: vente på (…) ; vente på (…) ; vente på (…) ;
-             vente på (…) ; vente på (…) ; vente på (…)
+Translation: (å) vente på (…) ; (å) vente på (…) ; (å) vente på (…) ;
+             (å) vente på (…) ; (å) vente på (…) ; (å) vente på (…)
 
 
 
 Swedish
 =======
 
-Translation: vänta på (…) ; vänta på (…) ; vänta på (…) ;
-             vänta på (…) ; vänta på (…) ; vänta på (…)
+Translation: (att) vänta på (…) ; (att) vänta på (…) ; (att) vänta på (…) ;
+             (att) vänta på (…) ; (att) vänta på (…) ; (att) vänta på (…)
 
 
 
