@@ -11,40 +11,40 @@ Grammar:   Verb ; Infinitive
 English
 =======
 
-Translation: wait ; wait ; wait ;
-             wait ; wait ; wait
+Translation: (to) wait ; (to) wait ; (to) wait ;
+             (to) wait ; (to) wait ; (to) wait
 
 
 
 German
 ======
 
-Translation: warten ; warten ; warten ;
-             warten ; warten ; warten
+Translation: (zu) warten ; (zu) warten ; (zu) warten ;
+             (zu) warten ; (zu) warten ; (zu) warten
 
 
 
 New Norwegian
 =============
 
-Translation: venta ; venta ; venta ;
-             venta ; venta ; venta
+Translation: (å) venta ; (å) venta ; (å) venta ;
+             (å) venta ; (å) venta ; (å) venta
 
 
 
 Norwegian
 =========
 
-Translation: vente ; vente ; vente ;
-             vente ; vente ; vente
+Translation: (å) vente ; (å) vente ; (å) vente ;
+             (å) vente ; (å) vente ; (å) vente
 
 
 
 Swedish
 =======
 
-Translation: vänta ; vänta ; vänta ;
-             vänta ; vänta ; vänta
+Translation: (att) vänta ; (att) vänta ; (att) vänta ;
+             (att) vänta ; (att) vänta ; (att) vänta
 
 
 
