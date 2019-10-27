@@ -13,40 +13,40 @@ Relation:  translate
 English
 =======
 
-Translation: to translate ; to translate ; to translate ;
-             to translate ; to translate ; to translate
+Translation: (to) translate ; (to) translate ; (to) translate ;
+             (to) translate ; (to) translate ; (to) translate
 
 
 
 German
 ======
 
-Translation: zu übersetzen ; zu übersetzen ; zu übersetzen ;
-             zu übersetzen ; zu übersetzen ; zu übersetzen
+Translation: (zu) übersetzen ; (zu) übersetzen ; (zu) übersetzen ;
+             (zu) übersetzen ; (zu) übersetzen ; (zu) übersetzen
 
 
 
 New Norwegian
 =============
 
-Translation: å omsetje ; å omsetje ; å omsetje ;
-             å omsetje ; å omsetje ; å omsetje
+Translation: (å) omsetje ; (å) omsetje ; (å) omsetje ;
+             (å) omsetje ; (å) omsetje ; (å) omsetje
 
 
 
 Norwegian
 =========
 
-Translation: å oversette ; å oversette ; å oversette ;
-             å oversette ; å oversette ; å oversette
+Translation: (å) oversette ; (å) oversette ; (å) oversette ;
+             (å) oversette ; (å) oversette ; (å) oversette
 
 
 
 Swedish
 =======
 
-Translation: att översätta ; att översätta ; att översätta ;
-             att översätta ; att översätta ; att översätta
+Translation: (att) översätta ; (att) översätta ; (att) översätta ;
+             (att) översätta ; (att) översätta ; (att) översätta
 
 
 
