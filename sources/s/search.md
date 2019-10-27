@@ -67,40 +67,40 @@ Grammar:   Verb ; Infinitive
 English
 =======
 
-Translation: to search ; to search ; to search ;
-             to search ; to search ; to search
+Translation: (to) search ; (to) search ; (to) search ;
+             (to) search ; (to) search ; (to) search
 
 
 
 German
 ======
 
-Translation: zu suchen ; zu suchen ; zu suchen ;
-             zu suchen ; zu suchen ; zu suchen
+Translation: (zu) suchen ; (zu) suchen ; (zu) suchen ;
+             (zu) suchen ; (zu) suchen ; (zu) suchen
 
 
 
 New Norwegian
 =============
 
-Translation: å søka ; å søka ; å søka ;
-             å søka ; å søka ; å søka
+Translation: (å) søka ; (å) søka ; (å) søka ;
+             (å) søka ; (å) søka ; (å) søka
 
 
 
 Norwegian
 =========
 
-Translation: å søke ; å søke ; å søke ;
-             å søke ; å søke ; å søke
+Translation: (å) søke ; (å) søke ; (å) søke ;
+             (å) søke ; (å) søke ; (å) søke
 
 
 
 Swedish
 =======
 
-Translation: att söka ; att söka ; att söka ;
-             att söka ; att söka ; att söka
+Translation: (att) söka ; (att) söka ; (att) söka ;
+             (att) söka ; (att) söka ; (att) söka
 
 
 
