@@ -39,7 +39,7 @@ Grammar:     Masculine
 Norwegian
 =========
 
-Translation: (ei) vert ; verten ; verter ; vertene
+Translation: (en) vert ; verten ; verter ; vertene
 
 Grammar:     Masculine
 
