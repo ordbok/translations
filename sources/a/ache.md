@@ -19,7 +19,7 @@ Grammar:     Neuter
 German
 ======
 
-Translation: (eit) Weh ; das Weh ; Wehen ; die Wehen
+Translation: (ein) Weh ; das Weh ; Wehen ; die Wehen
 
 Grammar:     Neuter
 
