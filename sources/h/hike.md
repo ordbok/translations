@@ -67,40 +67,40 @@ Grammar:   Verb ; Infinitive
 English
 =======
 
-Translation: to hike ; to hike ; to hike ;
-             to hike ; to hike ; to hike
+Translation: (to) hike ; (to) hike ; (to) hike ;
+             (to) hike ; (to) hike ; (to) hike
 
 
 
 German
 ======
 
-Translation: zu wandern ; zu wandern ; zu wandern ;
-             zu wandern ; zu wandern ; zu wandern
+Translation: (zu) wandern ; (zu) wandern ; (zu) wandern ;
+             (zu) wandern ; (zu) wandern ; (zu) wandern
 
 
 
 New Norwegian
 =============
 
-Translation: å vandra ; å vandra ; å vandra ;
-             å vandra ; å vandra ; å vandra
+Translation: (å) vandra ; (å) vandra ; (å) vandra ;
+             (å) vandra ; (å) vandra ; (å) vandra
 
 
 
 Norwegian
 =========
 
-Translation: å vandre ; å vandre ; å vandre ;
-             å vandre ; å vandre ; å vandre
+Translation: (å) vandre ; (å) vandre ; (å) vandre ;
+             (å) vandre ; (å) vandre ; (å) vandre
 
 
 
 Swedish
 =======
 
-Translation: att vandra ; att vandra ; att vandra ;
-             att vandra ; att vandra ; att vandra
+Translation: (att) vandra ; (att) vandra ; (att) vandra ;
+             (att) vandra ; (att) vandra ; (att) vandra
 
 
 
