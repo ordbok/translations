@@ -21,7 +21,7 @@ German
 
 Translation: (eine) Schokolade ; die Schokolade ; Schokoladen ; die Schokoladen
 
-Grammar:     Neuter
+Grammar:     Feminine
 
 
 
