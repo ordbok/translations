@@ -10,32 +10,32 @@ Grammar:   Pronoun ; Indefinite
 English
 =======
 
-Translation: - ; - ; what ; -
+Translation: what ; what ; what ; what
 
 
 
 German
 ======
 
-Translation: - ; - ; was ; -
+Translation: was ; was ; was ; was
 
 
 
 New Norwegian
 =============
 
-Translation: - ; - ; kva ; -
+Translation: kva ; kva ; kva ; kva
 
 
 
 Norwegian
 =========
 
-Translation: - ; - ; hva ; -
+Translation: hva ; hva ; hva ; hva
 
 
 
 Swedish
 =======
 
-Translation: - ; - ; vad ; -
+Translation: vad ; vad ; vad ; vad
