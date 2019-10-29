@@ -1,6 +1,62 @@
 Meta
 ====
 
+Structure: Singular, Indefinite ; Singular, Definite ; Plural, Indefinite ; Plural, Definite
+
+Grammar:   Noun
+
+
+
+English
+=======
+
+Translation: (a) can ; the can ; cans ; the cans
+
+Grammar:     Neuter
+
+
+
+German
+======
+
+Translation: (eine) Dose ; die Dose ; Dosen ; die Dosen
+
+Grammar:     Feminine
+
+
+
+New Norwegian
+=============
+
+Translation: (ein) boks ; boksen ; boksar ; boksane
+
+Grammar:     Masculine
+
+
+
+Norwegian
+=========
+
+Translation: (en) boks ; boksen ; bokser ; boksene
+
+Grammar:     Masculine
+
+
+
+Swedish
+=======
+
+Translation: (en) burk ; burken ; burkar ; burkarna
+
+Grammar:     Common
+
+
+
+--------------------------------------------------------------------------------
+
+Meta
+====
+
 Structure: Singular, First Person ; Singular, Second Person ; Singular, Third Person ;
            Plural, First Person   ; Plural, Second Person   ; Plural, Third Person
 
