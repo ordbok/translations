@@ -1,41 +1,39 @@
 Meta
 ====
 
-Structure: Singular, Predicative, Feminine ; Singular, Predicative, Masculine ; Singular, Predicative, Neuter ; Plural, Predicative, Common
-
-Grammar:   Adjective ; Positive
+Grammar: Particle
 
 
 
 English
 =======
 
-Translation: again ; again ; again ; again
+Translation: again
 
 
 
 German
 ======
 
-Translation: wieder ; wieder ; wieder ; wieder
+Translation: wieder
 
 
 
 New Norwegian
 =============
 
-Translation: igjen ; igjen ; igjen ; igjen
+Translation: igjen
 
 
 
 Norwegian
 =========
 
-Translation: igjen ; igjen ; igjen ; igjen
+Translation: igjen
 
 
 
 Swedish
 =======
 
-Translation: igen ; igen ; igen ; igen
+Translation: igen
