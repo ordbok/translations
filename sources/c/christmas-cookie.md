@@ -30,7 +30,7 @@ Grammar:     Neuter
 New Norwegian
 =============
 
-Translation: (ei) julekake ; julekaka ; julekaker ; julekakene
+Translation: (ei) jolekake ; jolekaka ; jolekaker ; jolekakene
 
 Grammar:     Feminine
 
