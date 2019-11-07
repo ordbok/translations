@@ -51,6 +51,51 @@ Meta
 
 Structure: Singular, Feminine ; Singular, Masculine ; Singular, Neuter ; Plural, Common
 
+Grammar:   Determiner ; Third Person ; Singular
+
+
+
+English
+=======
+
+Translation: her ; her ; her ; her
+
+
+
+German
+======
+
+Translation: ihre ; ihr ; ihr ; ihre
+
+
+
+New Norwegian
+=============
+
+Translation: ho si ; ho sin ; ho sitt ; ho sine
+
+
+
+Norwegian
+=========
+
+Translation: hun si ; hun sin ; hun ; sitt ; hun sine
+
+
+Swedish
+=======
+
+Translation: henne ; henne ; henne ; henne
+
+
+
+--------------------------------------------------------------------------------
+
+Meta
+====
+
+Structure: Singular, Feminine ; Singular, Masculine ; Singular, Neuter ; Plural, Common
+
 Grammar:   Pronoun ; Third Person ; Singular
 
 Relation:  me ; you ; her ; him ; it ; us ; you ; them
