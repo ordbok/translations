@@ -6,6 +6,8 @@ Structure: Singular, First Person ; Singular, Second Person ; Singular, Third Pe
 
 Grammar:   Verb ; Infinitive
 
+Relation:  get ; got
+
 
 
 English
