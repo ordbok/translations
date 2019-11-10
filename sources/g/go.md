@@ -6,6 +6,8 @@ Structure: Singular, First Person ; Singular, Second Person ; Singular, Third Pe
 
 Grammar:   Verb ; Infinitive
 
+Relation:  go ; went
+
 
 
 English
@@ -57,6 +59,8 @@ Structure: Singular, First Person ; Singular, Second Person ; Singular, Third Pe
            Plural, First Person   ; Plural, Second Person   ; Plural, Third Person
 
 Grammar:   Verb ; Present
+
+Relation:  go ; went
 
 
 
