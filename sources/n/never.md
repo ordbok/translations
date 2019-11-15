@@ -1,41 +1,39 @@
 Meta
 ====
 
-Structure: Singular, Predicative, Feminine ; Singular, Predicative, Masculine ; Singular, Predicative, Neuter ; Plural, Predicative, Common
-
-Grammar:   Adjective ; Positive
+Grammar: Particle
 
 
 
 English
 =======
 
-Translation: never ; never ; never ; never
+Translation: never
 
 
 
 German
 ======
 
-Translation: niemals ; niemals ; niemals ; niemals
+Translation: niemals
 
 
 
 New Norwegian
 =============
 
-Translation: aldri ; aldri ; aldri ; aldri
+Translation: aldri
 
 
 
 Norwegian
 =========
 
-Translation: aldri ; aldri ; aldri ; aldri
+Translation: aldri
 
 
 
 Swedish
 =======
 
-Translation: aldrig ; aldrig ; aldrig ; aldrig
+Translation: aldrig
