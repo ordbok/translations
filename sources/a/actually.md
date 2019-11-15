@@ -1,41 +1,39 @@
 Meta
 ====
 
-Structure: Singular, Predicative, Feminine ; Singular, Predicative, Masculine ; Singular, Predicative, Neuter ; Plural, Predicative, Common
-
-Grammar:   Adjective ; Positive
+Grammar: Particle
 
 
 
 English
 =======
 
-Translation: actually ; actually ; actually ; actually
+Translation: actually
 
 
 
 German
 ======
 
-Translation: tatsächlich ; tatsächlich ; tatsächlich ; tatsächlich
+Translation: tatsächlich
 
 
 
 New Norwegian
 =============
 
-Translation: faktisk ; faktisk ; faktisk ; faktiske
+Translation: faktisk
 
 
 
 Norwegian
 =========
 
-Translation: faktisk ; faktisk ; faktisk ; faktiske
+Translation: faktisk
 
 
 
 Swedish
 =======
 
-Translation: faktiskt ; faktiskt ; faktiskt ; faktiskt
+Translation: faktiskt
