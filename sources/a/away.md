@@ -1,41 +1,39 @@
 Meta
 ====
 
-Structure: Singular, Predicative, Feminine ; Singular, Predicative, Masculine ; Singular, Predicative, Neuter ; Plural, Predicative, Common
-
-Grammar:   Adjective ; Positive
+Grammar: Particle
 
 
 
 English
 =======
 
-Translation: away ; away ; away ; away
+Translation: away
 
 
 
 German
 ======
 
-Translation: weg ; weg ; weg ; weg
+Translation: weg
 
 
 
 New Norwegian
 =============
 
-Translation: vekk ; vekk ; vekk ; vekk
+Translation: vekk
 
 
 
 Norwegian
 =========
 
-Translation: borte ; borte ; borte ; borte
+Translation: borte
 
 
 
 Swedish
 =======
 
-Translation: bort ; bort ; bort ; bort
+Translation: bort
