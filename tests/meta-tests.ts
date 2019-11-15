@@ -30,9 +30,11 @@ const ADJECTIVE_GRAMMAR = [
 ];
 
 const ADJECTIVE_STRUCTURE = {
-    4: [
+    8: [
         'Singular, Predicative, Feminine', 'Singular, Predicative, Masculine',
-        'Singular, Predicative, Neuter', 'Plural, Predicative, Common'
+        'Singular, Predicative, Neuter', 'Plural, Predicative, Common',
+        'Singular, Indefinite, Feminine', 'Singular, Indefinite, Masculine',
+        'Singular, Indefinite, Neuter', 'Plural, Indefinite, Common'
     ],
     12: [
         'Singular, Predicative, Feminine', 'Singular, Predicative, Masculine',
@@ -175,15 +177,15 @@ function testAdjective (grammar: Array<string>, structure: Array<string>): void
     );
 
     strictEqual(
-        structure.length === 4 || structure.length === 12,
+        structure.length === 8 || structure.length === 12,
         true,
         'Adjective structure is invalid: ' + structure.join(' ; ')
     );
 
-    if (structure.length === 4) {
+    if (structure.length === 8) {
         deepStrictEqual(
             structure,
-            ADJECTIVE_STRUCTURE[4],
+            ADJECTIVE_STRUCTURE[8],
             'Adjective structure is invalid: ' + structure.join(' ; ')
         );
     }
