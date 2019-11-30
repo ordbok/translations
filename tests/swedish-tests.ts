@@ -104,17 +104,28 @@ function testNoun (translation: Array<string>, grammar: Array<string>)
  */
 function testVerb (translation: Array<string>, grammar: Array<string>)
 {
+    const firstPersonSingular = translation[0];
+    const pronouns = [
+        /(^| )mig( |$)/,
+        /(^| )dig( |$)/,
+        /(^| )sig( |$)/,
+        /(^| )oss( |$)/,
+        /(^| )er( |$)/,
+        /(^| )sig( |$)/
+    ];
+
     switch (grammar[1])
     {
         default:
-            const firstPersonSingular = translation[0];
-            for (let grammarCase of translation)
-            {
-                strictEqual(
-                    grammarCase, firstPersonSingular,
-                    `Verb's translated grammar cases should be the same in Swedish.`
-                );
-            }
+            translation.forEach(
+                function (translationCase: string, index: number): void
+                {
+                    strictEqual(
+                        translationCase.replace(pronouns[index], '$1mig$2'), firstPersonSingular,
+                        `Verb's translated grammar cases should be the same in Swedish.`
+                    );
+                }
+            );
             break;
 
         case 'Infinitive':
@@ -123,6 +134,10 @@ function testVerb (translation: Array<string>, grammar: Array<string>)
                 strictEqual(
                     translationCase.startsWith('(att)'), true,
                     `Verb's infinitive should start with "(att)" in Swedish.`
+                );
+                strictEqual(
+                    translationCase, firstPersonSingular,
+                    `Verb's translated grammar cases should be the same in Swedish infinitive.`
                 );
             }
             break;
