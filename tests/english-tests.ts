@@ -132,6 +132,10 @@ function testVerb (translation: Array<string>, grammar: Array<string>)
                         thirdPersonSingular.endsWith(firstPersonSingular + 'es')
                     ) ||
                     (
+                        firstPersonSingular.endsWith('y') &&
+                        thirdPersonSingular.endsWith(firstPersonSingular.substr(0, -1) + 'ies')
+                    ) ||
+                    (
                         firstPersonSingular.endsWith('ve') &&
                         thirdPersonSingular.endsWith(firstPersonSingular.substr(0, -2) + 's')
                     ) ||
