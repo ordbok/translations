@@ -27,6 +27,14 @@ import * as SwedishTests from './swedish-tests';
 
 /* *
  *
+ *  Constants
+ *
+ * */
+
+const IS_VERBOSE = process.argv.includes('--verbose');
+
+/* *
+ *
  *  Variables
  *
  * */
@@ -80,9 +88,18 @@ function testFile (filePath: string): void
 
         pageCounter += markdown.pages.length;
     }
+    catch (error)
+    {
+        console.log(`Failure in ${filePath}`);
+
+        throw error;
+    }
     finally
     {
-        console.log('Tested', filePath);
+        if (IS_VERBOSE)
+        {
+            console.log('Tested', filePath);
+        }
     }
 }
 
