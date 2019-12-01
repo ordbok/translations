@@ -12,7 +12,7 @@ English
 
 Translation: (a) hairdresser ; the hairdresser ; hairdressers ; the hairdressers
 
-Grammsr:     Common
+Grammar:     Common
 
 
 German
@@ -67,7 +67,7 @@ English
 
 Translation: (a) hairdresser ; the hairdresser ; hairdressers ; the hairdressers
 
-Grammsr:     Common
+Grammar:     Common
 
 
 German
