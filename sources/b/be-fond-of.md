@@ -19,8 +19,8 @@ Translation: (to) be fond of (…) ; (to) be fond of (…) ; (to) be fond of (�
 German
 ======
 
-Translation: in (…) verliebt (zu) sein ; in (…) verliebt (zu) sein ; in (…) verliebt (zu) sein ;
-             in (…) verliebt (zu) sein ; in (…) verliebt (zu) sein ; in (…) verliebt (zu) sein
+Translation: (…) gern (zu) haben ; (…) gern (zu) haben ; (…) gern (zu) haben ;
+             (…) gern (zu) haben ; (…) gern (zu) haben ; (…) gern (zu) haben
 
 
 
@@ -43,8 +43,8 @@ Translation: (å) være glad i (…) ; (å) være glad i (…) ; (å) være glad
 Swedish
 =======
 
-Translation: (att) vara förtjust i (…) ; (att) vara förtjust i (…) ; (att) vara förtjust i (…) ;
-             (att) vara förtjust i (…) ; (att) vara förtjust i (…) ; (att) vara förtjust i (…)
+Translation: (att) gilla ; (att) gilla ; (att) gilla ;
+             (att) gilla ; (att) gilla ; (att) gilla
 
 
 
@@ -71,8 +71,8 @@ Translation: am fond of (…)  ; are fond of (…) ; is fond of (…)  ;
 German
 ======
 
-Translation: bin verliebt in (…)  ; bist verliebt in (…) ; ist verliebt in (…)  ;
-             sind verliebt in (…) ; seid verliebt in (…) ; sind verliebt in (…)
+Translation: habe (…) gern  ; hast (…) gern ; hat (…) gern   ;
+             haben (…) gern ; habt (…) gern ; haben (…) gern
 
 
 
@@ -93,5 +93,5 @@ Translation: er glad i (…) ; er glad i (…) ; er glad i (…) ;
 Swedish
 =======
 
-Translation: är förtjust i (…) ; är förtjust i (…) ; är förtjust i (…) ;
-             är förtjust i (…) ; är förtjust i (…) ; är förtjust i (…)
+Translation: gillar (…) ; gillar (…) ; gillar (…) ;
+             gillar (…) ; gillar (…) ; gillar (…)
