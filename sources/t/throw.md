@@ -1,6 +1,62 @@
 Meta
 ====
 
+Structure: Singular, Indefinite ; Singular, Definite ; Plural, Indefinite ; Plural, Definite
+
+Grammar:   Noun
+
+
+
+English
+=======
+
+Translation: (a) throw ; the throw ; throws ; the throws
+
+Grammar:     Neuter
+
+
+
+German
+======
+
+Translation: (ein) Wurf ; der Wurf ; Würfe ; die Würfe
+
+Grammar:     Masculine
+
+
+
+New Norwegian
+=============
+
+Translation: (eit) kast ; kastet ; kast ; kasta
+
+Grammar:     Neuter
+
+
+
+Norwegian
+=========
+
+Translation: (et) kast ; kastet ; kast ; kastene
+
+Grammar:     Neuter
+
+
+
+Swedish
+=======
+
+Translation: (ett) kast ; kastet ; kast ; kasten
+
+Grammar:     Neuter
+
+
+
+--------------------------------------------------------------------------------
+
+Meta
+====
+
 Structure: Singular, First Person ; Singular, Second Person ; Singular, Third Person ;
            Plural, First Person   ; Plural, Second Person   ; Plural, Third Person
 
