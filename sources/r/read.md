@@ -97,3 +97,55 @@ Swedish
 
 Translation: läser ; läser ; läser ;
              läser ; läser ; läser
+
+
+
+--------------------------------------------------------------------------------
+
+Meta
+====
+
+Structure: Singular, First Person ; Singular, Second Person ; Singular, Third Person ;
+           Plural, First Person   ; Plural, Second Person   ; Plural, Third Person
+
+Grammar:   Verb ; Past
+
+
+
+English
+=======
+
+Translation: read ; read ; read ;
+             read ; read ; read
+
+
+
+German
+======
+
+Translation: las   ; last ; las   ;
+             lasen ; last ; lasen
+
+
+
+New Norwegian
+=============
+
+Translation: las ; las ; las ;
+             las ; las ; las
+
+
+
+Norwegian
+=========
+
+Translation: leste ; leste ; leste ;
+             leste ; leste ; leste
+
+
+
+Swedish
+=======
+
+Translation: läste ; läste ; läste ;
+             läste ; läste ; läste
