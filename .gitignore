@@ -1,4 +1,5 @@
-tests_build
+.DS_Store
+tests_build/
 
 # Logs
 logs
